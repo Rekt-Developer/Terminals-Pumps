@@ -2,9 +2,11 @@ import requests
 import random
 import os
 import json
+import base64
 from datetime import datetime, timedelta
 from requests_oauthlib import OAuth1Session
-import time
+import tempfile
+from urllib.parse import urlparse
 
 # Twitter API configurations for both accounts
 TWITTER_ACCOUNTS = {
@@ -22,10 +24,20 @@ TWITTER_ACCOUNTS = {
     }
 }
 
+# API endpoints
 API_URL_POST = 'https://api.twitter.com/2/tweets'
+API_MEDIA_UPLOAD = 'https://upload.twitter.com/1.1/media/upload.json'
+
+# Repository information
 REPO_OWNER = 'likhonisaac'
 REPO_NAME = 'Terminals-Pumps'
 HISTORY_FILE = 'post_history.json'
+IMAGE_FILES = [
+    '2thUENv9.jpg',
+    'GahDNdIbEAEexOA.jpg',
+    'images.jpg',
+    'solana_4-1-1.jpg'
+]
 
 class TwitterBot:
     def __init__(self):
@@ -58,7 +70,49 @@ class TwitterBot:
             print(f"Error loading posts: {e}")
             return []
 
-    def post_tweet(self, content, account_key):
+    def download_random_image(self):
+        """Download a random image from the repository."""
+        try:
+            image_file = random.choice(IMAGE_FILES)
+            image_url = f'https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/main/images/{image_file}'
+            
+            response = requests.get(image_url)
+            response.raise_for_status()
+            
+            # Create a temporary file
+            temp_file = tempfile.NamedTemporaryFile(delete=False, suffix='.jpg')
+            temp_file.write(response.content)
+            temp_file.close()
+            
+            print(f"Successfully downloaded image: {image_file}")
+            return temp_file.name
+        except Exception as e:
+            print(f"Error downloading image: {e}")
+            return None
+
+    def upload_media(self, image_path, auth):
+        """Upload media to Twitter and return the media ID."""
+        try:
+            # Read the image file
+            with open(image_path, 'rb') as image_file:
+                image_data = image_file.read()
+            
+            # Upload the image
+            response = auth.post(API_MEDIA_UPLOAD, files={'media': image_data})
+            response.raise_for_status()
+            
+            media_id = response.json()['media_id_string']
+            print(f"Successfully uploaded media with ID: {media_id}")
+            return media_id
+        except Exception as e:
+            print(f"Error uploading media: {e}")
+            return None
+        finally:
+            # Clean up the temporary file
+            if image_path and os.path.exists(image_path):
+                os.unlink(image_path)
+
+    def post_tweet(self, content, account_key, media_id=None):
         try:
             account = TWITTER_ACCOUNTS[account_key]
             auth = OAuth1Session(
@@ -68,12 +122,17 @@ class TwitterBot:
                 resource_owner_secret=account['access_token_secret']
             )
             
-            response = auth.post(API_URL_POST, json={'text': content})
+            # Prepare tweet payload
+            payload = {'text': content}
+            if media_id:
+                payload['media'] = {'media_ids': [media_id]}
+            
+            response = auth.post(API_URL_POST, json=payload)
             response.raise_for_status()
-            return response
+            return response, auth
         except Exception as e:
             print(f"Error posting tweet: {e}")
-            return None
+            return None, None
 
     def is_recently_posted(self, post_id, account_key):
         try:
@@ -109,6 +168,11 @@ class TwitterBot:
             print(f"No available posts for {account_key} at this time.")
             return
 
+        # Download random image
+        image_path = self.download_random_image()
+        if not image_path:
+            print("Failed to download image, proceeding without media")
+
         # Select and post tweet
         post_to_tweet = random.choice(available_posts)
         content = post_to_tweet['content']
@@ -119,7 +183,20 @@ class TwitterBot:
         content_with_timestamp = f"{content}\n\nPosted at: {timestamp}"
 
         print(f"Attempting to post tweet {post_id} from {account_key}")
-        response = self.post_tweet(content_with_timestamp, account_key)
+        
+        media_id = None
+        if image_path:
+            # First create OAuth session for media upload
+            account = TWITTER_ACCOUNTS[account_key]
+            auth = OAuth1Session(
+                account['consumer_key'],
+                client_secret=account['consumer_secret'],
+                resource_owner_key=account['access_token'],
+                resource_owner_secret=account['access_token_secret']
+            )
+            media_id = self.upload_media(image_path, auth)
+
+        response, _ = self.post_tweet(content_with_timestamp, account_key, media_id)
         
         if response and response.status_code in (200, 201):
             print(f"Successfully posted tweet from {account_key}: {post_id}")
