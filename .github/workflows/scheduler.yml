@@ -2,15 +2,14 @@ name: Twitter Bot Scheduler
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 * * * *'  # Runs every hour
 
 jobs:
   post-tweets:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
@@ -20,7 +19,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.x'  # You can specify a specific version or use '3.x' for the latest
 
     - name: Install dependencies
       run: |
@@ -36,13 +35,3 @@ jobs:
         ACCESS_TOKEN2: ${{ secrets.ACCESS_TOKEN2 }}
         ACCESS_SECRET2: ${{ secrets.ACCESS_SECRET2 }}
       run: python app.py
-
-    - name: Commit and push if there are changes
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        if [[ -f post_history.json ]]; then
-          git add post_history.json
-          git commit -m "Update post history [skip ci]" || echo "No changes to commit"
-          git push
-        fi
