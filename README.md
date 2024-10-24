@@ -1,142 +1,108 @@
-# Terminal Pumps Bot 🤖
+# Terminal Pumps Bot
 
-[![Twitter Bot](https://github.com/likhonisaac/Terminals-Pumps/actions/workflows/scheduler.yml)
+[![Master Crypto Trading](https://img.shields.io/badge/Master_Crypto_Trading-blue)](https://github.com/likhonisaac/Terminals-Pumps)
 
-Learn to master crypto trading through our automated trading signals and educational content. Join our community to get real-time updates and trading opportunities! 🚀
+Master crypto trading with our automated signals and educational content.
 
-## 🌟 Features
+## Features
 
-- **Automated Trading Signals**: Regular updates on potential trading opportunities
-- **Educational Content**: Learn trading strategies and market analysis
-- **Multi-Platform Integration**: Available on both Telegram and Twitter
-- **Real-time Updates**: Get instant notifications about market movements
-- **Community-Driven**: Join a growing community of traders and learners
+- [![Automated Signals](https://img.shields.io/badge/Automated_Signals-green)](https://github.com/likhonisaac/Terminals-Pumps)
+- [![Educational Content](https://img.shields.io/badge/Educational_Content-orange)](https://github.com/likhonisaac/Terminals-Pumps)
+- [![Multi-Platform](https://img.shields.io/badge/Multi--Platform-blueviolet)](https://github.com/likhonisaac/Terminals-Pumps)
+- [![Real-time Updates](https://img.shields.io/badge/Real--time_Updates-success)](https://github.com/likhonisaac/Terminals-Pumps)
+- [![Community-Driven](https://img.shields.io/badge/Community--Driven-important)](https://github.com/likhonisaac/Terminals-Pumps)
 
-## 🔗 Connect With Us
+## Connect
 
-- **Telegram Bot**: [t.me/TerminalPumpsBot](https://t.me/TerminalPumpsBot)
-- **Twitter**: Follow [@likhondocs](https://twitter.com/likhondocs) & [@CrypNewsBot](https://twitter.com/CrypNewsBot)
+- [![Telegram](https://img.shields.io/badge/Telegram-blue.svg?logo=telegram&logoColor=white)](https://t.me/TerminalPumpsBot)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/likhondocs) & [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CrypNewsBot)
 
-## 🎯 What We Offer
+## What We Offer
 
-- Regular trading signals and market updates
-- Educational content for beginners and advanced traders
-- Community discussions and trading insights
-- Automated alerts for market opportunities
-- Detailed technical analysis and market trends
+- Regular signals and updates
+- Educational content for all levels
+- Community discussions
+- Automated market alerts
+- Detailed analysis and trends
 
-## 🤖 Bot Features
+## Bot Features
 
-Our Twitter bot automatically posts:
-- Trading signals and market updates
-- Educational content
+- Trading signals and updates
+- Educational posts
 - Giveaway announcements
 - Market analysis
 - Community updates
 
-Each post includes:
-- Detailed market information
-- Visual content (charts/images)
-- Timestamp for accuracy
-- Action steps for traders
-
-## 🛠️ Technical Implementation
+## Technical
 
 ### Requirements
 
-```bash
+```
 pip install requests requests_oauthlib
 ```
 
 ### Environment Variables
 
-The bot requires the following environment variables:
 ```
-CONSUMER_KEY=your_twitter_consumer_key
-CONSUMER_SECRET=your_twitter_consumer_secret
-ACCESS_TOKEN=your_twitter_access_token
-ACCESS_SECRET=your_twitter_access_secret
-ACCESS_TOKEN2=your_second_account_access_token
-ACCESS_SECRET2=your_second_account_access_secret
+CONSUMER_KEY=your_key
+CONSUMER_SECRET=your_secret
+ACCESS_TOKEN=your_token
+ACCESS_SECRET=your_secret
+ACCESS_TOKEN2=second_account_token
+ACCESS_SECRET2=second_account_secret
 ```
 
 ### Project Structure
 
 ```
 Terminals-Pumps/
-├── app.py              # Main bot implementation
+├── app.py
 ├── post/
-│   └── post.json      # Tweet content database
-├── images/            # Image assets for tweets
-│   ├── 2thUENv9.jpg
-│   ├── GahDNdIbEAEexOA.jpg
-│   ├── images.jpg
-│   └── solana_4-1-1.jpg
+│   └── post.json
+├── images/
+│   ├── ...
 └── .github/
     └── workflows/
-        └── twitter-bot.yml  # GitHub Actions workflow
+        └── twitter-bot.yml
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/likhonisaac/Terminals-Pumps.git
-   cd Terminals-Pumps
-   ```
+1. Clone: `git clone https://github.com/likhonisaac/Terminals-Pumps.git`
+2. Install: `pip install -r requirements.txt`
+3. Set Up: Add API credentials, configure variables.
+4. Run: `python app.py`
 
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
+## Future Features
 
-3. **Set Up Environment Variables**
-   - Add your Twitter API credentials to repository secrets
-   - Configure other required environment variables
+- Enhanced analysis
+- More trading pairs
+- Advanced indicators
+- Improved community
+- Extended content
 
-4. **Run the Bot**
-   ```bash
-   python app.py
-   ```
+## Contributing
 
-## 📊 Features in Development
+Fork, create a branch, commit changes, push, open a PR.
 
-- Enhanced market analysis
-- More trading pairs coverage
-- Advanced technical indicators
-- Improved community features
-- Extended educational content
+## License
 
-## 🤝 Contributing
+MIT License
 
-We welcome contributions! Here's how you can help:
+## Disclaimer
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Crypto trading is risky. Research and invest wisely.
 
-## 📝 License
+## Contact
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Telegram: [Link](https://t.me/TerminalPumpsBot)
+- Twitter: [@likhondocs](https://twitter.com/likhondocs)
+- News: [@CrypNewsBot](https://twitter.com/CrypNewsBot)
 
-## ⚠️ Disclaimer
+## Acknowledgments
 
-Trading cryptocurrencies involves significant risk and may not be suitable for everyone. Past performance is not indicative of future results. Always conduct your own research and never trade more than you can afford to lose.
-
-## 📮 Contact
-
-- Join our Telegram: [t.me/TerminalPumpsBot](https://t.me/TerminalPumpsBot)
-- Follow us on Twitter: [@likhondocs](https://twitter.com/likhondocs)
-- Follow our News Bot: [@CrypNewsBot](https://twitter.com/CrypNewsBot)
-
-## 🙏 Acknowledgments
-
-- Thanks to our amazing community of traders
-- Special thanks to all contributors
-- Powered by Twitter API and Telegram Bot API
+Thanks to our community and contributors. Powered by Twitter and Telegram APIs.
 
 ---
 
-Made with ❤️ by the Terminal Pumps team
+Made with ❤️ by Terminal Pumps.
