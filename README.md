@@ -1,6 +1,6 @@
 # Terminal Pumps Bot
 
-[![Master Crypto Trading](https://img.shields.io/badge/Master_Crypto_Trading-blue)](https://github.com/likhonisaac/Terminals-Pumps)
+[![Twitter Bot](https://github.com/likhonisaac/Terminals-Pumps/actions/workflows/actions.yml/badge.svg?branch=main)](https://github.com/likhonisaac/Terminals-Pumps/actions/workflows/actions.yml)
 
 Master crypto trading with our automated signals and educational content.
 
