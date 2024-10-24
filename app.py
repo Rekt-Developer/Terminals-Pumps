@@ -1,14 +1,10 @@
-from flask import Flask
-from requests_oauthlib import OAuth1Session
 import requests
 import random
 import os
 import json
 from datetime import datetime, timedelta
-from apscheduler.schedulers.background import BackgroundScheduler
-
-app = Flask(__name__)
-app.secret_key = os.environ.get('FLASK_SECRET_KEY', '42ONMdu8fVecRgtv6WwZo-70K8frkHOBW4WJbF9JkcJI3BP82q')
+from requests_oauthlib import OAuth1Session
+import time
 
 # Twitter API configurations for both accounts
 TWITTER_ACCOUNTS = {
@@ -27,59 +23,82 @@ TWITTER_ACCOUNTS = {
 }
 
 API_URL_POST = 'https://api.twitter.com/2/tweets'
-POSTS_HISTORY_FILE = 'posted_history.json'
+REPO_OWNER = 'likhonisaac'
+REPO_NAME = 'Terminals-Pumps'
+HISTORY_FILE = 'post_history.json'
 
 class TwitterBot:
     def __init__(self):
         self.posts_history = self.load_posts_history()
         
     def load_posts_history(self):
-        if os.path.exists(POSTS_HISTORY_FILE):
-            with open(POSTS_HISTORY_FILE, 'r') as file:
-                return json.load(file)
+        try:
+            if os.path.exists(HISTORY_FILE):
+                with open(HISTORY_FILE, 'r') as file:
+                    return json.load(file)
+        except Exception as e:
+            print(f"Error loading history: {e}")
         return {'account1': {}, 'account2': {}}
 
     def save_posts_history(self):
-        with open(POSTS_HISTORY_FILE, 'w') as file:
-            json.dump(self.posts_history, file)
+        try:
+            with open(HISTORY_FILE, 'w') as file:
+                json.dump(self.posts_history, file, indent=2)
+            print(f"Successfully saved history to {HISTORY_FILE}")
+        except Exception as e:
+            print(f"Error saving history: {e}")
 
     def load_posts(self):
-        response = requests.get('https://raw.githubusercontent.com/likhonisaac/Terminals-Pumps/refs/heads/main/post/post.json')
-        if response.status_code == 200:
-            data = response.json()
-            return data['posts']
-        return []
+        try:
+            url = f'https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/main/post/post.json'
+            response = requests.get(url)
+            response.raise_for_status()
+            return response.json()['posts']
+        except Exception as e:
+            print(f"Error loading posts: {e}")
+            return []
 
     def post_tweet(self, content, account_key):
-        account = TWITTER_ACCOUNTS[account_key]
-        auth = OAuth1Session(
-            account['consumer_key'],
-            client_secret=account['consumer_secret'],
-            resource_owner_key=account['access_token'],
-            resource_owner_secret=account['access_token_secret']
-        )
-        
-        response = auth.post(API_URL_POST, json={'text': content})
-        return response
+        try:
+            account = TWITTER_ACCOUNTS[account_key]
+            auth = OAuth1Session(
+                account['consumer_key'],
+                client_secret=account['consumer_secret'],
+                resource_owner_key=account['access_token'],
+                resource_owner_secret=account['access_token_secret']
+            )
+            
+            response = auth.post(API_URL_POST, json={'text': content})
+            response.raise_for_status()
+            return response
+        except Exception as e:
+            print(f"Error posting tweet: {e}")
+            return None
 
     def is_recently_posted(self, post_id, account_key):
-        account_history = self.posts_history[account_key]
-        if str(post_id) in account_history:
-            last_posted = datetime.fromisoformat(account_history[str(post_id)])
-            time_diff = datetime.now() - last_posted
-            return time_diff < timedelta(hours=24)  # Prevent reposting within 24 hours
+        try:
+            account_history = self.posts_history[account_key]
+            if str(post_id) in account_history:
+                last_posted = datetime.fromisoformat(account_history[str(post_id)])
+                time_diff = datetime.now() - last_posted
+                return time_diff < timedelta(hours=24)
+        except Exception as e:
+            print(f"Error checking recent posts: {e}")
         return False
 
-    def schedule_post(self):
+    def post_updates(self):
+        print(f"Starting post updates at {datetime.now()}")
+        
         posts = self.load_posts()
         if not posts:
             print("No posts available to tweet.")
             return
 
-        # Alternate between accounts
-        current_time = datetime.now()
-        account_key = 'account1' if current_time.minute % 60 < 30 else 'account2'
-        
+        # Determine which account to use based on current time
+        current_minute = datetime.now().minute
+        account_key = 'account1' if current_minute % 60 < 30 else 'account2'
+        print(f"Using {account_key} for this update")
+
         # Filter out recently posted content
         available_posts = [
             p for p in posts 
@@ -90,34 +109,28 @@ class TwitterBot:
             print(f"No available posts for {account_key} at this time.")
             return
 
+        # Select and post tweet
         post_to_tweet = random.choice(available_posts)
         content = post_to_tweet['content']
         post_id = str(post_to_tweet['id'])
 
-        # Add posting timestamp to the content
+        # Add posting timestamp
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC")
         content_with_timestamp = f"{content}\n\nPosted at: {timestamp}"
 
+        print(f"Attempting to post tweet {post_id} from {account_key}")
         response = self.post_tweet(content_with_timestamp, account_key)
         
-        if response.status_code == 201:
-            print(f"Posted successfully from {account_key}: {content}")
+        if response and response.status_code in (200, 201):
+            print(f"Successfully posted tweet from {account_key}: {post_id}")
             self.posts_history[account_key][post_id] = datetime.now().isoformat()
             self.save_posts_history()
         else:
-            print(f"Failed to post tweet from {account_key}: {response.status_code} - {response.text}")
+            print(f"Failed to post tweet from {account_key}")
 
-# Initialize the Twitter bot
-twitter_bot = TwitterBot()
-
-# Set up the scheduler
-scheduler = BackgroundScheduler()
-scheduler.add_job(twitter_bot.schedule_post, 'interval', minutes=30)
-scheduler.start()
-
-@app.route('/')
-def index():
-    return "Twitter Bot is running with dual account support!"
+def main():
+    bot = TwitterBot()
+    bot.post_updates()
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    main()
