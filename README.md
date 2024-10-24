@@ -1,6 +1,6 @@
 # Terminal Pumps Bot 🤖
 
-[![Twitter Bot](https://github.com/likhonisaac/Terminals-Pumps/actions/workflows/twitter-bot.yml/badge.svg)](https://github.com/likhonisaac/Terminals-Pumps/actions/workflows/twitter-bot.yml)
+[![Twitter Bot](https://github.com/likhonisaac/Terminals-Pumps/actions/workflows/scheduler.yml)
 
 Learn to master crypto trading through our automated trading signals and educational content. Join our community to get real-time updates and trading opportunities! 🚀
 
