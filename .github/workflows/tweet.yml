@@ -42,8 +42,6 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        if [ -f post_history.json ]; then
-          git add post_history.json
           git commit -m "Update post history [skip ci]" || echo "No changes to commit"
           git push
         fi
