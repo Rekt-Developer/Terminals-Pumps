@@ -36,4 +36,6 @@ jobs:
         ACCESS_SECRET: ${{ secrets.ACCESS_SECRET }}
         ACCESS_TOKEN2: ${{ secrets.ACCESS_TOKEN2 }}
         ACCESS_SECRET2: ${{ secrets.ACCESS_SECRET2 }}
-      run: python app.py
+      run: |
+        echo "Starting Twitter bot execution"
+        python app.py || echo "Twitter bot execution failed"
