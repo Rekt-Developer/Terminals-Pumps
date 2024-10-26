@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 09:07:43 UTC
+**Last updated:** 2024-10-26 09:27:33 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67059 USD
-  - Market Cap: $1325933964067.702 USD
-  - 24h Volume: $43594661193.22232 USD
-  - 24h Change: -0.915615081767091%
+- **Bitcoin (BTC)**: $67092 USD
+  - Market Cap: $1326349549860.9673 USD
+  - 24h Volume: $47235155676.483505 USD
+  - 24h Change: -0.7177204332035843%
 
-- **Ethereum (ETH)**: $2468.44 USD
-  - Market Cap: $297229914056.493 USD
-  - 24h Volume: $23468956949.81161 USD
-  - 24h Change: -2.018508191371622%
+- **Ethereum (ETH)**: $2471.84 USD
+  - Market Cap: $297579371203.9197 USD
+  - 24h Volume: $23625700271.72594 USD
+  - 24h Change: -2.1375972760803377%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 672
-  - Price (BTC): 7.894621398348974e-11
+  - Market Cap Rank: 679
+  - Price (BTC): 7.762735911674409e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 91
-  - Price (BTC): 1.2826092843378382e-05
+  - Market Cap Rank: 92
+  - Price (BTC): 1.2757062765692571e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Luna by Virtuals (LUNA)**
-  - Market Cap Rank: 281
-  - Price (BTC): 2.848292139849738e-06
+  - Market Cap Rank: 291
+  - Price (BTC): 2.824071483761459e-06
   - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 167
-  - Price (BTC): 6.438958842508728e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
 - **TARS AI (TAI)**
-  - Market Cap Rank: 637
-  - Price (BTC): 1.8684352774863167e-06
+  - Market Cap Rank: 638
+  - Price (BTC): 1.8585556164554109e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 168
+  - Price (BTC): 6.464389569460207e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.6655016381523536e-05
+  - Price (BTC): 2.6635975401338748e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Moo Deng (MOODENG)**
-  - Market Cap Rank: 273
-  - Price (BTC): 3.2419252418328394e-06
+  - Market Cap Rank: 271
+  - Price (BTC): 3.2717025884124377e-06
   - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0025090501707233006
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **SPX6900 (SPX)**
   - Market Cap Rank: 102
-  - Price (BTC): 1.2029574064025321e-05
+  - Price (BTC): 1.200039688530818e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Jupiter (JUP)**
   - Market Cap Rank: 66
-  - Price (BTC): 1.463320560759454e-05
+  - Price (BTC): 1.4639326060166698e-05
   - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 29
-  - Price (BTC): 0.00768215706952962
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 43
+  - Price (BTC): 3.505796888365203e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 34
-  - Price (BTC): 1.79036613770759e-06
+  - Price (BTC): 1.7762611614921724e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 - **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 843
-  - Price (BTC): 5.009440084008988e-07
+  - Market Cap Rank: 864
+  - Price (BTC): 5.017868537476396e-07
   - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0025062937607291612
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03681007767007304
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Eigenlayer (EIGEN)**
   - Market Cap Rank: 151
-  - Price (BTC): 4.216312065698306e-05
+  - Price (BTC): 4.220853006603543e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+
+- **deBridge (DBR)**
+  - Market Cap Rank: 636
+  - Price (BTC): 4.568044337384969e-07
+  - [More Info](https://www.coingecko.com/en/coins/debridge)
 
 ## Posts
 - **Post ID: 1**
