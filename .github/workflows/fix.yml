@@ -1,5 +1,4 @@
 name: Fix Duplicate IDs
-
 on:
   push:
     branches:
