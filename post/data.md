@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 09:42:03 UTC
+**Last updated:** 2024-10-26 09:58:34 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67071 USD
-  - Market Cap: $1326218427890.8008 USD
-  - 24h Volume: $37372036962.73728 USD
-  - 24h Change: -0.685342992998507%
+- **Bitcoin (BTC)**: $67014 USD
+  - Market Cap: $1325242341071.3494 USD
+  - 24h Volume: $46844494590.7757 USD
+  - 24h Change: -1.151087189364119%
 
-- **Ethereum (ETH)**: $2471.57 USD
-  - Market Cap: $297584741251.32355 USD
-  - 24h Volume: $23262730237.93756 USD
-  - 24h Change: -2.130134385517392%
+- **Ethereum (ETH)**: $2463.94 USD
+  - Market Cap: $296758227078.56134 USD
+  - 24h Volume: $23248066809.066093 USD
+  - 24h Change: -2.893684962231866%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 686
-  - Price (BTC): 7.660866602644946e-11
+  - Market Cap Rank: 708
+  - Price (BTC): 7.248719105817114e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 91
-  - Price (BTC): 1.28725230743247e-05
+  - Price (BTC): 1.2787572482410342e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **TARS AI (TAI)**
   - Market Cap Rank: 631
-  - Price (BTC): 1.897465978203659e-06
+  - Price (BTC): 1.8957523351181252e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Luna by Virtuals (LUNA)**
-  - Market Cap Rank: 284
-  - Price (BTC): 2.975462367883203e-06
+  - Market Cap Rank: 280
+  - Price (BTC): 2.9869237915326687e-06
   - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 166
-  - Price (BTC): 6.655224299518696e-06
+  - Price (BTC): 6.640383246832239e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 263
+  - Price (BTC): 3.444828715177804e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.6624519044612003e-05
+  - Price (BTC): 2.6529569219950668e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 271
-  - Price (BTC): 3.3879227543873308e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002515701402983543
+  - Price (BTC): 0.002519610529618132
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 102
-  - Price (BTC): 1.1995749010952881e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 65
-  - Price (BTC): 1.4644285862555116e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
-
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 150
-  - Price (BTC): 4.229428009360707e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
-- **Moonwell (WELL)**
-  - Market Cap Rank: 234
-  - Price (BTC): 1.343052005817414e-06
-  - [More Info](https://www.coingecko.com/en/coins/moonwell)
 
 - **dogwifhat (WIF)**
   - Market Cap Rank: 43
-  - Price (BTC): 3.543885305487414e-05
+  - Price (BTC): 3.538699116104973e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
+- **Scroll (SCR)**
+  - Market Cap Rank: 312
+  - Price (BTC): 1.2739124264629178e-05
+  - [More Info](https://www.coingecko.com/en/coins/scroll)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 102
+  - Price (BTC): 1.1974202265119886e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.7767270755982225e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
 - **Bittensor (TAO)**
-  - Market Cap Rank: 30
-  - Price (BTC): 0.007701318641513374
+  - Market Cap Rank: 29
+  - Price (BTC): 0.007713026554434495
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
-- **LayerZero (ZRO)**
-  - Market Cap Rank: 181
-  - Price (BTC): 5.181625659423044e-05
-  - [More Info](https://www.coingecko.com/en/coins/layerzero)
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 150
+  - Price (BTC): 4.218206214358922e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 30
+  - Price (BTC): 1.3492972830901655e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
