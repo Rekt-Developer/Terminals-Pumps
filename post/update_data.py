@@ -14,7 +14,7 @@ TRENDING_API_URL = "https://api.coingecko.com/api/v3/search/trending"
 
 # File paths
 POSTS_FILE = 'post/post.json'
-MD_FILE = 'post/data/post.json'
+MD_FILE = 'post/data.md'  # Adjusted to save markdown file as .md
 
 def load_json(file_path):
     try:
@@ -131,7 +131,7 @@ def main():
     # Fetch cryptocurrency data and trending coins
     crypto_data = fetch_crypto_data()
     trending_data = fetch_trending_data()
-    posts = load_json(input_file)
+    posts = data.get("posts", [])  # Ensure posts are extracted from the data dictionary
 
     # Update post with cryptocurrency data
     for post in posts:
@@ -139,7 +139,7 @@ def main():
             post["content"] = "🚀 SOLANA GIVEAWAY 🚀\n\n🎁 Win 2.6 $SOL (~$1300)\n\n🤝 Follow @likhon_decrypto & @fariacrypto\n❤️ RT & Like\n💬 Comment your wallet\n\n⏳ 48 hrs! #SolanaGiveaway #Crypto"
 
     # Save updated posts
-    save_json(posts, input_file)
+    save_json(data, input_file)
 
     # Create markdown content
     markdown_content = create_markdown(crypto_data, trending_data, posts)
