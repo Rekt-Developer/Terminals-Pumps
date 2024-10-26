@@ -14,7 +14,7 @@ TRENDING_API_URL = "https://api.coingecko.com/api/v3/search/trending"
 
 # File paths
 POSTS_FILE = 'post/post.json'
-MD_FILE = 'data.md'
+MD_FILE = 'post/data/post.json'
 
 def load_json(file_path):
     try:
