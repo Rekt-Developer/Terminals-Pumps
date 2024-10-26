@@ -7,7 +7,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 def load_json(file_path):
     try:
-        with open(file_path, 'r') as f:
+        # Explicitly open with UTF-8 encoding
+        with open(file_path, 'r', encoding='utf-8') as f:
             return json.load(f)
     except Exception as e:
         logging.error(f"Failed to load JSON file: {e}")
@@ -15,7 +16,8 @@ def load_json(file_path):
 
 def save_json(data, file_path):
     try:
-        with open(file_path, 'w') as f:
+        # Explicitly save with UTF-8 encoding
+        with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=4)
         logging.info(f"JSON data saved to {file_path}")
     except Exception as e:
