@@ -24,16 +24,16 @@ def log_message(message: str) -> None:
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {message}")
 
 def fetch_data(max_retries: int = 3, delay: int = 5) -> Optional[List[Dict[str, Any]]]:
-    """Fetches top 10 cryptocurrency data from CoinGecko with retries on failure."""
+    """Fetches top 4 cryptocurrency data from CoinGecko with retries on failure."""
     for attempt in range(max_retries):
         try:
-            log_message("Fetching top 10 cryptocurrencies data from CoinGecko API...")
+            log_message("Fetching top 4 cryptocurrencies data from CoinGecko API...")
             response = requests.get(
                 COINGECKO_URL,
                 params={
                     "vs_currency": "usd",
                     "order": "market_cap_desc",
-                    "per_page": 10,
+                    "per_page": 4,  # Limit to top 4 tokens
                     "page": 1,
                     "sparkline": True,
                     "price_change_percentage": "24h,7d,30d"
@@ -57,7 +57,7 @@ def format_market_cap(market_cap: float) -> str:
     return f"${market_cap / 1_000_000:.2f}M"
 
 def get_trend_emoji(change: float) -> str:
-    """Returns an emoji based on price trend."""
+    """Returns an emoji based on price trend using animated emojis."""
     if change >= 5:
         return "🚀"
     elif change > 0:
@@ -67,9 +67,12 @@ def get_trend_emoji(change: float) -> str:
     return "💥"
 
 def format_data(data: List[Dict[str, Any]]) -> str:
-    """Formats top 10 tokens data for posting."""
+    """Formats top 4 tokens data for posting with premium animated emojis."""
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M UTC")
-    formatted = f"🌟 *Top 10 Cryptocurrencies by Market Cap* 🌟\n\n_Last Updated: {current_time}_\n\n"
+    formatted = (
+        f"🌟 *Top 4 Cryptocurrencies by Market Cap* 🌟\n\n"
+        f"_Last Updated: {current_time}_\n\n"
+    )
     
     for i, item in enumerate(data, 1):
         price_change_24h = item.get("price_change_percentage_24h", 0) or 0
@@ -86,7 +89,9 @@ def format_data(data: List[Dict[str, Any]]) -> str:
         )
 
     formatted += (
-        f"\n🔄 Updates every 30 minutes\n💬 Join @InvisibleSolAI for more crypto updates!"
+        "\n🔄 Updates every 30 minutes\n"
+        "💬 Join @InvisibleSolAI for more crypto updates!\n\n"
+        "![Market Trends](https://static.news.bitcoin.com/wp-content/uploads/2019/01/bj2rNGhZ-ezgif-2-e18c3be26209.gif)"
     )
     return formatted
 
@@ -133,7 +138,7 @@ def main() -> None:
     """Main execution for bot: fetches, formats, and updates post."""
     log_message("Starting InvisibleSolAI Crypto Bot...")
     
-    # Fetch top 10 token data
+    # Fetch top 4 token data
     data = fetch_data()
     if not data:
         log_message("Failed to fetch data; exiting.")
