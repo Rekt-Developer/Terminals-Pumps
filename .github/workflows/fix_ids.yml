@@ -27,7 +27,7 @@ jobs:
 
     - name: Run fix_ids.py
       run: |
-        python fix_ids.py
+        python post/fix_ids.py
 
     - name: Commit and push changes
       run: |
