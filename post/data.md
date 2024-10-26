@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 07:20:50 UTC
+**Last updated:** 2024-10-26 07:26:45 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67005 USD
-  - Market Cap: $1324914946591.1643 USD
-  - 24h Volume: $49286338564.33456 USD
-  - 24h Change: -0.659693242424586%
+- **Bitcoin (BTC)**: $66974 USD
+  - Market Cap: $1324379266232.8706 USD
+  - 24h Volume: $41898624679.71784 USD
+  - 24h Change: -0.6503974252271205%
 
-- **Ethereum (ETH)**: $2467.83 USD
-  - Market Cap: $297343037476.7996 USD
-  - 24h Volume: $24867577306.486153 USD
-  - 24h Change: -0.5062315465783315%
+- **Ethereum (ETH)**: $2466.26 USD
+  - Market Cap: $297010159018.978 USD
+  - 24h Volume: $24649477239.62433 USD
+  - 24h Change: -0.4602613251912669%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 651
-  - Price (BTC): 8.325450590906904e-11
+  - Market Cap Rank: 650
+  - Price (BTC): 8.367897395870206e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **TARS AI (TAI)**
-  - Market Cap Rank: 630
-  - Price (BTC): 1.9191487369814513e-06
+  - Market Cap Rank: 627
+  - Price (BTC): 1.924958732595239e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 94
-  - Price (BTC): 1.2346889044350886e-05
+  - Market Cap Rank: 92
+  - Price (BTC): 1.243380420755792e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Luna by Virtuals (LUNA)**
-  - Market Cap Rank: 289
-  - Price (BTC): 2.8473316988860895e-06
+  - Market Cap Rank: 288
+  - Price (BTC): 2.9267120383663093e-06
   - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
 
 - **Moo Deng (MOODENG)**
-  - Market Cap Rank: 261
-  - Price (BTC): 3.4733411730542516e-06
+  - Market Cap Rank: 264
+  - Price (BTC): 3.4530913052873976e-06
   - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 172
-  - Price (BTC): 6.264129145037342e-06
+  - Market Cap Rank: 171
+  - Price (BTC): 6.230187235313552e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.665451880623107e-05
+  - Price (BTC): 2.6646374161070123e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 320
-  - Price (BTC): 1.2336888428051608e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
-
 - **Moonwell (WELL)**
-  - Market Cap Rank: 236
-  - Price (BTC): 1.3450603287970742e-06
+  - Market Cap Rank: 235
+  - Price (BTC): 1.3404452864004978e-06
   - [More Info](https://www.coingecko.com/en/coins/moonwell)
+
+- **Scroll (SCR)**
+  - Market Cap Rank: 318
+  - Price (BTC): 1.2365997979587374e-05
+  - [More Info](https://www.coingecko.com/en/coins/scroll)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0025120417216841083
+  - Price (BTC): 0.0025112838733297727
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **SPX6900 (SPX)**
-  - Market Cap Rank: 101
-  - Price (BTC): 1.2029509330284072e-05
+  - Market Cap Rank: 100
+  - Price (BTC): 1.2032779540929896e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Eigenlayer (EIGEN)**
   - Market Cap Rank: 149
-  - Price (BTC): 4.271721064134612e-05
+  - Price (BTC): 4.2698516600272275e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.3481241672249465e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Kaspa (KAS)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.7683974082146367e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 110
-  - Price (BTC): 1.57474189246951e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 63
+  - Price (BTC): 2.1683954187834105e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 ## Posts
 - **Post ID: 1**
