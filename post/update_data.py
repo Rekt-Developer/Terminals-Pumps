@@ -13,7 +13,7 @@ CRYPTO_API_URL = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethe
 TRENDING_API_URL = "https://api.coingecko.com/api/v3/search/trending"
 
 # File paths
-POSTS_FILE = 'post/posts.json'
+POSTS_FILE = 'post/post.json'
 MD_FILE = 'data.md'
 
 def load_json(file_path):
