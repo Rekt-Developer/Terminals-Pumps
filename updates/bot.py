@@ -2,7 +2,7 @@ import os
 import time
 import requests
 from datetime import datetime
-from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
 from telegram.error import TelegramError
 from typing import Optional, List, Dict, Any
 
@@ -90,8 +90,7 @@ def format_data(data: List[Dict[str, Any]]) -> str:
 
     formatted += (
         "\n🔄 Updates every 30 minutes\n"
-        "💬 Join @InvisibleSolAI for more crypto updates!\n\n"
-        "![Market Trends](https://static.news.bitcoin.com/wp-content/uploads/2019/01/bj2rNGhZ-ezgif-2-e18c3be26209.gif)"
+        "💬 Join @InvisibleSolAI for more crypto updates!"
     )
     return formatted
 
@@ -109,24 +108,33 @@ def create_inline_keyboard() -> InlineKeyboardMarkup:
     ]
     return InlineKeyboardMarkup(keyboard)
 
-def update_main_post(text: str, max_retries: int = 2) -> bool:
-    """Updates the main post with token data and retries if timed out."""
+def send_or_update_main_post(text: str, image_url: str, max_retries: int = 2) -> bool:
+    """Sends or updates the main post with token data and attaches image."""
     for attempt in range(max_retries):
         try:
-            log_message("Attempting to update the main post...")
-            bot.edit_message_text(
+            # If updating fails (post not found), send a new media post
+            log_message("Attempting to update the main post with image...")
+            bot.edit_message_media(
                 chat_id=CHANNEL_ID,
                 message_id=POST_ID,
-                text=text,
-                parse_mode="Markdown",
-                reply_markup=create_inline_keyboard(),
-                disable_web_page_preview=True,
+                media=InputMediaPhoto(media=image_url, caption=text, parse_mode="Markdown"),
+                reply_markup=create_inline_keyboard()
             )
             log_message("Main post updated successfully.")
             return True
         except TelegramError as e:
             log_message(f"Error updating post (attempt {attempt + 1}): {e}")
-            if "Timed out" in str(e):
+            if "message to edit not found" in str(e):
+                log_message("Message not found; sending new message with media...")
+                bot.send_photo(
+                    chat_id=CHANNEL_ID,
+                    photo=image_url,
+                    caption=text,
+                    parse_mode="Markdown",
+                    reply_markup=create_inline_keyboard(),
+                )
+                return True
+            elif "Timed out" in str(e):
                 log_message("Retrying due to timeout...")
                 time.sleep(5)
             else:
@@ -135,7 +143,7 @@ def update_main_post(text: str, max_retries: int = 2) -> bool:
     return False
 
 def main() -> None:
-    """Main execution for bot: fetches, formats, and updates post."""
+    """Main execution for bot: fetches, formats, and updates post with media."""
     log_message("Starting InvisibleSolAI Crypto Bot...")
     
     # Fetch top 4 token data
@@ -144,10 +152,11 @@ def main() -> None:
         log_message("Failed to fetch data; exiting.")
         return
 
-    # Format and attempt to update the main post
+    # Format and attempt to update the main post with media
     formatted_text = format_data(data)
-    if update_main_post(formatted_text):
-        log_message("Main post updated successfully on first attempt.")
+    image_url = "https://static.news.bitcoin.com/wp-content/uploads/2019/01/bj2rNGhZ-ezgif-2-e18c3be26209.gif"
+    if send_or_update_main_post(formatted_text, image_url):
+        log_message("Main post with image updated successfully on first attempt.")
     else:
         log_message("Failed to update main post on first attempt.")
     
