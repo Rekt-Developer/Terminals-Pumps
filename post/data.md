@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 08:45:47 UTC
+**Last updated:** 2024-10-26 09:07:43 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67024 USD
-  - Market Cap: $1324999089332.3896 USD
-  - 24h Volume: $39815244800.516396 USD
-  - 24h Change: -0.9701332424139713%
+- **Bitcoin (BTC)**: $67059 USD
+  - Market Cap: $1325933964067.702 USD
+  - 24h Volume: $43594661193.22232 USD
+  - 24h Change: -0.915615081767091%
 
-- **Ethereum (ETH)**: $2466.75 USD
-  - Market Cap: $296960088753.8489 USD
-  - 24h Volume: $23870994269.16198 USD
-  - 24h Change: -1.7332400248963233%
+- **Ethereum (ETH)**: $2468.44 USD
+  - Market Cap: $297229914056.493 USD
+  - 24h Volume: $23468956949.81161 USD
+  - 24h Change: -2.018508191371622%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 663
-  - Price (BTC): 7.947832094137996e-11
+  - Market Cap Rank: 672
+  - Price (BTC): 7.894621398348974e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 91
-  - Price (BTC): 1.2872706897227924e-05
+  - Price (BTC): 1.2826092843378382e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Luna by Virtuals (LUNA)**
-  - Market Cap Rank: 275
-  - Price (BTC): 3.1444829474118242e-06
+  - Market Cap Rank: 281
+  - Price (BTC): 2.848292139849738e-06
   - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.6576793133646936e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 166
-  - Price (BTC): 6.686095601083355e-06
+  - Market Cap Rank: 167
+  - Price (BTC): 6.438958842508728e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **TARS AI (TAI)**
-  - Market Cap Rank: 634
-  - Price (BTC): 1.876215991197471e-06
+  - Market Cap Rank: 637
+  - Price (BTC): 1.8684352774863167e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 271
-  - Price (BTC): 3.2727283879813133e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+- **Sui (SUI)**
+  - Market Cap Rank: 26
+  - Price (BTC): 2.6655016381523536e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.7873241810685086e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 273
+  - Price (BTC): 3.2419252418328394e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **SPX6900 (SPX)**
   - Market Cap Rank: 102
-  - Price (BTC): 1.2060109101646232e-05
+  - Price (BTC): 1.2029574064025321e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 317
-  - Price (BTC): 1.2583265014968849e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
+- **Jupiter (JUP)**
+  - Market Cap Rank: 66
+  - Price (BTC): 1.463320560759454e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 - **Bittensor (TAO)**
-  - Market Cap Rank: 30
-  - Price (BTC): 0.007628741389063463
+  - Market Cap Rank: 29
+  - Price (BTC): 0.00768215706952962
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
+- **Kaspa (KAS)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.79036613770759e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
 - **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 830
-  - Price (BTC): 5.196743411244309e-07
+  - Market Cap Rank: 843
+  - Price (BTC): 5.009440084008988e-07
   - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002502779361008522
+  - Price (BTC): 0.0025062937607291612
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Jupiter (JUP)**
-  - Market Cap Rank: 66
-  - Price (BTC): 1.4555785316720968e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03681007767007304
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Moonwell (WELL)**
-  - Market Cap Rank: 232
-  - Price (BTC): 1.3639645799784365e-06
-  - [More Info](https://www.coingecko.com/en/coins/moonwell)
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 151
+  - Price (BTC): 4.216312065698306e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
 ## Posts
 - **Post ID: 1**
