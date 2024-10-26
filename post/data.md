@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 10:25:21 UTC
+**Last updated:** 2024-10-26 10:37:02 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67070 USD
-  - Market Cap: $1325932462900.237 USD
-  - 24h Volume: $45824117676.51974 USD
-  - 24h Change: -0.9373841036965633%
+- **Bitcoin (BTC)**: $67098 USD
+  - Market Cap: $1326041223380.6433 USD
+  - 24h Volume: $46777747571.975006 USD
+  - 24h Change: -1.033116039976573%
 
-- **Ethereum (ETH)**: $2470.53 USD
-  - Market Cap: $297386798114.84705 USD
-  - 24h Volume: $23073849625.714836 USD
-  - 24h Change: -2.558722717325728%
+- **Ethereum (ETH)**: $2471.0 USD
+  - Market Cap: $297394306920.31067 USD
+  - 24h Volume: $22891224837.546516 USD
+  - 24h Change: -2.7647917109490634%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
   - Market Cap Rank: 712
-  - Price (BTC): 7.129285812563306e-11
+  - Price (BTC): 6.934770350527053e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 93
-  - Price (BTC): 1.2424712866323148e-05
+  - Price (BTC): 1.2324811048340058e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **TARS AI (TAI)**
   - Market Cap Rank: 631
-  - Price (BTC): 1.8979311303623888e-06
+  - Price (BTC): 1.8965228854542569e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Moo Deng (MOODENG)**
-  - Market Cap Rank: 253
-  - Price (BTC): 3.6946669832771663e-06
+  - Market Cap Rank: 252
+  - Price (BTC): 3.815715312485403e-06
   - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Luna by Virtuals (LUNA)**
   - Market Cap Rank: 291
-  - Price (BTC): 2.8413913919229337e-06
+  - Price (BTC): 2.84299598412238e-06
   - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 166
-  - Price (BTC): 6.557661007878039e-06
+  - Price (BTC): 6.6395434065928695e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.6613407606253245e-05
+  - Price (BTC): 2.6617451089931538e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Scroll (SCR)**
-  - Market Cap Rank: 314
-  - Price (BTC): 1.2656953331613715e-05
+  - Market Cap Rank: 313
+  - Price (BTC): 1.267709667938723e-05
   - [More Info](https://www.coingecko.com/en/coins/scroll)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002530508026950804
+  - Price (BTC): 0.0025338913497451585
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 29
-  - Price (BTC): 0.007735758516026903
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 - **SPX6900 (SPX)**
   - Market Cap Rank: 102
-  - Price (BTC): 1.1921019753355847e-05
+  - Price (BTC): 1.1877771732720302e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 29
+  - Price (BTC): 0.00773904284424316
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.036829560033538385
+  - Price (BTC): 0.03683367300631405
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Moonwell (WELL)**
-  - Market Cap Rank: 236
-  - Price (BTC): 1.3211656639786661e-06
-  - [More Info](https://www.coingecko.com/en/coins/moonwell)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 34
-  - Price (BTC): 1.781932497566048e-06
+  - Price (BTC): 1.7734146763532122e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 30
-  - Price (BTC): 1.35269810853205e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 43
+  - Price (BTC): 3.559505473363696e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+
+- **Moonwell (WELL)**
+  - Market Cap Rank: 236
+  - Price (BTC): 1.3159963027063936e-06
+  - [More Info](https://www.coingecko.com/en/coins/moonwell)
 
 ## Posts
 - **Post ID: 1**
