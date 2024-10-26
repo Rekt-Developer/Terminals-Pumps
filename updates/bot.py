@@ -6,15 +6,13 @@ from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.error import TelegramError
 from typing import Optional, List, Dict, Any
 
-Load secrets from environment variables
-
+# Load secrets from environment variables
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL_ID = os.getenv("CHANNEL_ID")
 CG_API = os.getenv("CG_API", "https://api.coingecko.com/api/v3")
 POST_ID = 6  # Main post ID to modify
 
-Validate environment variables
-
+# Validate environment variables
 if not all([BOT_TOKEN, CHANNEL_ID]):
     raise ValueError("Required environment variables BOT_TOKEN and CHANNEL_ID must be set")
 
@@ -30,23 +28,43 @@ def log_message(message: str) -> None:
 def fetch_data() -> Optional[List[Dict[str, Any]]]:
     """Fetches detailed token data from CoinGecko API."""
     log_message("Fetching data from CoinGecko API...")
+    
+    all_data = []
     try:
+        # Fetch first 250 coins
         response = requests.get(
             f"{CG_API}/coins/markets",
             params={
                 "vs_currency": "usd",
                 "order": "market_cap_desc",
-                "per_page": 10,
+                "per_page": 250,
                 "page": 1,
-                "sparkline": False,
-                "price_change_percentage": "24h,7d,30d",
+                "sparkline": True,
+                "price_change_percentage": "24h,7d,30d"
             },
             timeout=30,
         )
         response.raise_for_status()
-        data = response.json()
-        log_message(f"Successfully fetched data for {len(data)} tokens")
-        return data
+        all_data.extend(response.json())
+        
+        # Fetch next 50 to get total of 300 coins
+        response = requests.get(
+            f"{CG_API}/coins/markets",
+            params={
+                "vs_currency": "usd",
+                "order": "market_cap_desc",
+                "per_page": 50,
+                "page": 2,
+                "sparkline": True,
+                "price_change_percentage": "24h,7d,30d"
+            },
+            timeout=30,
+        )
+        response.raise_for_status()
+        all_data.extend(response.json())
+        
+        log_message(f"Successfully fetched data for {len(all_data)} tokens")
+        return all_data[:300]  # Ensure we only return top 300
     except requests.RequestException as e:
         log_message(f"Error fetching data: {e}")
         return None
@@ -73,23 +91,28 @@ def get_trend_emoji(change: float) -> str:
 def format_data(data: List[Dict[str, Any]]) -> str:
     """Formats token data for posting with enhanced details."""
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M UTC")
-    formatted = f"🌟 Top 10 Cryptocurrencies 🌟\n\nLast Updated: {current_time}\n\n"
+    formatted = f"🌟 Top Cryptocurrencies by Market Cap 🌟\n\nLast Updated: {current_time}\n\n"
 
-    for i, item in enumerate(data, 1):
+    # Display top 20 coins for better readability
+    for i, item in enumerate(data[:20], 1):
         price_change_24h = item.get("price_change_percentage_24h", 0) or 0
         price_change_7d = item.get("price_change_percentage_7d", 0) or 0
+        sparkline = item.get("sparkline_in_7d", {}).get("price", [])
         trend_emoji = get_trend_emoji(price_change_24h)
-
+        
+        last_price = sparkline[-1] if sparkline else item.get("current_price", 0)
+        
         formatted += (
             f"{i}. *{item['name']}* ({item['symbol'].upper()}) {trend_emoji}\n"
             f"💰 Price: ${item.get('current_price', 0):,.2f}\n"
             f"📊 Market Cap: {format_market_cap(item.get('market_cap', 0))}\n"
             f"📈 24h: {price_change_24h:+.2f}%\n"
             f"📊 7d: {price_change_7d:+.2f}%\n"
-            f"💎 ATH: ${item.get('ath', 0):,.2f}\n\n"
+            f"🏆 Rank: #{item.get('market_cap_rank', 'N/A')}\n\n"
         )
 
-    formatted += "\n🔄 Auto-updates every 30 minutes\n💬 Join @InvisibleSolAI for more updates!"
+    formatted += f"\n📊 Tracking {len(data)} top cryptocurrencies\n"
+    formatted += "🔄 Auto-updates every 30 minutes\n💬 Join @InvisibleSolAI for more updates!"
     return formatted
 
 
