@@ -40,7 +40,7 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add post/post.json
-        git add data.md
+        git add post/data.md
         git commit -m "Automated cryptocurrency data and post update" || echo "No changes to commit"
         git push
       env:
