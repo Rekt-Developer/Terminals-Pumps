@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.error import TelegramError
-from typing import Optional, Set, Dict, Any, List
+from typing import Optional, List, Dict, Any
 
 # Load secrets from environment variables
 BOT_TOKEN = os.getenv("BOT_TOKEN")
@@ -37,7 +37,7 @@ def fetch_data() -> Optional[List[Dict[str, Any]]]:
                 "sparkline": False,
                 "price_change_percentage": "24h,7d,30d"
             },
-            timeout=30  # Add timeout to prevent hanging
+            timeout=30
         )
         response.raise_for_status()
         data = response.json()
@@ -117,95 +117,24 @@ def update_main_post(text: str) -> bool:
         log_message(f"Error updating post: {e}")
         return False
 
-def post_new_token(token_data: Dict[str, Any]) -> None:
-    """Posts detailed information about a newly ranked token."""
-    log_message(f"Posting alert for new token: {token_data['name']}")
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M UTC")
-    text = (
-        f"🚨 *New Token Alert* 🚨\n\n"
-        f"*{token_data['name']}* ({token_data['symbol'].upper()}) has entered the Top 10!\n\n"
-        f"💰 Price: ${token_data.get('current_price', 0):,.2f}\n"
-        f"📊 Market Cap: {format_market_cap(token_data.get('market_cap', 0))}\n"
-        f"📈 24h Change: {token_data.get('price_change_percentage_24h', 0):+.2f}%\n"
-        f"🔄 Volume: ${token_data.get('total_volume', 0):,.0f}\n"
-        f"💎 ATH: ${token_data.get('ath', 0):,.2f}\n"
-        f"📅 Time: {current_time}\n\n"
-        f"💬 Join @InvisibleSolAI for more updates!"
-    )
-    
-    try:
-        bot.send_message(
-            chat_id=CHANNEL_ID,
-            text=text,
-            parse_mode="Markdown",
-            reply_markup=create_inline_keyboard(),
-            disable_web_page_preview=True
-        )
-        log_message(f"New token alert posted successfully for {token_data['name']}")
-    except TelegramError as e:
-        log_message(f"Error posting new token: {e}")
-
 def main() -> None:
-    log_message("Starting CoinGecko Telegram Bot...")
+    log_message("Starting CoinGecko Telegram Bot - Single Run Mode...")
     
-    # Add error handling for initial connection
-    retry_count = 0
-    max_retries = 5
-    initial_data = None
-    
-    while retry_count < max_retries and not initial_data:
-        initial_data = fetch_data()
-        if not initial_data:
-            retry_count += 1
-            wait_time = min(300 * retry_count, 1800)  # Exponential backoff, max 30 minutes
-            log_message(f"Retry {retry_count}/{max_retries} in {wait_time} seconds...")
-            time.sleep(wait_time)
-    
-    if not initial_data:
-        log_message("Failed to fetch initial data after maximum retries. Exiting.")
+    # Immediate data fetch with single attempt
+    data = fetch_data()
+    if not data:
+        log_message("Failed to fetch data on initial attempt. Exiting.")
         return
 
-    formatted_text = format_data(initial_data)
+    # Format and update main post immediately
+    formatted_text = format_data(data)
     if update_main_post(formatted_text):
-        log_message("Initial update completed successfully")
+        log_message("Main post updated successfully on initial run.")
     else:
-        log_message("Initial update failed")
+        log_message("Failed to update main post on initial run.")
 
-    known_tokens = {token['id'] for token in initial_data}
-    last_update = datetime.now()
-    
-    log_message("Entering main update loop...")
-    while True:
-        try:
-            current_time = datetime.now()
-            data = fetch_data()
-            
-            if not data:
-                log_message("Failed to fetch data, retrying in 5 minutes...")
-                time.sleep(300)
-                continue
-            
-            # Always update the main post first
-            formatted_text = format_data(data)
-            update_success = update_main_post(formatted_text)
-            if update_success:
-                last_update = current_time
-            
-            # Check for new tokens
-            current_tokens = {token['id'] for token in data}
-            new_tokens = current_tokens - known_tokens
-            
-            for token in data:
-                if token['id'] in new_tokens:
-                    post_new_token(token)
-            
-            known_tokens = current_tokens
-            log_message("Waiting 30 minutes until next update...")
-            time.sleep(1800)  # Wait for 30 minutes
-            
-        except Exception as e:
-            log_message(f"Error in main loop: {e}")
-            time.sleep(300)  # Wait 5 minutes before retrying
+    # No loop or retries; self-stops after first fetch and update
+    log_message("Bot execution completed. Exiting.")
 
 if __name__ == "__main__":
     try:
