@@ -8,24 +8,40 @@ on:
 jobs:
   update_telegram:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
-
+        uses: actions/checkout@v3
+        
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.8'
-
+          python-version: '3.9'
+          cache: 'pip'
+          
       - name: Install dependencies
         run: |
-          pip install requests python-telegram-bot
-
+          python -m pip install --upgrade pip
+          pip install requests python-telegram-bot==13.7 pytz
+          
       - name: Run Telegram Bot
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
           CG_API: ${{ secrets.CG_API }}
         run: |
-          python updates/bot.py
+          echo "Starting InvisibleSolAI Crypto Bot..."
+          python bot.py
+          
+      - name: Monitor bot health
+        if: failure()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'InvisibleSolAI Bot Error Alert',
+              body: 'The CoinGecko Telegram Bot workflow failed. Please check the logs.',
+              labels: ['bot-error']
+            })
