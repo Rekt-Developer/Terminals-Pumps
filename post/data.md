@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 06:41:52 UTC
+**Last updated:** 2024-10-26 07:20:50 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67150 USD
-  - Market Cap: $1327796030653.3516 USD
-  - 24h Volume: $47250428212.09645 USD
-  - 24h Change: -0.6850249746051293%
+- **Bitcoin (BTC)**: $67005 USD
+  - Market Cap: $1324914946591.1643 USD
+  - 24h Volume: $49286338564.33456 USD
+  - 24h Change: -0.659693242424586%
 
-- **Ethereum (ETH)**: $2472.48 USD
-  - Market Cap: $297459178311.42017 USD
-  - 24h Volume: $24847934988.466103 USD
-  - 24h Change: -0.8216131380424753%
+- **Ethereum (ETH)**: $2467.83 USD
+  - Market Cap: $297343037476.7996 USD
+  - 24h Volume: $24867577306.486153 USD
+  - 24h Change: -0.5062315465783315%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 656
-  - Price (BTC): 8.22478749862638e-11
+  - Market Cap Rank: 651
+  - Price (BTC): 8.325450590906904e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **TARS AI (TAI)**
   - Market Cap Rank: 630
-  - Price (BTC): 1.9021506856638038e-06
+  - Price (BTC): 1.9191487369814513e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 262
-  - Price (BTC): 3.507378042433932e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Luna by Virtuals (LUNA)**
-  - Market Cap Rank: 274
-  - Price (BTC): 3.266132955759175e-06
-  - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
-
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 100
-  - Price (BTC): 1.1217728939114539e-05
+  - Market Cap Rank: 94
+  - Price (BTC): 1.2346889044350886e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
+- **Luna by Virtuals (LUNA)**
+  - Market Cap Rank: 289
+  - Price (BTC): 2.8473316988860895e-06
+  - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 261
+  - Price (BTC): 3.4733411730542516e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 164
-  - Price (BTC): 6.734603051938843e-06
+  - Market Cap Rank: 172
+  - Price (BTC): 6.264129145037342e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.655417791310935e-05
+  - Price (BTC): 2.665451880623107e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.7718114589988375e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **Scroll (SCR)**
+  - Market Cap Rank: 320
+  - Price (BTC): 1.2336888428051608e-05
+  - [More Info](https://www.coingecko.com/en/coins/scroll)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.3505008879424428e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 43
-  - Price (BTC): 3.486301034523306e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+- **Moonwell (WELL)**
+  - Market Cap Rank: 236
+  - Price (BTC): 1.3450603287970742e-06
+  - [More Info](https://www.coingecko.com/en/coins/moonwell)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002501379218336252
+  - Price (BTC): 0.0025120417216841083
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 314
-  - Price (BTC): 1.24564188552236e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 101
+  - Price (BTC): 1.2029509330284072e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 149
+  - Price (BTC): 4.271721064134612e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.3481241672249465e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Spectral (SPEC)**
-  - Market Cap Rank: 350
-  - Price (BTC): 0.0001738427518909122
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
-
-- **Aptos (APT)**
-  - Market Cap Rank: 27
-  - Price (BTC): 0.0001354618559366276
-  - [More Info](https://www.coingecko.com/en/coins/aptos)
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 110
+  - Price (BTC): 1.57474189246951e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 ## Posts
 - **Post ID: 1**
@@ -855,17 +855,10 @@ Ends in 48 hours! #Giveaway #Crypto
 What’s your big purchase dream if you had $5k? 💸👀 Best answer might win something! #CryptoDreams
 ```
 
-- **Post ID: 59**
+- **Post ID: 10**
   - Content:
 ```
-Who wants $SOL? 🙋‍♂️
-Win 2 SOL (~$1000)
-Steps:
-1. Like & RT
-2. Follow @InvisibleSolAI
-3. Drop your wallet below
-
-Winner picked in 24 hours! #SolanaGiveaway
+What’s your big purchase dream if you had $5k? 💸👀 Best answer might win something! #CryptoDreams
 ```
 
 - **Post ID: 60**
@@ -875,7 +868,180 @@ Winner picked in 24 hours! #SolanaGiveaway
 Claim 1.7 SOL (~$850)!
 Steps:
 1. RT & Like ❤️
-2. Follow @fariacrypto
+2. Follow @InvisibleSolAI
 3. Comment wallet 👇
+```
+
+- **Post ID: 61**
+  - Content:
+```
+$1,000,000 in $SOL Giveaway! 🚀
+1. Follow @InvisibleSolAI
+2. RT + Like pinned
+3. Drop $SOL address below
+
+Hurry! Ends in 72 hours! #CryptoGiveaway
+```
+
+- **Post ID: 62**
+  - Content:
+```
+🚀 Big $SOL Giveaway Alert! 🚀
+Win 2.5 SOL (~$1200) 🎉
+Steps:
+1. Follow @InvisibleSolAI
+2. Like & RT
+3. Post $SOL address
+
+72 hours left! ⏰
+```
+
+- **Post ID: 63**
+  - Content:
+```
+Want FREE $SOL? 👀
+Get 1.3 SOL (~$650)!
+Steps:
+1. Like & RT
+2. Follow @InvisibleSolAI
+3. Drop $SOL address 👇
+
+Winner in 24 hours!
+```
+
+- **Post ID: 64**
+  - Content:
+```
+Big $SOL Rewards for Everyone! 🎉
+Win 2 SOL (~$1000) in just 3 steps:
+1. Follow @InvisibleSolAI
+2. RT + Like
+3. Comment your $SOL wallet
+
+72 hours to join! ⏰
+```
+
+- **Post ID: 65**
+  - Content:
+```
+$SOL Giveaway Alert! 🚨
+Win 3 SOL (~$1500)!
+Steps:
+1. Like & RT
+2. Follow @InvisibleSolAI
+3. Paste $SOL address below
+
+72 hours countdown! 🔥
+```
+
+- **Post ID: 66**
+  - Content:
+```
+🏆 WIN BIG! 🏆 $1,000,000 Giveaway
+1. Follow @InvisibleSolAI
+2. RT + Like pinned
+3. Comment $SOL wallet
+
+72 hours remaining! Don't miss out!
+```
+
+- **Post ID: 67**
+  - Content:
+```
+💥 Massive $SOL Drop! 💥
+Earn 1.8 SOL (~$900) 🎉
+Steps:
+1. Like & RT
+2. Follow @InvisibleSolAI
+3. Drop wallet below 👇
+
+Winner in 24 hours!
+```
+
+- **Post ID: 68**
+  - Content:
+```
+Time to win 2 SOL (~$1000)! 💸
+Steps:
+1. Like & RT
+2. Follow @InvisibleSolAI
+3. Drop your $SOL address below
+
+72 hours to enter! ⏰
+```
+
+- **Post ID: 69**
+  - Content:
+```
+💸 Big Win Ahead! $SOL Giveaway
+Grab 2.2 SOL (~$1100)
+Steps:
+1. Like & RT
+2. Follow @InvisibleSolAI
+3. Comment your wallet address 👇
+
+Winner in 24 hours!
+```
+
+- **Post ID: 70**
+  - Content:
+```
+Don't miss the $SOL Giveaway! 🎉
+Win 3 SOL (~$1500) 💸
+Steps:
+1. Follow @InvisibleSolAI
+2. Like & RT
+3. Post $SOL address
+
+Ends in 72 hours!
+```
+
+- **Post ID: 71**
+  - Content:
+```
+$1,000,000 Giveaway! 🎉 Join Now!
+1. Follow @InvisibleSolAI
+2. RT + Like pinned
+3. Drop your $SOL address
+
+72 hours left! Don’t wait!
+```
+
+- **Post ID: 72**
+  - Content:
+```
+💰 Free $SOL Opportunity! 💰
+Win 1.5 SOL (~$750)!
+Steps:
+1. Like & RT
+2. Follow @InvisibleSolAI
+3. Drop wallet 👇
+
+Winner chosen in 24 hours!
+```
+
+- **Post ID: 73**
+  - Content:
+```
+💸 $SOL Up For Grabs! 💸
+Score 2 SOL (~$1000) by:
+1. Follow @InvisibleSolAI
+2. RT + Like
+3. Comment $SOL wallet
+
+Ends in 72 hours! Hurry!
+```
+
+- **Post ID: 74**
+  - Content:
+```
+🚀 Ready to win some $SOL? 🚀
+Get 1.9 SOL (~$950)!
+Steps:
+1. Like & RT
+2. Follow @InvisibleSolAI
+3. Comment wallet below 👇
+
+24 hours to enter!
 ```
 
