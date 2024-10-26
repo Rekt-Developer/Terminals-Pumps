@@ -66,8 +66,8 @@ def get_trend_emoji(change: float) -> str:
 def format_data(data: List[Dict[str, Any]]) -> str:
     """Formats token data for posting with enhanced details."""
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M UTC")
-    formatted = f"🌟 *Top 10 Cryptocurrencies* 🌟\n\nLast Updated: {current_time}\n\n"
-    
+    formatted = f"🌟 Top 10 Cryptocurrencies 🌟\n\nLast Updated: {current_time}\n\n"
+
     for i, item in enumerate(data, 1):
         price_change_24h = item.get('price_change_percentage_24h', 0) or 0
         price_change_7d = item.get('price_change_percentage_7d', 0) or 0
@@ -81,7 +81,7 @@ def format_data(data: List[Dict[str, Any]]) -> str:
             f"📊 7d: {price_change_7d:+.2f}%\n"
             f"💎 ATH: ${item.get('ath', 0):,.2f}\n\n"
         )
-    
+
     formatted += "\n🔄 Auto-updates every 30 minutes\n💬 Join @InvisibleSolAI for more updates!"
     return formatted
 
@@ -119,7 +119,7 @@ def update_main_post(text: str) -> bool:
 
 def main() -> None:
     log_message("Starting CoinGecko Telegram Bot - Single Run Mode...")
-    
+
     # Immediate data fetch with single attempt
     data = fetch_data()
     if not data:
