@@ -31,7 +31,7 @@ jobs:
           CG_API: ${{ secrets.CG_API }}
         run: |
           echo "Starting InvisibleSolAI Crypto Bot..."
-          python bot.py
+          python updates/bot.py
           
       - name: Monitor bot health
         if: failure()
