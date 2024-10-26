@@ -1,4 +1,5 @@
-name: Fix Duplicate IDs
+name: CI Workflow
+
 on:
   push:
     branches:
@@ -6,14 +7,17 @@ on:
   pull_request:
     branches:
       - main
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:  # Allow manual trigger as well
 
 permissions:
   contents: write
   actions: write
-jobs:
-  fix-duplicate-ids:
-    runs-on: ubuntu-latest
 
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
@@ -25,19 +29,19 @@ jobs:
 
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
+        python -m pip install requests
 
-    - name: Run fix_ids.py
+    - name: Run update_data.py
       run: |
-        python post/fix_ids.py
+        python post/update_data.py  # Your combined script
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/likhonisaac/Terminals-Pumps.git
-        git add post/post.json
-        git commit -m 'Fix duplicate IDs in post.json'
+        git add post/posts.json
+        git add data.md
+        git commit -m "Automated cryptocurrency data and post update" || echo "No changes to commit"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
