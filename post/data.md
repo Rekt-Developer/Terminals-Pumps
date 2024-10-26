@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 19:18:44 UTC
+**Last updated:** 2024-10-26 20:27:40 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67056 USD
-  - Market Cap: $1324970193164.8398 USD
-  - 24h Volume: $30099379136.27934 USD
-  - 24h Change: 0.5054930657733184%
+- **Bitcoin (BTC)**: $67267 USD
+  - Market Cap: $1328391478218.275 USD
+  - 24h Volume: $28024967255.88769 USD
+  - 24h Change: 0.9211086696359551%
 
-- **Ethereum (ETH)**: $2481.35 USD
-  - Market Cap: $298701330735.91626 USD
-  - 24h Volume: $17918736720.713078 USD
-  - 24h Change: 0.39140451656585223%
+- **Ethereum (ETH)**: $2496.88 USD
+  - Market Cap: $300572479088.3316 USD
+  - 24h Volume: $17623875461.028492 USD
+  - 24h Change: 0.9417242633487425%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 711
-  - Price (BTC): 7.189051427255704e-11
+  - Market Cap Rank: 704
+  - Price (BTC): 7.194367731097679e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 300
-  - Price (BTC): 2.2251957903202262e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **TARS AI (TAI)**
-  - Market Cap Rank: 633
-  - Price (BTC): 1.9104136278615455e-06
-  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 97
-  - Price (BTC): 1.1459537037255195e-05
+  - Price (BTC): 1.1471202239344546e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **AI Companions (AIC)**
-  - Market Cap Rank: 476
-  - Price (BTC): 1.4244369280148262e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
+- **TARS AI (TAI)**
+  - Market Cap Rank: 628
+  - Price (BTC): 1.908569440835981e-06
+  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 300
+  - Price (BTC): 2.2301774982006437e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 170
-  - Price (BTC): 6.171824070550579e-06
+  - Market Cap Rank: 173
+  - Price (BTC): 6.083477771927339e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0025568556911461687
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **AI Companions (AIC)**
+  - Market Cap Rank: 484
+  - Price (BTC): 1.4006584540952925e-06
+  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 104
+  - Price (BTC): 1.639545966954627e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
+- **Luna by Virtuals (LUNA)**
+  - Market Cap Rank: 312
+  - Price (BTC): 2.2737934534992353e-06
+  - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.6623038504775742e-05
+  - Price (BTC): 2.668891156457914e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Shuffle (SHFL)**
-  - Market Cap Rank: 641
-  - Price (BTC): 5.430970909521891e-06
-  - [More Info](https://www.coingecko.com/en/coins/shuffle)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0025666303157280083
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Spectral (SPEC)**
-  - Market Cap Rank: 346
-  - Price (BTC): 0.00017440030223834523
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
+- **Nosana (NOS)**
+  - Market Cap Rank: 204
+  - Price (BTC): 5.6446075154129625e-05
+  - [More Info](https://www.coingecko.com/en/coins/nosana)
 
 - **Moonwell (WELL)**
-  - Market Cap Rank: 227
-  - Price (BTC): 1.3820335381320981e-06
+  - Market Cap Rank: 225
+  - Price (BTC): 1.4074536495604872e-06
   - [More Info](https://www.coingecko.com/en/coins/moonwell)
+
+- **Spectral (SPEC)**
+  - Market Cap Rank: 347
+  - Price (BTC): 0.00017176491291909083
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
+
+- **Shuffle (SHFL)**
+  - Market Cap Rank: 642
+  - Price (BTC): 5.454497530238549e-06
+  - [More Info](https://www.coingecko.com/en/coins/shuffle)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 30
-  - Price (BTC): 0.007574427735329948
+  - Price (BTC): 0.007616811461053373
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 252
-  - Price (BTC): 3.6694308260800757e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Nosana (NOS)**
-  - Market Cap Rank: 208
-  - Price (BTC): 5.561778470288009e-05
-  - [More Info](https://www.coingecko.com/en/coins/nosana)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 94
-  - Price (BTC): 4.5893166293220584e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 ## Posts
 - **Post ID: 1**
