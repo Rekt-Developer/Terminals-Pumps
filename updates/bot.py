@@ -12,6 +12,9 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL_ID = os.getenv("CHANNEL_ID")
 POST_ID = int(os.getenv("POST_ID", "6"))
 
+# Initialize the bot globally
+bot = Bot(token=BOT_TOKEN)
+
 # Static message template with standard emojis
 MESSAGE_TEMPLATE = """
 ⭐ *Top 4 Cryptocurrencies by Market Cap* ⭐
@@ -164,6 +167,11 @@ def main() -> None:
     """Main execution with text-only updates."""
     log_message("Starting InvisibleSolAI Crypto Bot...")
     
+    # Verify bot token is available
+    if not BOT_TOKEN:
+        log_message("Error: BOT_TOKEN environment variable not set")
+        return
+        
     try:
         data = fetch_data()
         if not data:
