@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 08:07:09 UTC
+**Last updated:** 2024-10-26 08:09:38 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $66963 USD
-  - Market Cap: $1323538708150.851 USD
-  - 24h Volume: $48101354783.56763 USD
-  - 24h Change: -0.6537146148111888%
+- **Bitcoin (BTC)**: $67011 USD
+  - Market Cap: $1324826821586.5952 USD
+  - 24h Volume: $48457446789.60199 USD
+  - 24h Change: -0.5033623131634842%
 
-- **Ethereum (ETH)**: $2464.28 USD
-  - Market Cap: $296770000662.4349 USD
-  - 24h Volume: $24356687599.851944 USD
-  - 24h Change: -0.6066781334852065%
+- **Ethereum (ETH)**: $2466.04 USD
+  - Market Cap: $296756891908.5115 USD
+  - 24h Volume: $24222801500.76258 USD
+  - 24h Change: -0.48202608236627464%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 658
-  - Price (BTC): 8.197584977266615e-11
+  - Market Cap Rank: 660
+  - Price (BTC): 8.140066920315918e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 94
-  - Price (BTC): 1.2456489156990167e-05
+  - Price (BTC): 1.2273331041112531e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **TARS AI (TAI)**
-  - Market Cap Rank: 630
-  - Price (BTC): 1.906998565458832e-06
+  - Market Cap Rank: 631
+  - Price (BTC): 1.8901002297898008e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Luna by Virtuals (LUNA)**
-  - Market Cap Rank: 285
-  - Price (BTC): 2.972357907821831e-06
+  - Market Cap Rank: 281
+  - Price (BTC): 3.2516959455808115e-06
   - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 170
-  - Price (BTC): 6.4856720679693886e-06
+  - Market Cap Rank: 167
+  - Price (BTC): 6.661445493982051e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 265
-  - Price (BTC): 3.397943952606758e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.6540445364800293e-05
+  - Price (BTC): 2.6544244148345958e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Moonwell (WELL)**
-  - Market Cap Rank: 229
-  - Price (BTC): 1.3893983710477933e-06
-  - [More Info](https://www.coingecko.com/en/coins/moonwell)
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 266
+  - Price (BTC): 3.4119886513662233e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0025026507682543763
+  - Price (BTC): 0.0025017680930185648
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.7639800933256366e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **Moonwell (WELL)**
+  - Market Cap Rank: 223
+  - Price (BTC): 1.4090196598467977e-06
+  - [More Info](https://www.coingecko.com/en/coins/moonwell)
 
 - **SPX6900 (SPX)**
-  - Market Cap Rank: 102
-  - Price (BTC): 1.2064907934279248e-05
+  - Market Cap Rank: 101
+  - Price (BTC): 1.2031640976532026e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 151
-  - Price (BTC): 4.222289791792579e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
-- **Scroll (SCR)**
-  - Market Cap Rank: 317
-  - Price (BTC): 1.236552297837958e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 30
-  - Price (BTC): 0.007595725475364665
+  - Price (BTC): 0.007672641946437748
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.7657712913721207e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Scroll (SCR)**
+  - Market Cap Rank: 317
+  - Price (BTC): 1.2344769516180436e-05
+  - [More Info](https://www.coingecko.com/en/coins/scroll)
+
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 151
+  - Price (BTC): 4.223431723043668e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 80
-  - Price (BTC): 1.0294206131452209e-05
+  - Price (BTC): 1.0327316584105818e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 ## Posts
