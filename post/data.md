@@ -1,17 +1,17 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 11:11:27 UTC
+**Last updated:** 2024-10-26 11:13:50 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $66947 USD
-  - Market Cap: $1324459866081.0913 USD
-  - 24h Volume: $43905612525.51668 USD
-  - 24h Change: -1.4039274233122185%
+- **Bitcoin (BTC)**: $66923 USD
+  - Market Cap: $1322836635045.653 USD
+  - 24h Volume: $46344744027.103905 USD
+  - 24h Change: -1.4286716132950235%
 
-- **Ethereum (ETH)**: $2464.84 USD
-  - Market Cap: $296953485144.46936 USD
-  - 24h Volume: $22995665063.281662 USD
-  - 24h Change: -2.9820188010515305%
+- **Ethereum (ETH)**: $2462.66 USD
+  - Market Cap: $296501414979.8829 USD
+  - 24h Volume: $22841099604.794567 USD
+  - 24h Change: -2.9809836178596614%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
