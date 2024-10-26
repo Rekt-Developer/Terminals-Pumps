@@ -10,7 +10,7 @@ from typing import Optional, List, Dict, Any
 COINGECKO_URL = "https://api.coingecko.com/api/v3/coins/markets"
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL_ID = os.getenv("CHANNEL_ID")
-POST_ID = int(os.getenv("POST_ID", "6"))
+POST_ID = int(os.getenv("POST_ID", "7"))
 
 # Initialize the bot globally
 bot = Bot(token=BOT_TOKEN)
