@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 18:37:38 UTC
+**Last updated:** 2024-10-26 19:18:44 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67010 USD
-  - Market Cap: $1325275296523.4688 USD
-  - 24h Volume: $30199410650.05229 USD
-  - 24h Change: -0.5355992367829447%
+- **Bitcoin (BTC)**: $67056 USD
+  - Market Cap: $1324970193164.8398 USD
+  - 24h Volume: $30099379136.27934 USD
+  - 24h Change: 0.5054930657733184%
 
-- **Ethereum (ETH)**: $2478.24 USD
-  - Market Cap: $298425803090.61304 USD
-  - 24h Volume: $18746732458.109306 USD
-  - 24h Change: -1.080553730465181%
+- **Ethereum (ETH)**: $2481.35 USD
+  - Market Cap: $298701330735.91626 USD
+  - 24h Volume: $17918736720.713078 USD
+  - 24h Change: 0.39140451656585223%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 721
-  - Price (BTC): 7.032361009096378e-11
+  - Market Cap Rank: 711
+  - Price (BTC): 7.189051427255704e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 300
+  - Price (BTC): 2.2251957903202262e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
+
 - **TARS AI (TAI)**
-  - Market Cap Rank: 634
-  - Price (BTC): 1.8647839029327554e-06
+  - Market Cap Rank: 633
+  - Price (BTC): 1.9104136278615455e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 97
-  - Price (BTC): 1.1639632681507194e-05
+  - Price (BTC): 1.1459537037255195e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 159
-  - Price (BTC): 7.003510090499538e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **AI Companions (AIC)**
+  - Market Cap Rank: 476
+  - Price (BTC): 1.4244369280148262e-06
+  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 301
-  - Price (BTC): 2.2246419942317405e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 170
+  - Price (BTC): 6.171824070550579e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0025304956159821765
+  - Price (BTC): 0.0025568556911461687
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.660932798787759e-05
+  - Price (BTC): 2.6623038504775742e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 322
-  - Price (BTC): 1.2182479404437615e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
+- **Shuffle (SHFL)**
+  - Market Cap Rank: 641
+  - Price (BTC): 5.430970909521891e-06
+  - [More Info](https://www.coingecko.com/en/coins/shuffle)
 
-- **AI Companions (AIC)**
-  - Market Cap Rank: 474
-  - Price (BTC): 1.430134799554199e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
+- **Spectral (SPEC)**
+  - Market Cap Rank: 346
+  - Price (BTC): 0.00017440030223834523
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
-- **Luna by Virtuals (LUNA)**
-  - Market Cap Rank: 300
-  - Price (BTC): 2.554944205962507e-06
-  - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 95
-  - Price (BTC): 4.5435754189742425e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.7384936301709155e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03698498231428905
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Moonwell (WELL)**
+  - Market Cap Rank: 227
+  - Price (BTC): 1.3820335381320981e-06
+  - [More Info](https://www.coingecko.com/en/coins/moonwell)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 30
-  - Price (BTC): 0.007571307653053006
+  - Price (BTC): 0.007574427735329948
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 252
+  - Price (BTC): 3.6694308260800757e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Nosana (NOS)**
+  - Market Cap Rank: 208
+  - Price (BTC): 5.561778470288009e-05
+  - [More Info](https://www.coingecko.com/en/coins/nosana)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 94
+  - Price (BTC): 4.5893166293220584e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 ## Posts
 - **Post ID: 1**
