@@ -5,6 +5,7 @@ from datetime import datetime
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
 from telegram.error import TelegramError
 from typing import Optional, List, Dict, Any
+import schedule  # Make sure to install 'schedule' package for the scheduler
 
 # Direct API settings
 COINGECKO_URL = "https://api.coingecko.com/api/v3/coins/markets"
@@ -66,14 +67,13 @@ def get_trend_emoji(change: float) -> str:
         return "📉"
     return "💥"
 
-def format_data(data: List[Dict[str, Any]]) -> str:
-    """Formats top 4 tokens data for posting with premium animated emojis."""
+def format_main_post(data: List[Dict[str, Any]]) -> str:
+    """Formats detailed top 4 tokens data for the main pinned post with emojis."""
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M UTC")
     formatted = (
         f"🌟 *Top 4 Cryptocurrencies by Market Cap* 🌟\n\n"
         f"_Last Updated: {current_time}_\n\n"
     )
-    
     for i, item in enumerate(data, 1):
         price_change_24h = item.get("price_change_percentage_24h", 0) or 0
         price_change_7d = item.get("price_change_percentage_7d", 0) or 0
@@ -87,12 +87,23 @@ def format_data(data: List[Dict[str, Any]]) -> str:
             f"📊 7d Change: {price_change_7d:+.2f}%\n"
             f"🏆 Rank: #{item.get('market_cap_rank', 'N/A')}\n\n"
         )
-
-    formatted += (
-        "\n🔄 Updates every 30 minutes\n"
-        "💬 Join @InvisibleSolAI for more crypto updates!"
-    )
+    formatted += "\n🔄 Updates every 30 minutes\n💬 Join @InvisibleSolAI for more crypto updates!"
     return formatted
+
+def format_short_post(data: List[Dict[str, Any]]) -> str:
+    """Formats a brief update with top 2 cryptocurrencies for hourly posts."""
+    current_time = datetime.now().strftime("%Y-%m-%d %H:%M UTC")
+    formatted = f"🕒 *Hourly Crypto Update* - {current_time} 🕒\n\n"
+    
+    for i, item in enumerate(data[:2], 1):  # Show only top 2 in short update
+        price_change_24h = item.get("price_change_percentage_24h", 0) or 0
+        trend_emoji = get_trend_emoji(price_change_24h)
+        
+        formatted += (
+            f"{i}. *{item['name']}* ({item['symbol'].upper()}) {trend_emoji}\n"
+            f"💰 ${item.get('current_price', 0):,.2f} | 24h: {price_change_24h:+.2f}%\n\n"
+        )
+    return formatted.strip()
 
 def create_inline_keyboard() -> InlineKeyboardMarkup:
     """Creates a custom inline keyboard with relevant links."""
@@ -108,59 +119,59 @@ def create_inline_keyboard() -> InlineKeyboardMarkup:
     ]
     return InlineKeyboardMarkup(keyboard)
 
-def send_or_update_main_post(text: str, image_url: str, max_retries: int = 2) -> bool:
-    """Sends or updates the main post with token data and attaches image."""
-    for attempt in range(max_retries):
-        try:
-            # If updating fails (post not found), send a new media post
-            log_message("Attempting to update the main post with image...")
-            bot.edit_message_media(
-                chat_id=CHANNEL_ID,
-                message_id=POST_ID,
-                media=InputMediaPhoto(media=image_url, caption=text, parse_mode="Markdown"),
-                reply_markup=create_inline_keyboard()
-            )
-            log_message("Main post updated successfully.")
-            return True
-        except TelegramError as e:
-            log_message(f"Error updating post (attempt {attempt + 1}): {e}")
-            if "message to edit not found" in str(e):
-                log_message("Message not found; sending new message with media...")
-                bot.send_photo(
-                    chat_id=CHANNEL_ID,
-                    photo=image_url,
-                    caption=text,
-                    parse_mode="Markdown",
-                    reply_markup=create_inline_keyboard(),
-                )
-                return True
-            elif "Timed out" in str(e):
-                log_message("Retrying due to timeout...")
-                time.sleep(5)
-            else:
-                break
-    log_message("Failed to update the main post after retries.")
-    return False
-
-def main() -> None:
-    """Main execution for bot: fetches, formats, and updates post with media."""
-    log_message("Starting InvisibleSolAI Crypto Bot...")
-    
-    # Fetch top 4 token data
+def send_main_post(image_url: str) -> None:
+    """Posts or updates the main pinned post with detailed token data."""
     data = fetch_data()
     if not data:
-        log_message("Failed to fetch data; exiting.")
+        log_message("Failed to fetch data for main post.")
         return
-
-    # Format and attempt to update the main post with media
-    formatted_text = format_data(data)
-    image_url = "https://static.news.bitcoin.com/wp-content/uploads/2019/01/bj2rNGhZ-ezgif-2-e18c3be26209.gif"
-    if send_or_update_main_post(formatted_text, image_url):
-        log_message("Main post with image updated successfully on first attempt.")
-    else:
-        log_message("Failed to update main post on first attempt.")
     
-    log_message("Bot execution completed. Exiting.")
+    text = format_main_post(data)
+    try:
+        bot.edit_message_media(
+            chat_id=CHANNEL_ID,
+            message_id=POST_ID,
+            media=InputMediaPhoto(media=image_url, caption=text, parse_mode="Markdown"),
+            reply_markup=create_inline_keyboard()
+        )
+        log_message("Main pinned post updated successfully.")
+    except TelegramError as e:
+        log_message(f"Error updating main post: {e}")
+
+def post_hourly_update(image_url: str) -> None:
+    """Posts a short, hourly update with top 2 cryptocurrencies."""
+    data = fetch_data()
+    if not data:
+        log_message("Failed to fetch data for hourly update.")
+        return
+    
+    text = format_short_post(data)
+    try:
+        bot.send_photo(
+            chat_id=CHANNEL_ID,
+            photo=image_url,
+            caption=text,
+            parse_mode="Markdown",
+            reply_markup=create_inline_keyboard()
+        )
+        log_message("Hourly update posted successfully.")
+    except TelegramError as e:
+        log_message(f"Error posting hourly update: {e}")
+
+def main() -> None:
+    """Main scheduler loop to run updates."""
+    log_message("Starting InvisibleSolAI Crypto Bot...")
+    
+    image_url = "https://static.news.bitcoin.com/wp-content/uploads/2019/01/bj2rNGhZ-ezgif-2-e18c3be26209.gif"
+    
+    # Schedule tasks
+    schedule.every().hour.at(":00").do(post_hourly_update, image_url=image_url)  # Post short update every hour
+    schedule.every().hour.at(":30").do(send_main_post, image_url=image_url)      # Update main pinned post every 30 minutes
+
+    # Continuous run to check for pending scheduled tasks
+    while True:
+        schedule.run_pending()
+        time.sleep(30)
 
 if __name__ == "__main__":
     try:
@@ -169,3 +180,4 @@ if __name__ == "__main__":
         log_message("Bot stopped by user.")
     except Exception as e:
         log_message(f"Fatal error: {e}")
+
