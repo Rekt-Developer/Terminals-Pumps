@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 11:13:50 UTC
+**Last updated:** 2024-10-26 11:23:55 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $66923 USD
-  - Market Cap: $1322836635045.653 USD
-  - 24h Volume: $46344744027.103905 USD
-  - 24h Change: -1.4286716132950235%
+- **Bitcoin (BTC)**: $67005 USD
+  - Market Cap: $1324182575534.1846 USD
+  - 24h Volume: $46618476722.80044 USD
+  - 24h Change: -1.3549260172565007%
 
-- **Ethereum (ETH)**: $2462.66 USD
-  - Market Cap: $296501414979.8829 USD
-  - 24h Volume: $22841099604.794567 USD
-  - 24h Change: -2.9809836178596614%
+- **Ethereum (ETH)**: $2465.35 USD
+  - Market Cap: $296703784994.24115 USD
+  - 24h Volume: $22820848460.405315 USD
+  - 24h Change: -2.91183714316018%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
   - Market Cap Rank: 761
-  - Price (BTC): 6.221170077117239e-11
+  - Price (BTC): 6.238756693146698e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 95
-  - Price (BTC): 1.1993383908953266e-05
+  - Market Cap Rank: 94
+  - Price (BTC): 1.197207192491124e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **TARS AI (TAI)**
-  - Market Cap Rank: 634
-  - Price (BTC): 1.8810066322946247e-06
+  - Market Cap Rank: 633
+  - Price (BTC): 1.8762301875124192e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Luna by Virtuals (LUNA)**
-  - Market Cap Rank: 297
-  - Price (BTC): 2.5725795695322108e-06
+  - Market Cap Rank: 311
+  - Price (BTC): 2.517884422425964e-06
   - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 166
-  - Price (BTC): 6.638147337803788e-06
+  - Price (BTC): 6.509114013860228e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 26
+  - Price (BTC): 2.666384145671698e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Scroll (SCR)**
   - Market Cap Rank: 314
-  - Price (BTC): 1.2688409306247982e-05
+  - Price (BTC): 1.2678788426575879e-05
   - [More Info](https://www.coingecko.com/en/coins/scroll)
 
 - **Moo Deng (MOODENG)**
   - Market Cap Rank: 251
-  - Price (BTC): 3.7068876553976682e-06
+  - Price (BTC): 3.7124592178679926e-06
   - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.664838141968696e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0025258266890222144
+  - Price (BTC): 0.0025208512207607623
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **SPX6900 (SPX)**
-  - Market Cap Rank: 103
-  - Price (BTC): 1.1682657880863204e-05
+  - Market Cap Rank: 104
+  - Price (BTC): 1.1694727903687783e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 29
-  - Price (BTC): 0.007700631097511281
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Spectral (SPEC)**
+  - Market Cap Rank: 347
+  - Price (BTC): 0.00017305287739245763
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 - **Aptos (APT)**
   - Market Cap Rank: 27
-  - Price (BTC): 0.00013785502453052113
+  - Price (BTC): 0.00013812948836778617
   - [More Info](https://www.coingecko.com/en/coins/aptos)
 
-- **Ondo (ONDO)**
-  - Market Cap Rank: 79
-  - Price (BTC): 1.0326877032775459e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 29
+  - Price (BTC): 0.007684560950067398
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
-- **Spectral (SPEC)**
-  - Market Cap Rank: 346
-  - Price (BTC): 0.00017294977998701192
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
+- **CHEX Token (CHEX)**
+  - Market Cap Rank: 245
+  - Price (BTC): 3.7421768912610306e-06
+  - [More Info](https://www.coingecko.com/en/coins/chex-token)
 
-- **Celestia (TIA)**
-  - Market Cap Rank: 70
-  - Price (BTC): 8.00856410207778e-05
-  - [More Info](https://www.coingecko.com/en/coins/celestia)
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 150
+  - Price (BTC): 4.2115299160278546e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
 ## Posts
 - **Post ID: 1**
