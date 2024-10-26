@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 10:22:01 UTC
+**Last updated:** 2024-10-26 10:25:21 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67090 USD
-  - Market Cap: $1324819684734.1345 USD
-  - 24h Volume: $46898284822.90758 USD
-  - 24h Change: -0.7925270645754406%
+- **Bitcoin (BTC)**: $67070 USD
+  - Market Cap: $1325932462900.237 USD
+  - 24h Volume: $45824117676.51974 USD
+  - 24h Change: -0.9373841036965633%
 
-- **Ethereum (ETH)**: $2469.91 USD
-  - Market Cap: $297102208994.82196 USD
-  - 24h Volume: $23085387428.501488 USD
-  - 24h Change: -2.428834293060165%
+- **Ethereum (ETH)**: $2470.53 USD
+  - Market Cap: $297386798114.84705 USD
+  - 24h Volume: $23073849625.714836 USD
+  - 24h Change: -2.558722717325728%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 713
-  - Price (BTC): 7.125648454732753e-11
+  - Market Cap Rank: 712
+  - Price (BTC): 7.129285812563306e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 92
-  - Price (BTC): 1.2473942747544509e-05
+  - Market Cap Rank: 93
+  - Price (BTC): 1.2424712866323148e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **TARS AI (TAI)**
   - Market Cap Rank: 631
-  - Price (BTC): 1.8954726623284597e-06
+  - Price (BTC): 1.8979311303623888e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
-- **Luna by Virtuals (LUNA)**
-  - Market Cap Rank: 288
-  - Price (BTC): 2.833340893039554e-06
-  - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
-
 - **Moo Deng (MOODENG)**
-  - Market Cap Rank: 257
-  - Price (BTC): 3.668753226701209e-06
+  - Market Cap Rank: 253
+  - Price (BTC): 3.6946669832771663e-06
   - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
+- **Luna by Virtuals (LUNA)**
+  - Market Cap Rank: 291
+  - Price (BTC): 2.8413913919229337e-06
+  - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
+
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 164
-  - Price (BTC): 6.6031982259525686e-06
+  - Market Cap Rank: 166
+  - Price (BTC): 6.557661007878039e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.6619426314523705e-05
+  - Price (BTC): 2.6613407606253245e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Scroll (SCR)**
-  - Market Cap Rank: 312
-  - Price (BTC): 1.2651930380715462e-05
+  - Market Cap Rank: 314
+  - Price (BTC): 1.2656953331613715e-05
   - [More Info](https://www.coingecko.com/en/coins/scroll)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0025246404189965916
+  - Price (BTC): 0.002530508026950804
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 29
+  - Price (BTC): 0.007735758516026903
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 - **SPX6900 (SPX)**
   - Market Cap Rank: 102
-  - Price (BTC): 1.1925554337837655e-05
+  - Price (BTC): 1.1921019753355847e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.036829560033538385
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Moonwell (WELL)**
+  - Market Cap Rank: 236
+  - Price (BTC): 1.3211656639786661e-06
+  - [More Info](https://www.coingecko.com/en/coins/moonwell)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 34
-  - Price (BTC): 1.7831075357129303e-06
+  - Price (BTC): 1.781932497566048e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 30
-  - Price (BTC): 1.3503267544766218e-10
+  - Price (BTC): 1.35269810853205e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 29
-  - Price (BTC): 0.00772815401456017
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03682164943517148
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Render (RENDER)**
-  - Market Cap Rank: 52
-  - Price (BTC): 7.155691489147996e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
 
 ## Posts
 - **Post ID: 1**
