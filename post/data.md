@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 10:49:43 UTC
+**Last updated:** 2024-10-26 10:54:47 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67002 USD
-  - Market Cap: $1325406045080.864 USD
-  - 24h Volume: $47074702534.897026 USD
-  - 24h Change: -1.1463911674392258%
+- **Bitcoin (BTC)**: $67001 USD
+  - Market Cap: $1324694929110.5632 USD
+  - 24h Volume: $46581378862.91718 USD
+  - 24h Change: -1.2160702817543998%
 
-- **Ethereum (ETH)**: $2466.63 USD
-  - Market Cap: $297055500913.3408 USD
-  - 24h Volume: $23150676094.719532 USD
-  - 24h Change: -2.867154359182827%
+- **Ethereum (ETH)**: $2466.28 USD
+  - Market Cap: $296884657199.9715 USD
+  - 24h Volume: $23049222096.140194 USD
+  - 24h Change: -2.9718906397279614%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 737
-  - Price (BTC): 6.658618361596278e-11
+  - Market Cap Rank: 741
+  - Price (BTC): 6.482965012878865e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 94
-  - Price (BTC): 1.2051361206276093e-05
+  - Market Cap Rank: 95
+  - Price (BTC): 1.1802428035309375e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **TARS AI (TAI)**
+  - Market Cap Rank: 632
+  - Price (BTC): 1.8960003688361877e-06
+  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Luna by Virtuals (LUNA)**
   - Market Cap Rank: 291
-  - Price (BTC): 2.830245351507884e-06
+  - Price (BTC): 2.8137467925841065e-06
   - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
 
-- **TARS AI (TAI)**
-  - Market Cap Rank: 631
-  - Price (BTC): 1.89460007753951e-06
-  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
-
 - **Moo Deng (MOODENG)**
-  - Market Cap Rank: 242
-  - Price (BTC): 3.829681059660374e-06
+  - Market Cap Rank: 246
+  - Price (BTC): 3.7302820414653036e-06
   - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 166
-  - Price (BTC): 6.646181724750958e-06
+  - Market Cap Rank: 164
+  - Price (BTC): 6.690993060174969e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.6611114836276383e-05
+  - Price (BTC): 2.6603304256007154e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Scroll (SCR)**
-  - Market Cap Rank: 313
-  - Price (BTC): 1.263483002552601e-05
+  - Market Cap Rank: 314
+  - Price (BTC): 1.2607595763952324e-05
   - [More Info](https://www.coingecko.com/en/coins/scroll)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002532004461909264
+  - Price (BTC): 0.002529114992006703
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **SPX6900 (SPX)**
   - Market Cap Rank: 103
-  - Price (BTC): 1.1848514389512692e-05
+  - Price (BTC): 1.1802929977222836e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 150
+  - Price (BTC): 4.211881271462968e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+
+- **Celestia (TIA)**
+  - Market Cap Rank: 70
+  - Price (BTC): 8.028268446052683e-05
+  - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 29
-  - Price (BTC): 0.0077427667554988205
+  - Price (BTC): 0.00772379319744703
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Aptos (APT)**
+  - Market Cap Rank: 27
+  - Price (BTC): 0.0001376279679428118
+  - [More Info](https://www.coingecko.com/en/coins/aptos)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03681589922610818
+  - Price (BTC): 0.03679644335693421
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 65
-  - Price (BTC): 1.4754770139370003e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.763886447006755e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Render (RENDER)**
-  - Market Cap Rank: 52
-  - Price (BTC): 7.164928481515653e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
 
 ## Posts
 - **Post ID: 1**
