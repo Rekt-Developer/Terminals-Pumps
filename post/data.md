@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-27 20:31:56 UTC
+**Last updated:** 2024-10-27 21:24:57 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67795 USD
-  - Market Cap: $1340487429551.324 USD
-  - 24h Volume: $10425404697.959505 USD
-  - 24h Change: 0.7749230682211574%
+- **Bitcoin (BTC)**: $67762 USD
+  - Market Cap: $1339043079730.9365 USD
+  - 24h Volume: $14864469855.372446 USD
+  - 24h Change: 0.9718950742048107%
 
-- **Ethereum (ETH)**: $2491.99 USD
-  - Market Cap: $299969904149.0301 USD
-  - 24h Volume: $8292023128.599274 USD
-  - 24h Change: -0.34092521078960875%
+- **Ethereum (ETH)**: $2493.56 USD
+  - Market Cap: $300054611706.0092 USD
+  - 24h Volume: $8129740132.617257 USD
+  - 24h Change: 0.2963707965837015%
 
 ## Trending Coins
 - **KLAUS (KLAUS)**
-  - Market Cap Rank: 974
-  - Price (BTC): 3.6343381278169815e-07
+  - Market Cap Rank: 961
+  - Price (BTC): 3.74026541853182e-07
   - [More Info](https://www.coingecko.com/en/coins/klaus)
-
-- **TARS AI (TAI)**
-  - Market Cap Rank: 631
-  - Price (BTC): 1.8793552225562278e-06
-  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Qubic (QUBIC)**
   - Market Cap Rank: 303
-  - Price (BTC): 2.241380679388793e-11
+  - Price (BTC): 2.2458927814712326e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
-- **Raydium (RAY)**
-  - Market Cap Rank: 85
-  - Price (BTC): 5.195343137795937e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
+- **TARS AI (TAI)**
+  - Market Cap Rank: 632
+  - Price (BTC): 1.8803425453278838e-06
+  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 131
-  - Price (BTC): 8.917265410272406e-06
+  - Market Cap Rank: 138
+  - Price (BTC): 8.606910896053296e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **KOALA AI (KOKO)**
-  - Market Cap Rank: 670
-  - Price (BTC): 7.918593748770537e-11
-  - [More Info](https://www.coingecko.com/en/coins/koala-ai)
-
 - **AI Companions (AIC)**
-  - Market Cap Rank: 483
-  - Price (BTC): 1.3933045392524795e-06
+  - Market Cap Rank: 480
+  - Price (BTC): 1.3979282590567704e-06
   - [More Info](https://www.coingecko.com/en/coins/ai-companions)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 160
-  - Price (BTC): 7.003610204108078e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **Raydium (RAY)**
+  - Market Cap Rank: 86
+  - Price (BTC): 5.152028001467429e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.5731920461475698e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **KOALA AI (KOKO)**
+  - Market Cap Rank: 672
+  - Price (BTC): 7.908641838328875e-11
+  - [More Info](https://www.coingecko.com/en/coins/koala-ai)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 159
+  - Price (BTC): 7.215956163883886e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002608208986303448
+  - Price (BTC): 0.0026113914191587787
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Nosana (NOS)**
-  - Market Cap Rank: 200
-  - Price (BTC): 5.949462536823829e-05
-  - [More Info](https://www.coingecko.com/en/coins/nosana)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 100
-  - Price (BTC): 1.2436261362943907e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Moonwell (WELL)**
-  - Market Cap Rank: 230
-  - Price (BTC): 1.380899299436063e-06
-  - [More Info](https://www.coingecko.com/en/coins/moonwell)
+- **Sui (SUI)**
+  - Market Cap Rank: 26
+  - Price (BTC): 2.5529205402019716e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 61
-  - Price (BTC): 2.2596038350522423e-05
+  - Price (BTC): 2.2438204524399374e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 292
-  - Price (BTC): 2.8615262515204603e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+- **Jupiter (JUP)**
+  - Market Cap Rank: 65
+  - Price (BTC): 1.5149811454232962e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 98
+  - Price (BTC): 1.286688192476688e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Luna by Virtuals (LUNA)**
+  - Market Cap Rank: 282
+  - Price (BTC): 3.094618681914285e-06
+  - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
+
+- **Spectral (SPEC)**
+  - Market Cap Rank: 346
+  - Price (BTC): 0.00017477419301822013
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 ## Posts
 - **Post ID: 1**
