@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-27 05:32:08 UTC
+**Last updated:** 2024-10-27 06:40:15 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67097 USD
-  - Market Cap: $1326467499759.5645 USD
-  - 24h Volume: $16048566113.371178 USD
-  - 24h Change: 0.08754158006098177%
+- **Bitcoin (BTC)**: $67048 USD
+  - Market Cap: $1325835015571.552 USD
+  - 24h Volume: $15668908337.373793 USD
+  - 24h Change: -0.1396364432157645%
 
-- **Ethereum (ETH)**: $2478.24 USD
-  - Market Cap: $298307794260.6868 USD
-  - 24h Volume: $10548192109.78315 USD
-  - 24h Change: 0.613397623158596%
+- **Ethereum (ETH)**: $2476.3 USD
+  - Market Cap: $298146378379.005 USD
+  - 24h Volume: $10160359537.20646 USD
+  - 24h Change: 0.1639018004623191%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 717
-  - Price (BTC): 7.113082921982093e-11
+  - Market Cap Rank: 718
+  - Price (BTC): 7.0474510372673e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 125
+  - Price (BTC): 9.672214296401401e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
 - **TARS AI (TAI)**
-  - Market Cap Rank: 614
-  - Price (BTC): 1.9956286729324366e-06
+  - Market Cap Rank: 625
+  - Price (BTC): 1.950188114042688e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
-- **Moonwell (WELL)**
-  - Market Cap Rank: 234
-  - Price (BTC): 1.3501889153772644e-06
-  - [More Info](https://www.coingecko.com/en/coins/moonwell)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 165
-  - Price (BTC): 6.685791844717801e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
 - **Moo Deng (MOODENG)**
-  - Market Cap Rank: 264
-  - Price (BTC): 3.4330354098067383e-06
+  - Market Cap Rank: 268
+  - Price (BTC): 3.309691964075272e-06
   - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 96
-  - Price (BTC): 1.766207541138767e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 122
-  - Price (BTC): 9.703255868116085e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002571868062753222
+  - Price (BTC): 0.0025712312744766586
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 92
-  - Price (BTC): 4.78772353455739e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.6934411523062694e-05
+  - Price (BTC): 2.69743135925418e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Nosana (NOS)**
-  - Market Cap Rank: 197
-  - Price (BTC): 6.14390239280436e-05
-  - [More Info](https://www.coingecko.com/en/coins/nosana)
+- **Raydium (RAY)**
+  - Market Cap Rank: 94
+  - Price (BTC): 4.704511980141514e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 113
-  - Price (BTC): 2.640575715337823e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 96
+  - Price (BTC): 1.7697982802597358e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 160
+  - Price (BTC): 6.862219490382352e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Moonwell (WELL)**
+  - Market Cap Rank: 239
+  - Price (BTC): 1.3146337632310999e-06
+  - [More Info](https://www.coingecko.com/en/coins/moonwell)
+
+- **Gigachad (GIGA)**
+  - Market Cap Rank: 147
+  - Price (BTC): 8.420696559163005e-07
+  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
+
+- **DeepBook (DEEP)**
+  - Market Cap Rank: 343
+  - Price (BTC): 8.618833162250653e-07
+  - [More Info](https://www.coingecko.com/en/coins/deepbook)
+
+- **Spectral (SPEC)**
+  - Market Cap Rank: 333
+  - Price (BTC): 0.00018481667768736342
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 - **Neiro (NEIRO)**
-  - Market Cap Rank: 118
-  - Price (BTC): 2.3667457913422823e-08
+  - Market Cap Rank: 116
+  - Price (BTC): 2.388178467954572e-08
   - [More Info](https://www.coingecko.com/en/coins/neiro-3)
 
-- **Ondo (ONDO)**
-  - Market Cap Rank: 79
-  - Price (BTC): 1.020071502021992e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 933
-  - Price (BTC): 4.0869646874490767e-07
-  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 146
+  - Price (BTC): 4.329355136015558e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
 ## Posts
 - **Post ID: 1**
