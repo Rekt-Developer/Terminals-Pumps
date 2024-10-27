@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-26 23:26:22 UTC
+**Last updated:** 2024-10-27 03:00:34 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67021 USD
-  - Market Cap: $1325270677174.827 USD
-  - 24h Volume: $18684127593.533157 USD
-  - 24h Change: 2.222645476550621%
+- **Bitcoin (BTC)**: $66969 USD
+  - Market Cap: $1324084156086.8374 USD
+  - 24h Volume: $17014155194.33028 USD
+  - 24h Change: 0.3442710380244673%
 
-- **Ethereum (ETH)**: $2481.95 USD
-  - Market Cap: $298840542547.8195 USD
-  - 24h Volume: $14950675742.820404 USD
-  - 24h Change: 3.468797757654841%
+- **Ethereum (ETH)**: $2471.01 USD
+  - Market Cap: $297541139856.9871 USD
+  - 24h Volume: $11110615366.849253 USD
+  - 24h Change: 1.1420097750067808%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 711
-  - Price (BTC): 7.122267889053948e-11
+  - Market Cap Rank: 707
+  - Price (BTC): 7.153841844218228e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
 
 - **TARS AI (TAI)**
-  - Market Cap Rank: 614
-  - Price (BTC): 1.9820288266055794e-06
+  - Market Cap Rank: 616
+  - Price (BTC): 1.9689658736483134e-06
   - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.070757621511787e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 176
-  - Price (BTC): 5.898970223995273e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.6846140198998058e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 300
-  - Price (BTC): 2.2397047032291098e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 248
-  - Price (BTC): 3.7220662159064674e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
-
-- **Spectral (SPEC)**
-  - Market Cap Rank: 343
-  - Price (BTC): 0.00017414999785350186
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
-
-- **AI Companions (AIC)**
-  - Market Cap Rank: 475
-  - Price (BTC): 1.4155828133116182e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
-
 - **Moonwell (WELL)**
-  - Market Cap Rank: 214
-  - Price (BTC): 1.52282270053406e-06
+  - Market Cap Rank: 227
+  - Price (BTC): 1.3778079652452905e-06
   - [More Info](https://www.coingecko.com/en/coins/moonwell)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 331
-  - Price (BTC): 1.1781034324413962e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 173
+  - Price (BTC): 6.0247392643484586e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 116
+  - Price (BTC): 1.0042128968297477e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 99
-  - Price (BTC): 1.7062600759224848e-05
+  - Market Cap Rank: 97
+  - Price (BTC): 1.7445806611393038e-05
   - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
+- **Shuffle (SHFL)**
+  - Market Cap Rank: 630
+  - Price (BTC): 5.637722032013818e-06
+  - [More Info](https://www.coingecko.com/en/coins/shuffle)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 253
+  - Price (BTC): 3.6398946267817698e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0025511974363233844
+  - Price (BTC): 0.0025630004902667297
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Aave (AAVE)**
-  - Market Cap Rank: 46
-  - Price (BTC): 0.00212860564647926
-  - [More Info](https://www.coingecko.com/en/coins/aave)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 103
+  - Price (BTC): 1.1791442163949493e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03704725947674472
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 144
+  - Price (BTC): 4.398458775911386e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 65
+  - Price (BTC): 1.480302724324824e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 26
+  - Price (BTC): 2.6625428278823965e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Spectral (SPEC)**
+  - Market Cap Rank: 343
+  - Price (BTC): 0.00017650678517710258
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 ## Posts
 - **Post ID: 1**
