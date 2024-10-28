@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-28 06:45:29 UTC
+**Last updated:** 2024-10-28 07:29:44 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $67801 USD
-  - Market Cap: $1340569372272.2932 USD
-  - 24h Volume: $17668117116.44836 USD
-  - 24h Change: 1.1266539428675115%
+- **Bitcoin (BTC)**: $68527 USD
+  - Market Cap: $1355080778449.5076 USD
+  - 24h Volume: $18083048974.85553 USD
+  - 24h Change: 2.1172508876072413%
 
-- **Ethereum (ETH)**: $2484.24 USD
-  - Market Cap: $298965620319.33936 USD
-  - 24h Volume: $8729213393.785095 USD
-  - 24h Change: 0.3453674921481223%
+- **Ethereum (ETH)**: $2520.0 USD
+  - Market Cap: $303415177252.43536 USD
+  - 24h Volume: $9720820120.986036 USD
+  - 24h Change: 1.687297736547351%
 
 ## Trending Coins
 - **KOALA AI (KOKO)**
-  - Market Cap Rank: 620
-  - Price (BTC): 8.946252025076275e-11
+  - Market Cap Rank: 625
+  - Price (BTC): 8.878266435961052e-11
   - [More Info](https://www.coingecko.com/en/coins/koala-ai)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 136
+  - Price (BTC): 8.598318238331969e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Sui (SUI)**
   - Market Cap Rank: 26
-  - Price (BTC): 2.4970769504246032e-05
+  - Price (BTC): 2.5153009403822696e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 140
-  - Price (BTC): 8.38163817826146e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **TARS AI (TAI)**
+  - Market Cap Rank: 624
+  - Price (BTC): 1.9038497264325758e-06
+  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 170
+  - Price (BTC): 6.159239360983975e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.1015896146619987e-06
+  - Price (BTC): 2.108952583038077e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **TARS AI (TAI)**
-  - Market Cap Rank: 627
-  - Price (BTC): 1.8922713505600132e-06
-  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 273
+  - Price (BTC): 3.2436987647665366e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 90
+  - Price (BTC): 4.911595084227849e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Neiro (NEIRO)**
+  - Market Cap Rank: 116
+  - Price (BTC): 2.3504709445282177e-08
+  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002561526408583217
+  - Price (BTC): 0.002572367827841183
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 168
-  - Price (BTC): 6.2780560513907575e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 97
+  - Price (BTC): 1.2721274155110859e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
-- **Neiro (NEIRO)**
-  - Market Cap Rank: 117
-  - Price (BTC): 2.3160315068098608e-08
-  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
-
-- **Moonwell (WELL)**
-  - Market Cap Rank: 213
-  - Price (BTC): 1.4946167253194011e-06
-  - [More Info](https://www.coingecko.com/en/coins/moonwell)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 95
-  - Price (BTC): 1.7899795943828895e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
-
-- **Luna by Virtuals (LUNA)**
+- **MAGA (TRUMP)**
   - Market Cap Rank: 294
-  - Price (BTC): 2.7364155640164815e-06
-  - [More Info](https://www.coingecko.com/en/coins/luna-by-virtuals)
+  - Price (BTC): 5.8276602669023995e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 341
-  - Price (BTC): 1.1181663359949503e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 61
+  - Price (BTC): 2.222685060061939e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Jupiter (JUP)**
-  - Market Cap Rank: 65
-  - Price (BTC): 1.4602735399171724e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.036789901595111245
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **NEAR Protocol (NEAR)**
-  - Market Cap Rank: 25
-  - Price (BTC): 6.126255482635905e-05
-  - [More Info](https://www.coingecko.com/en/coins/near)
+- **Neiro on ETH (NEIRO)**
+  - Market Cap Rank: 412
+  - Price (BTC): 1.6086354191553964e-06
+  - [More Info](https://www.coingecko.com/en/coins/neiro-on-eth)
 
 ## Posts
 - **Post ID: 1**
