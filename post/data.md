@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-29 09:31:55 UTC
+**Last updated:** 2024-10-29 10:39:53 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $71266 USD
-  - Market Cap: $1409122437807.5642 USD
-  - 24h Volume: $51257911078.221 USD
-  - 24h Change: 4.476171743967534%
+- **Bitcoin (BTC)**: $71108 USD
+  - Market Cap: $1406066325388.0967 USD
+  - 24h Volume: $46490724662.99125 USD
+  - 24h Change: 3.5162291854391703%
 
-- **Ethereum (ETH)**: $2622.8 USD
-  - Market Cap: $315648784627.3089 USD
-  - 24h Volume: $22396617599.531647 USD
-  - 24h Change: 4.581778912342823%
+- **Ethereum (ETH)**: $2621.41 USD
+  - Market Cap: $315365630297.68665 USD
+  - 24h Volume: $22423000897.42764 USD
+  - 24h Change: 3.427548258596038%
 
 ## Trending Coins
 - **Grass (GRASS)**
-  - Market Cap Rank: 281
-  - Price (BTC): 1.2200964154474585e-05
+  - Market Cap Rank: 284
+  - Price (BTC): 1.2251453583627702e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 291
-  - Price (BTC): 6.278557352179176e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 25
-  - Price (BTC): 2.62949836663207e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 91
-  - Price (BTC): 1.3497103696947664e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.319227969095063e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 128
-  - Price (BTC): 9.054329873395235e-06
+  - Price (BTC): 9.358329700787304e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **TARS AI (TAI)**
-  - Market Cap Rank: 618
-  - Price (BTC): 1.9296813620370847e-06
-  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
+- **Sui (SUI)**
+  - Market Cap Rank: 25
+  - Price (BTC): 2.6599581072409262e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 90
+  - Price (BTC): 1.3644975493612879e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0025403705409865734
+  - Price (BTC): 0.0025430640506831515
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.0367928256708686
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 295
+  - Price (BTC): 6.071232623776415e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.320582437887786e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 351
-  - Price (BTC): 1.0778547130511689e-05
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
-
 - **Popcat (POPCAT)**
   - Market Cap Rank: 59
-  - Price (BTC): 2.408887452759153e-05
+  - Price (BTC): 2.4456135920654425e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Clearpool (CPOOL)**
-  - Market Cap Rank: 355
-  - Price (BTC): 2.8696564086535284e-06
-  - [More Info](https://www.coingecko.com/en/coins/clearpool)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 30
+  - Price (BTC): 0.007604567054389957
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
-- **Jupiter (JUP)**
-  - Market Cap Rank: 65
-  - Price (BTC): 1.4770688737678174e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.036889465176264145
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 177
+  - Price (BTC): 5.794452754317984e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Aerodrome Finance (AERO)**
   - Market Cap Rank: 95
-  - Price (BTC): 1.8111583127001665e-05
+  - Price (BTC): 1.804898638649546e-05
   - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
+- **Mog Coin (MOG)**
+  - Market Cap Rank: 105
+  - Price (BTC): 2.7470783686575947e-11
+  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
+
+- **Clearpool (CPOOL)**
+  - Market Cap Rank: 346
+  - Price (BTC): 3.0275739247495114e-06
+  - [More Info](https://www.coingecko.com/en/coins/clearpool)
 
 ## Posts
 - **Post ID: 1**
