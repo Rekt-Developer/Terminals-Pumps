@@ -1,48 +1,48 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-29 18:42:30 UTC
+**Last updated:** 2024-10-29 19:22:56 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72946 USD
-  - Market Cap: $1442324360585.8677 USD
-  - 24h Volume: $59160992656.088135 USD
-  - 24h Change: 5.777562190487718%
+- **Bitcoin (BTC)**: $73295 USD
+  - Market Cap: $1454863712415.2495 USD
+  - 24h Volume: $65210684922.86807 USD
+  - 24h Change: 5.155693661271832%
 
-- **Ethereum (ETH)**: $2657.38 USD
-  - Market Cap: $319859095420.14545 USD
-  - 24h Volume: $22133824626.6187 USD
-  - 24h Change: 6.313388847733416%
+- **Ethereum (ETH)**: $2661.93 USD
+  - Market Cap: $320910151417.7606 USD
+  - 24h Volume: $24312855047.083485 USD
+  - 24h Change: 5.665397315939347%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 268
-  - Price (BTC): 4.860081988679132e-10
+  - Market Cap Rank: 271
+  - Price (BTC): 4.83312675087654e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Phil (PHIL)**
-  - Market Cap Rank: 804
-  - Price (BTC): 5.088874582873949e-07
+  - Market Cap Rank: 796
+  - Price (BTC): 5.234382414415306e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
-- **RabBitcoin (RBTC)**
-  - Market Cap Rank: 711
-  - Price (BTC): 5.206893243276353e-11
-  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
+- **AI Companions (AIC)**
+  - Market Cap Rank: 448
+  - Price (BTC): 1.6009963800841409e-06
+  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 264
-  - Price (BTC): 1.3933834182213089e-05
+  - Price (BTC): 1.3860347314356434e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **RabBitcoin (RBTC)**
+  - Market Cap Rank: 715
+  - Price (BTC): 5.108808579120935e-11
+  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 2.7899015375963705e-05
+  - Price (BTC): 2.7831475831838173e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **AI Companions (AIC)**
-  - Market Cap Rank: 461
-  - Price (BTC): 1.4766385406654643e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai-companions)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -50,44 +50,44 @@
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 307
-  - Price (BTC): 2.2023777845519088e-11
+  - Market Cap Rank: 305
+  - Price (BTC): 2.2164665490887283e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 122
-  - Price (BTC): 9.563263797230658e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0024854355502608645
+  - Price (BTC): 0.0024702031527408606
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 59
-  - Price (BTC): 2.4441199475683115e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.3878655658992627e-06
+  - Price (BTC): 2.394069074388821e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Celestia (TIA)**
-  - Market Cap Rank: 74
-  - Price (BTC): 7.338652507687872e-05
-  - [More Info](https://www.coingecko.com/en/coins/celestia)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 122
+  - Price (BTC): 9.465541571000875e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Degen (Base) (DEGEN)**
+  - Market Cap Rank: 338
+  - Price (BTC): 1.2637017776703941e-07
+  - [More Info](https://www.coingecko.com/en/coins/degen-base)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 59
+  - Price (BTC): 2.4234184795693195e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **SPX6900 (SPX)**
-  - Market Cap Rank: 94
-  - Price (BTC): 1.287091515337667e-05
+  - Market Cap Rank: 93
+  - Price (BTC): 1.2922620715452713e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
-- **CHEX Token (CHEX)**
-  - Market Cap Rank: 227
-  - Price (BTC): 4.104258460952432e-06
-  - [More Info](https://www.coingecko.com/en/coins/chex-token)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03633358805754625
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
