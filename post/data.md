@@ -1,33 +1,33 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-29 16:43:43 UTC
+**Last updated:** 2024-10-29 17:33:06 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72542 USD
-  - Market Cap: $1434315428217.261 USD
-  - 24h Volume: $59997709895.536095 USD
-  - 24h Change: 5.812967302624362%
+- **Bitcoin (BTC)**: $72936 USD
+  - Market Cap: $1442477376414.5183 USD
+  - 24h Volume: $53330929782.4511 USD
+  - 24h Change: 5.549606717655015%
 
-- **Ethereum (ETH)**: $2644.9 USD
-  - Market Cap: $318430109719.117 USD
-  - 24h Volume: $23185627288.533417 USD
-  - 24h Change: 5.634087805513168%
+- **Ethereum (ETH)**: $2672.17 USD
+  - Market Cap: $321659771679.7441 USD
+  - 24h Volume: $23574838604.155632 USD
+  - 24h Change: 6.559627176186337%
 
 ## Trending Coins
 - **Phil (PHIL)**
-  - Market Cap Rank: 802
-  - Price (BTC): 5.205071429622655e-07
+  - Market Cap Rank: 797
+  - Price (BTC): 5.212747776331341e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
+
+- **RabBitcoin (RBTC)**
+  - Market Cap Rank: 709
+  - Price (BTC): 5.212172771481089e-11
+  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 264
-  - Price (BTC): 1.3701968396120375e-05
+  - Price (BTC): 1.4227957659778981e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **RabBitcoin (RBTC)**
-  - Market Cap Rank: 711
-  - Price (BTC): 5.130745662572361e-11
-  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -36,58 +36,58 @@
 
 - **Qubic (QUBIC)**
   - Market Cap Rank: 305
-  - Price (BTC): 2.2315114466315545e-11
+  - Price (BTC): 2.2253901907569702e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.7740935264954775e-05
+  - Market Cap Rank: 21
+  - Price (BTC): 2.8231033122647757e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **AI Companions (AIC)**
-  - Market Cap Rank: 469
-  - Price (BTC): 1.4308001755571908e-06
+  - Market Cap Rank: 467
+  - Price (BTC): 1.4576815883605757e-06
   - [More Info](https://www.coingecko.com/en/coins/ai-companions)
 
 - **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.439651458657985e-06
+  - Market Cap Rank: 9
+  - Price (BTC): 2.4309223128845996e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **CHEX Token (CHEX)**
-  - Market Cap Rank: 219
-  - Price (BTC): 4.28992633429636e-06
-  - [More Info](https://www.coingecko.com/en/coins/chex-token)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0024982983434086218
+  - Price (BTC): 0.00249910747662724
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 119
-  - Price (BTC): 9.671297934982511e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 301
-  - Price (BTC): 5.856571858272015e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 59
-  - Price (BTC): 2.4338245280738293e-05
+  - Price (BTC): 2.4518425793393113e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 98
-  - Price (BTC): 1.2423906065975799e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.3493504120211905e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 299
+  - Price (BTC): 5.94051571683044e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **mETH Protocol (COOK)**
-  - Market Cap Rank: 995
-  - Price (BTC): 3.7008147092379724e-07
+  - Market Cap Rank: 957
+  - Price (BTC): 3.7701826741608644e-07
   - [More Info](https://www.coingecko.com/en/coins/meth-protocol)
+
+- **CHEX Token (CHEX)**
+  - Market Cap Rank: 221
+  - Price (BTC): 4.281309875997262e-06
+  - [More Info](https://www.coingecko.com/en/coins/chex-token)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03663534950545851
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
