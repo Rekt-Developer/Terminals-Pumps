@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-29 08:39:37 UTC
+**Last updated:** 2024-10-29 09:31:55 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $71091 USD
-  - Market Cap: $1406031403468.4033 USD
-  - 24h Volume: $51835329860.516914 USD
-  - 24h Change: 4.16465126944159%
+- **Bitcoin (BTC)**: $71266 USD
+  - Market Cap: $1409122437807.5642 USD
+  - 24h Volume: $51257911078.221 USD
+  - 24h Change: 4.476171743967534%
 
-- **Ethereum (ETH)**: $2618.84 USD
-  - Market Cap: $315326882132.242 USD
-  - 24h Volume: $22354163603.944042 USD
-  - 24h Change: 4.422506198151893%
+- **Ethereum (ETH)**: $2622.8 USD
+  - Market Cap: $315648784627.3089 USD
+  - 24h Volume: $22396617599.531647 USD
+  - 24h Change: 4.581778912342823%
 
 ## Trending Coins
 - **Grass (GRASS)**
   - Market Cap Rank: 281
-  - Price (BTC): 1.2369978248687183e-05
+  - Price (BTC): 1.2200964154474585e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 127
-  - Price (BTC): 9.282587612655486e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 291
+  - Price (BTC): 6.278557352179176e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Sui (SUI)**
   - Market Cap Rank: 25
-  - Price (BTC): 2.6182179821990073e-05
+  - Price (BTC): 2.62949836663207e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002542093291728083
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 289
-  - Price (BTC): 6.277582657074155e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **TARS AI (TAI)**
-  - Market Cap Rank: 624
-  - Price (BTC): 1.9015669097699028e-06
-  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 91
+  - Price (BTC): 1.3497103696947664e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.3284552467284813e-06
+  - Price (BTC): 2.319227969095063e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 59
-  - Price (BTC): 2.383898671872559e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 128
+  - Price (BTC): 9.054329873395235e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **TARS AI (TAI)**
+  - Market Cap Rank: 618
+  - Price (BTC): 1.9296813620370847e-06
+  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0025403705409865734
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.0367928256708686
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 179
-  - Price (BTC): 5.6315744861047166e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 92
-  - Price (BTC): 1.3399563153405175e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.036865860991881924
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.3465341536975533e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
 - **Scroll (SCR)**
-  - Market Cap Rank: 348
-  - Price (BTC): 1.091357390820862e-05
+  - Market Cap Rank: 351
+  - Price (BTC): 1.0778547130511689e-05
   - [More Info](https://www.coingecko.com/en/coins/scroll)
 
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 150
-  - Price (BTC): 4.031388061665206e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 59
+  - Price (BTC): 2.408887452759153e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Clearpool (CPOOL)**
+  - Market Cap Rank: 355
+  - Price (BTC): 2.8696564086535284e-06
+  - [More Info](https://www.coingecko.com/en/coins/clearpool)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 65
+  - Price (BTC): 1.4770688737678174e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 95
+  - Price (BTC): 1.8111583127001665e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 ## Posts
 - **Post ID: 1**
