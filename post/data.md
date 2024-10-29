@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-29 20:31:24 UTC
+**Last updated:** 2024-10-29 21:27:29 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $71952 USD
-  - Market Cap: $1422324182815.3022 USD
-  - 24h Volume: $62726446981.83935 USD
-  - 24h Change: 3.656004048048002%
+- **Bitcoin (BTC)**: $72494 USD
+  - Market Cap: $1433519875192.1233 USD
+  - 24h Volume: $67373490308.22318 USD
+  - 24h Change: 4.238434444225354%
 
-- **Ethereum (ETH)**: $2609.33 USD
-  - Market Cap: $314176034154.6836 USD
-  - 24h Volume: $24236732933.304745 USD
-  - 24h Change: 4.034660465411964%
+- **Ethereum (ETH)**: $2625.35 USD
+  - Market Cap: $315650926248.59753 USD
+  - 24h Volume: $25331769507.092445 USD
+  - 24h Change: 4.324420877258677%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 272
-  - Price (BTC): 4.773199273594972e-10
+  - Market Cap Rank: 273
+  - Price (BTC): 4.74832158191712e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Phil (PHIL)**
-  - Market Cap Rank: 794
-  - Price (BTC): 5.225144717330428e-07
+  - Market Cap Rank: 804
+  - Price (BTC): 5.135915769150025e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **AI Companions (AIC)**
-  - Market Cap Rank: 458
-  - Price (BTC): 1.513882115480507e-06
+  - Market Cap Rank: 453
+  - Price (BTC): 1.5385013211431278e-06
   - [More Info](https://www.coingecko.com/en/coins/ai-companions)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 252
-  - Price (BTC): 1.4423167215293399e-05
+  - Market Cap Rank: 263
+  - Price (BTC): 1.4188250744510443e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
+- **RabBitcoin (RBTC)**
+  - Market Cap Rank: 715
+  - Price (BTC): 5.168943994979818e-11
+  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
+
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 305
-  - Price (BTC): 2.2119396463181355e-11
+  - Market Cap Rank: 306
+  - Price (BTC): 2.1819830705931655e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Sui (SUI)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.7522617258332428e-05
+  - Market Cap Rank: 22
+  - Price (BTC): 2.800539796595633e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **RabBitcoin (RBTC)**
-  - Market Cap Rank: 714
-  - Price (BTC): 5.141702831356157e-11
-  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002470179037305488
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.351067879112689e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0024591391546507067
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 127
-  - Price (BTC): 9.236647589000053e-06
+  - Price (BTC): 9.141523859211372e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 37
-  - Price (BTC): 1.5462736909674048e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.312896001522526e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 59
-  - Price (BTC): 2.368952355236812e-05
+  - Price (BTC): 2.4045837711171374e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 303
-  - Price (BTC): 5.7260527233324664e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 30
+  - Price (BTC): 0.007183831371357539
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.403597033446885e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Celestia (TIA)**
+  - Market Cap Rank: 74
+  - Price (BTC): 7.199944338330402e-05
+  - [More Info](https://www.coingecko.com/en/coins/celestia)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03620662140700044
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
