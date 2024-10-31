@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-10-31 14:36:04 UTC
+**Last updated:** 2024-10-31 15:32:34 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $70912 USD
-  - Market Cap: $1403625190538.369 USD
-  - 24h Volume: $42562299856.91638 USD
-  - 24h Change: -1.8814349253644387%
+- **Bitcoin (BTC)**: $70835 USD
+  - Market Cap: $1402846936558.2888 USD
+  - 24h Volume: $43167783915.414665 USD
+  - 24h Change: -1.525548279184936%
 
-- **Ethereum (ETH)**: $2567.53 USD
-  - Market Cap: $309657750537.7766 USD
-  - 24h Volume: $19269174177.29011 USD
-  - 24h Change: -5.436130539184515%
+- **Ethereum (ETH)**: $2567.2 USD
+  - Market Cap: $309112513850.44214 USD
+  - 24h Volume: $19763346332.112186 USD
+  - 24h Change: -4.381514493390659%
 
 ## Trending Coins
 - **Phil (PHIL)**
-  - Market Cap Rank: 779
-  - Price (BTC): 5.35317911841768e-07
+  - Market Cap Rank: 784
+  - Price (BTC): 5.322863901487439e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 258
-  - Price (BTC): 1.4308009344301724e-05
+  - Market Cap Rank: 253
+  - Price (BTC): 1.465267551365969e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 308
-  - Price (BTC): 2.1612517609225125e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
 - **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 674
-  - Price (BTC): 7.114221363850413e-07
+  - Market Cap Rank: 712
+  - Price (BTC): 6.4332211790495e-07
   - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 - **Celestia (TIA)**
-  - Market Cap Rank: 55
-  - Price (BTC): 6.565781862848341e-05
+  - Market Cap Rank: 53
+  - Price (BTC): 6.685952739675887e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 106
-  - Price (BTC): 1.1450484506122706e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
 - **Notcoin (NOT)**
-  - Market Cap Rank: 120
-  - Price (BTC): 9.296007365199381e-08
+  - Market Cap Rank: 119
+  - Price (BTC): 9.376554810583564e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.8048945331183518e-05
+  - Price (BTC): 2.846352921542468e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 307
+  - Price (BTC): 2.16124640800606e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 150
+  - Price (BTC): 7.738885627300917e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03623472192099353
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.036252661662653785
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 153
-  - Price (BTC): 7.304745260052661e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 35
-  - Price (BTC): 1.6129204381073801e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0024090190139347714
+  - Price (BTC): 0.002415562960170403
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Luce (LUCE)**
-  - Market Cap Rank: 577
-  - Price (BTC): 9.297172793510448e-07
-  - [More Info](https://www.coingecko.com/en/coins/luce)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 31
+  - Price (BTC): 0.006867355919511602
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.3092631400915176e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 872
+  - Price (BTC): 0.000466515096208197
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 61
+  - Price (BTC): 2.2611587116413318e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Parcl (PRCL)**
+  - Market Cap Rank: 764
+  - Price (BTC): 3.6049857215411757e-06
+  - [More Info](https://www.coingecko.com/en/coins/parcl)
 
 ## Posts
 - **Post ID: 1**
