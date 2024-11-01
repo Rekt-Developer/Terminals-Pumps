@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-01 15:32:33 UTC
+**Last updated:** 2024-11-01 16:39:57 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $70801 USD
-  - Market Cap: $1398624835755.6562 USD
-  - 24h Volume: $50381752863.61342 USD
-  - 24h Change: -0.044144186948746965%
+- **Bitcoin (BTC)**: $70131 USD
+  - Market Cap: $1391437957074.558 USD
+  - 24h Volume: $55271885183.43777 USD
+  - 24h Change: -0.3457818252142685%
 
-- **Ethereum (ETH)**: $2545.72 USD
-  - Market Cap: $306273243419.7528 USD
-  - 24h Volume: $20988476698.43099 USD
-  - 24h Change: -0.85170031786611%
+- **Ethereum (ETH)**: $2517.37 USD
+  - Market Cap: $304176715464.9807 USD
+  - 24h Volume: $22257447867.56088 USD
+  - 24h Change: -1.237578945104665%
 
 ## Trending Coins
-- **Phil (PHIL)**
-  - Market Cap Rank: 742
-  - Price (BTC): 5.971910793041419e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
 - **Simon's Cat (CAT)**
   - Market Cap Rank: 292
-  - Price (BTC): 4.144775014888105e-10
+  - Price (BTC): 4.144143899300912e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
+- **Phil (PHIL)**
+  - Market Cap Rank: 747
+  - Price (BTC): 5.797339390597198e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 231
-  - Price (BTC): 1.6332649339266214e-05
+  - Market Cap Rank: 230
+  - Price (BTC): 1.6450739454114826e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 612
-  - Price (BTC): 0.000862416188423433
+  - Market Cap Rank: 599
+  - Price (BTC): 0.0009199980325976867
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 307
-  - Price (BTC): 2.158659897526175e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
 - **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.8699021931542625e-05
+  - Market Cap Rank: 22
+  - Price (BTC): 2.8265722770016944e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 304
+  - Price (BTC): 2.1663017633249135e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 141
-  - Price (BTC): 8.065115846324292e-06
+  - Market Cap Rank: 143
+  - Price (BTC): 7.897628155060286e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 54
-  - Price (BTC): 6.670944336134403e-05
+  - Price (BTC): 6.594097815852906e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 103
-  - Price (BTC): 1.1945363079937474e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 31
+  - Price (BTC): 0.006621398085538022
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0023936863156203544
+  - Price (BTC): 0.0023677940579008784
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 593
-  - Price (BTC): 2.759084194870906e-06
-  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
-
-- **Fwog (FWOG)**
-  - Market Cap Rank: 207
-  - Price (BTC): 4.653459483979143e-06
-  - [More Info](https://www.coingecko.com/en/coins/fwog)
+- **Wrapped QUIL (QUIL)**
+  - Market Cap Rank: 545
+  - Price (BTC): 1.6840854705221443e-06
+  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03591194237308205
+  - Price (BTC): 0.03590123687268047
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.294391428481089e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Immutable (IMX)**
+  - Market Cap Rank: 51
+  - Price (BTC): 1.6370015056279524e-05
+  - [More Info](https://www.coingecko.com/en/coins/immutable-x)
+
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 609
+  - Price (BTC): 2.6445164464426476e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
+
+- **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
+  - Market Cap Rank: 268
+  - Price (BTC): 3.2119823492230193e-06
+  - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
 
 ## Posts
 - **Post ID: 1**
