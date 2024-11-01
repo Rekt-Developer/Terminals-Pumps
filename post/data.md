@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-01 11:23:17 UTC
+**Last updated:** 2024-11-01 13:02:31 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $70067 USD
-  - Market Cap: $1386210241412.2966 USD
-  - 24h Volume: $47931580035.17163 USD
-  - 24h Change: -3.164258856351338%
+- **Bitcoin (BTC)**: $70295 USD
+  - Market Cap: $1388747071411.8928 USD
+  - 24h Volume: $54328881257.876335 USD
+  - 24h Change: -2.4884100185044975%
 
-- **Ethereum (ETH)**: $2520.48 USD
-  - Market Cap: $303543380668.0915 USD
-  - 24h Volume: $21946799677.86318 USD
-  - 24h Change: -4.362779548539346%
+- **Ethereum (ETH)**: $2535.35 USD
+  - Market Cap: $305295430969.16943 USD
+  - 24h Volume: $22479887709.700287 USD
+  - 24h Change: -3.840760395649782%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 280
-  - Price (BTC): 4.395739824050362e-10
+  - Market Cap Rank: 289
+  - Price (BTC): 4.285756832594143e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 690
-  - Price (BTC): 0.0007121769338642408
+  - Market Cap Rank: 637
+  - Price (BTC): 0.0008356298680595853
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
-- **Phil (PHIL)**
-  - Market Cap Rank: 748
-  - Price (BTC): 5.940040209753932e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
 - **Grass (GRASS)**
-  - Market Cap Rank: 232
-  - Price (BTC): 1.6047436337683742e-05
+  - Market Cap Rank: 234
+  - Price (BTC): 1.6005776319569234e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 377
-  - Price (BTC): 9.665453415662847e-06
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
-
-- **Celestia (TIA)**
-  - Market Cap Rank: 52
-  - Price (BTC): 6.840680897348038e-05
-  - [More Info](https://www.coingecko.com/en/coins/celestia)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 142
-  - Price (BTC): 7.869163872975127e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.7840245384297586e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 107
-  - Price (BTC): 1.1793553020901197e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 61
-  - Price (BTC): 2.2761563600211542e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 184
-  - Price (BTC): 5.369018296518152e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **Phil (PHIL)**
+  - Market Cap Rank: 753
+  - Price (BTC): 5.839421316150505e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0023993559518086984
+  - Price (BTC): 0.0024080800982583727
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Celestia (TIA)**
+  - Market Cap Rank: 53
+  - Price (BTC): 6.826398346194814e-05
+  - [More Info](https://www.coingecko.com/en/coins/celestia)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 2.819743671682579e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 311
+  - Price (BTC): 2.1115733416567096e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 139
+  - Price (BTC): 8.335723003614327e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 31
+  - Price (BTC): 0.006661250290474027
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03597430892807895
+  - Price (BTC): 0.03606132546343041
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Wrapped QUIL (QUIL)**
+  - Market Cap Rank: 526
+  - Price (BTC): 1.8555482940546465e-06
+  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 182
+  - Price (BTC): 5.4473778522922495e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
-  - Market Cap Rank: 266
-  - Price (BTC): 3.226174841792133e-06
-  - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 98
+  - Price (BTC): 1.2264687164445315e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 ## Posts
 - **Post ID: 1**
