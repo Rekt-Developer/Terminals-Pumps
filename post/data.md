@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-01 05:33:22 UTC
+**Last updated:** 2024-11-01 06:46:13 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69548 USD
-  - Market Cap: $1374809202525.7703 USD
-  - 24h Volume: $50237487330.88748 USD
-  - 24h Change: -3.867664756471624%
+- **Bitcoin (BTC)**: $69434 USD
+  - Market Cap: $1373315207854.8567 USD
+  - 24h Volume: $51578123614.98973 USD
+  - 24h Change: -3.8475063210966907%
 
-- **Ethereum (ETH)**: $2507.55 USD
-  - Market Cap: $301878636790.7565 USD
-  - 24h Volume: $21717845979.587418 USD
-  - 24h Change: -5.337384064163028%
+- **Ethereum (ETH)**: $2509.25 USD
+  - Market Cap: $301521483819.55994 USD
+  - 24h Volume: $21871307713.72732 USD
+  - 24h Change: -5.000975737825739%
 
 ## Trending Coins
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 650
-  - Price (BTC): 0.0007470830003479422
+  - Market Cap Rank: 694
+  - Price (BTC): 0.0006982783862999061
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 217
-  - Price (BTC): 1.741165148345668e-05
+  - Market Cap Rank: 224
+  - Price (BTC): 1.7062290280818964e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 699
-  - Price (BTC): 6.628837166353566e-07
+  - Market Cap Rank: 691
+  - Price (BTC): 6.770254589367543e-07
   - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 - **Notcoin (NOT)**
-  - Market Cap Rank: 119
-  - Price (BTC): 9.331120963086521e-08
+  - Market Cap Rank: 120
+  - Price (BTC): 9.270927999905283e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.8375325533353446e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 145
-  - Price (BTC): 7.779984193289601e-06
+  - Market Cap Rank: 144
+  - Price (BTC): 7.855894017609543e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0024017103566572376
+  - Price (BTC): 0.002391338010062814
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 2.8137861821706134e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.036065359956426825
+  - Price (BTC): 0.03611901766706278
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
-  - Market Cap Rank: 262
-  - Price (BTC): 3.3393334655008875e-06
-  - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Celestia (TIA)**
   - Market Cap Rank: 51
-  - Price (BTC): 6.9872733144638e-05
+  - Price (BTC): 6.976582673502853e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.1212561267214336e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **HarryPotterObamaSonic10Inu (ETH) (BITCOIN)**
+  - Market Cap Rank: 261
+  - Price (BTC): 3.3564975611872658e-06
+  - [More Info](https://www.coingecko.com/en/coins/harrypotterobamasonic10inu-eth)
 
 - **Immutable (IMX)**
   - Market Cap Rank: 52
-  - Price (BTC): 1.691910249580344e-05
+  - Price (BTC): 1.6864514557708914e-05
   - [More Info](https://www.coingecko.com/en/coins/immutable-x)
 
-- **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.671245253059504e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+- **Eigenlayer (EIGEN)**
+  - Market Cap Rank: 154
+  - Price (BTC): 3.9595459139437634e-05
+  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
-- **Luce (LUCE)**
-  - Market Cap Rank: 692
-  - Price (BTC): 6.795965256759105e-07
-  - [More Info](https://www.coingecko.com/en/coins/luce)
+- **Scroll (SCR)**
+  - Market Cap Rank: 381
+  - Price (BTC): 9.592904713100926e-06
+  - [More Info](https://www.coingecko.com/en/coins/scroll)
 
-- **Jupiter (JUP)**
-  - Market Cap Rank: 70
-  - Price (BTC): 1.3810436827206253e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 312
+  - Price (BTC): 5.3682767794001383e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 ## Posts
 - **Post ID: 1**
