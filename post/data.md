@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-02 13:00:04 UTC
+**Last updated:** 2024-11-02 13:31:06 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69421 USD
-  - Market Cap: $1372987401087.62 USD
-  - 24h Volume: $40538420499.60289 USD
-  - 24h Change: -1.2430888839225058%
+- **Bitcoin (BTC)**: $69648 USD
+  - Market Cap: $1377241966735.817 USD
+  - 24h Volume: $33696692789.750084 USD
+  - 24h Change: -0.7012636043474829%
 
-- **Ethereum (ETH)**: $2487.13 USD
-  - Market Cap: $299531004608.0252 USD
-  - 24h Volume: $14807991337.828678 USD
-  - 24h Change: -1.9018201492698068%
+- **Ethereum (ETH)**: $2497.54 USD
+  - Market Cap: $300667174166.2716 USD
+  - 24h Volume: $13862437395.412556 USD
+  - 24h Change: -1.4024345674186744%
 
 ## Trending Coins
 - **Luce (LUCE)**
-  - Market Cap Rank: 903
-  - Price (BTC): 4.1741749668156396e-07
+  - Market Cap Rank: 900
+  - Price (BTC): 4.3033135779565586e-07
   - [More Info](https://www.coingecko.com/en/coins/luce)
 
 - **AltLayer (ALT)**
   - Market Cap Rank: 271
-  - Price (BTC): 1.308657315791959e-06
+  - Price (BTC): 1.3092783059472e-06
   - [More Info](https://www.coingecko.com/en/coins/altlayer)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 591
-  - Price (BTC): 0.0009321098531391961
+  - Market Cap Rank: 603
+  - Price (BTC): 0.0008857441039087549
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 167
-  - Price (BTC): 2.4304172181103508e-05
+  - Market Cap Rank: 169
+  - Price (BTC): 2.4503237901053955e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Jito (JTO)**
-  - Market Cap Rank: 222
-  - Price (BTC): 3.2045838541982205e-05
-  - [More Info](https://www.coingecko.com/en/coins/jito)
+- **Phil (PHIL)**
+  - Market Cap Rank: 765
+  - Price (BTC): 5.590114269161873e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023786331214490507
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 302
+  - Price (BTC): 2.1713741212798003e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.7495779140387367e-05
+  - Price (BTC): 2.7680575326686383e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 304
-  - Price (BTC): 2.1771685466567925e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023798142847235755
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Xai (XAI)**
-  - Market Cap Rank: 353
-  - Price (BTC): 2.765340894669928e-06
-  - [More Info](https://www.coingecko.com/en/coins/xai)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 157
+  - Price (BTC): 6.859460430857e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Jito (JTO)**
+  - Market Cap Rank: 223
+  - Price (BTC): 3.219873299178973e-05
+  - [More Info](https://www.coingecko.com/en/coins/jito)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 323
-  - Price (BTC): 5.013396680086037e-05
+  - Market Cap Rank: 331
+  - Price (BTC): 4.831704818146832e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 107
+  - Price (BTC): 1.15328810817213e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Eigenlayer (EIGEN)**
   - Market Cap Rank: 162
-  - Price (BTC): 3.4740347595927555e-05
+  - Price (BTC): 3.475361209630534e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03582007384805797
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
 - **Wrapped QUIL (QUIL)**
-  - Market Cap Rank: 438
-  - Price (BTC): 2.036513470396241e-06
+  - Market Cap Rank: 441
+  - Price (BTC): 2.0022468181252405e-06
   - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 154
-  - Price (BTC): 7.025180933245303e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 88
-  - Price (BTC): 4.840672018964107e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
+- **Gigachad (GIGA)**
+  - Market Cap Rank: 120
+  - Price (BTC): 9.761711726206758e-07
+  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
 
 ## Posts
 - **Post ID: 1**
