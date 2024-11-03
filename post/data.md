@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-03 17:28:27 UTC
+**Last updated:** 2024-11-03 18:38:37 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68319 USD
-  - Market Cap: $1352759227689.4045 USD
-  - 24h Volume: $28110144759.31275 USD
-  - 24h Change: -1.6095817305036983%
+- **Bitcoin (BTC)**: $68118 USD
+  - Market Cap: $1347546118666.5186 USD
+  - 24h Volume: $29938059979.646297 USD
+  - 24h Change: -1.9028612019496471%
 
-- **Ethereum (ETH)**: $2447.0 USD
-  - Market Cap: $295098900129.6201 USD
-  - 24h Volume: $13072944495.501162 USD
-  - 24h Change: -1.7011039012276394%
+- **Ethereum (ETH)**: $2432.24 USD
+  - Market Cap: $292958465569.985 USD
+  - 24h Volume: $13480846472.674831 USD
+  - 24h Change: -2.287927823819353%
 
 ## Trending Coins
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 647
-  - Price (BTC): 0.0007653928994427365
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 530
-  - Price (BTC): 1.0007976535399825e-06
+  - Market Cap Rank: 492
+  - Price (BTC): 1.1277480168958315e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 647
+  - Price (BTC): 0.0007625033234559527
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 190
-  - Price (BTC): 2.037700896794858e-05
+  - Market Cap Rank: 192
+  - Price (BTC): 2.009618599149343e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 296
-  - Price (BTC): 2.174751859409542e-11
+  - Market Cap Rank: 295
+  - Price (BTC): 2.1829713249299625e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 355
-  - Price (BTC): 4.341173327184671e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 113
-  - Price (BTC): 1.026248705579131e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.7119372363363213e-05
+  - Price (BTC): 2.6838011852428103e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 349
+  - Price (BTC): 4.351520798145497e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002349190044581354
+  - Price (BTC): 0.0023490501313717916
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 158
-  - Price (BTC): 3.528627638298719e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 32
-  - Price (BTC): 0.006273947575089023
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03573380591964117
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 63
-  - Price (BTC): 1.9409491538919786e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 112
+  - Price (BTC): 1.0326529911877271e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.1506248771777453e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Ondo (ONDO)**
+  - Market Cap Rank: 86
+  - Price (BTC): 8.91315323245579e-06
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 156
-  - Price (BTC): 6.781449216666971e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Raydium (RAY)**
+  - Market Cap Rank: 89
+  - Price (BTC): 4.614926643207913e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
-- **Injective (INJ)**
-  - Market Cap Rank: 56
-  - Price (BTC): 0.00024411863825576062
-  - [More Info](https://www.coingecko.com/en/coins/injective)
+- **Pendle (PENDLE)**
+  - Market Cap Rank: 107
+  - Price (BTC): 6.289233013396833e-05
+  - [More Info](https://www.coingecko.com/en/coins/pendle)
 
-- **Brett (BRETT)**
-  - Market Cap Rank: 95
-  - Price (BTC): 1.1482304034678848e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+- **Kaspa (KAS)**
+  - Market Cap Rank: 36
+  - Price (BTC): 1.5882696126608737e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Immutable (IMX)**
+  - Market Cap Rank: 51
+  - Price (BTC): 1.568787982879592e-05
+  - [More Info](https://www.coingecko.com/en/coins/immutable-x)
 
 ## Posts
 - **Post ID: 1**
