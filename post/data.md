@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-03 22:34:00 UTC
+**Last updated:** 2024-11-03 23:28:29 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69087 USD
-  - Market Cap: $1366332770439.0586 USD
-  - 24h Volume: $31007526277.099 USD
-  - 24h Change: -0.4983888099062723%
+- **Bitcoin (BTC)**: $68590 USD
+  - Market Cap: $1357178564197.8538 USD
+  - 24h Volume: $34827419444.336105 USD
+  - 24h Change: -0.8159620962772186%
 
-- **Ethereum (ETH)**: $2467.93 USD
-  - Market Cap: $297134360982.4893 USD
-  - 24h Volume: $14895477066.609236 USD
-  - 24h Change: -0.9825409979421723%
+- **Ethereum (ETH)**: $2448.7 USD
+  - Market Cap: $294985046032.00336 USD
+  - 24h Volume: $14997927105.791178 USD
+  - 24h Change: -1.4902593222353315%
 
 ## Trending Coins
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 631
-  - Price (BTC): 0.0007777306061335956
+  - Market Cap Rank: 657
+  - Price (BTC): 0.0007432556709178752
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 175
-  - Price (BTC): 2.346853675377062e-05
+  - Market Cap Rank: 166
+  - Price (BTC): 2.44270743552547e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 586
+  - Price (BTC): 8.58725106005413e-07
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Qubic (QUBIC)**
   - Market Cap Rank: 298
-  - Price (BTC): 2.173749348181562e-11
+  - Price (BTC): 2.1829438581962725e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 580
-  - Price (BTC): 8.830879659772425e-07
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 2.792141834965312e-05
+  - Price (BTC): 2.807113234924304e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **SPX6900 (SPX)**
   - Market Cap Rank: 110
-  - Price (BTC): 1.0570587640828351e-05
+  - Price (BTC): 1.0568950935360128e-05
   - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0023602659417673324
+  - Price (BTC): 0.002362981127870766
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 328
+  - Price (BTC): 4.792487199345473e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.200431226156599e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 144
-  - Price (BTC): 7.803949414511562e-06
+  - Price (BTC): 7.784417631074619e-06
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 329
-  - Price (BTC): 4.7077141323396226e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03569784125605972
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 63
-  - Price (BTC): 1.9686196525747787e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 32
-  - Price (BTC): 0.006376868799232144
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.1832107514562103e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **NEAR Protocol (NEAR)**
-  - Market Cap Rank: 25
-  - Price (BTC): 5.344123179771055e-05
-  - [More Info](https://www.coingecko.com/en/coins/near)
+- **Jupiter (JUP)**
+  - Market Cap Rank: 69
+  - Price (BTC): 1.2862282573521998e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 178
-  - Price (BTC): 5.562875718933402e-06
+  - Market Cap Rank: 180
+  - Price (BTC): 5.4134387794528576e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Avalanche (AVAX)**
+  - Market Cap Rank: 16
+  - Price (BTC): 0.0003424383055735332
+  - [More Info](https://www.coingecko.com/en/coins/avalanche)
+
+- **Celestia (TIA)**
+  - Market Cap Rank: 51
+  - Price (BTC): 6.542721418466134e-05
+  - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 ## Posts
 - **Post ID: 1**
