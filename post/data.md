@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-03 10:37:48 UTC
+**Last updated:** 2024-11-03 11:22:49 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68476 USD
-  - Market Cap: $1354321361752.9858 USD
-  - 24h Volume: $26195829169.145737 USD
-  - 24h Change: -1.5152610689233388%
+- **Bitcoin (BTC)**: $68540 USD
+  - Market Cap: $1355059900137.7534 USD
+  - 24h Volume: $25128093038.879955 USD
+  - 24h Change: -1.5338634104459516%
 
-- **Ethereum (ETH)**: $2458.13 USD
-  - Market Cap: $296371227952.70404 USD
-  - 24h Volume: $11903443770.787573 USD
-  - 24h Change: -1.6682581641056178%
+- **Ethereum (ETH)**: $2460.76 USD
+  - Market Cap: $296203489813.03595 USD
+  - 24h Volume: $11935707289.822346 USD
+  - 24h Change: -1.6825963724315176%
 
 ## Trending Coins
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 374
-  - Price (BTC): 1.8704519195192093e-06
+  - Market Cap Rank: 376
+  - Price (BTC): 1.8293364687035552e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 192
-  - Price (BTC): 2.039051909061194e-05
+  - Market Cap Rank: 186
+  - Price (BTC): 2.123875944838913e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Eigenlayer (EIGEN)**
   - Market Cap Rank: 160
-  - Price (BTC): 3.4970996865388216e-05
+  - Price (BTC): 3.505382318329014e-05
   - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 155
-  - Price (BTC): 6.8851510200076194e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 351
-  - Price (BTC): 4.391761141956499e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002395837615163026
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 35
-  - Price (BTC): 1.6115779339069839e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.733063010438609e-05
+  - Price (BTC): 2.7374017394790763e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.00240171122257404
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 351
+  - Price (BTC): 4.3501527615631885e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 158
+  - Price (BTC): 6.6356330541508e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03590548336187683
+  - Price (BTC): 0.03590624684606663
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Wrapped QUIL (QUIL)**
-  - Market Cap Rank: 424
-  - Price (BTC): 2.09921844905745e-06
-  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.6111956223491213e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 - **Jupiter (JUP)**
   - Market Cap Rank: 69
-  - Price (BTC): 1.3175563003478412e-05
+  - Price (BTC): 1.3090056184833956e-05
   - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 32
-  - Price (BTC): 0.006340793580380931
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 668
+  - Price (BTC): 0.0007492776465564915
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
-- **Aave (AAVE)**
-  - Market Cap Rank: 45
-  - Price (BTC): 0.001968937228903706
-  - [More Info](https://www.coingecko.com/en/coins/aave)
+- **Wrapped QUIL (QUIL)**
+  - Market Cap Rank: 429
+  - Price (BTC): 2.0852662532885833e-06
+  - [More Info](https://www.coingecko.com/en/coins/wrapped-quil)
 
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 33
-  - Price (BTC): 1.7149548563915858e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+- **Moonwell (WELL)**
+  - Market Cap Rank: 267
+  - Price (BTC): 1.0744765215195337e-06
+  - [More Info](https://www.coingecko.com/en/coins/moonwell)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 114
+  - Price (BTC): 1.071444159284003e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.2201569367199297e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
