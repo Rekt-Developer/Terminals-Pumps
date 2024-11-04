@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-04 11:26:08 UTC
+**Last updated:** 2024-11-04 13:05:45 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $68889 USD
-  - Market Cap: $1363162746086.9077 USD
-  - 24h Volume: $29034061091.098457 USD
-  - 24h Change: 0.5742163918412508%
+- **Bitcoin (BTC)**: $69024 USD
+  - Market Cap: $1363058449531.9543 USD
+  - 24h Volume: $38027544928.03072 USD
+  - 24h Change: 0.9264865142379635%
 
-- **Ethereum (ETH)**: $2473.08 USD
-  - Market Cap: $297776578364.13513 USD
-  - 24h Volume: $12908001165.674822 USD
-  - 24h Change: 0.5716882037315332%
+- **Ethereum (ETH)**: $2478.13 USD
+  - Market Cap: $297978818003.848 USD
+  - 24h Volume: $15212199805.660793 USD
+  - 24h Change: 1.0046448556857097%
 
 ## Trending Coins
-- **PONKE (PONKE)**
-  - Market Cap Rank: 217
-  - Price (BTC): 7.52472858109177e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
-
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 305
-  - Price (BTC): 3.755290103166447e-10
+  - Market Cap Rank: 304
+  - Price (BTC): 3.742827281456138e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 744
-  - Price (BTC): 0.0006112773112610095
+  - Market Cap Rank: 793
+  - Price (BTC): 0.0005412916096794115
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 170
-  - Price (BTC): 2.3809460714951373e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 656
-  - Price (BTC): 7.070327777527353e-07
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 310
-  - Price (BTC): 5.247086784524458e-05
+  - Market Cap Rank: 303
+  - Price (BTC): 5.5837378716034574e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 65
-  - Price (BTC): 1.9016526113856066e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
+- **Grass (GRASS)**
+  - Market Cap Rank: 176
+  - Price (BTC): 2.2865601517933975e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **PONKE (PONKE)**
+  - Market Cap Rank: 223
+  - Price (BTC): 7.202556639483255e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 698
+  - Price (BTC): 6.301912942251932e-07
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.74911493847113e-05
+  - Price (BTC): 2.7499903633824304e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 150
-  - Price (BTC): 7.3999092720616156e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023823802430877747
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 159
-  - Price (BTC): 3.558596673348725e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03590848483686076
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 9
-  - Price (BTC): 2.2813612487074782e-06
+  - Price (BTC): 2.2799443423091396e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 113
-  - Price (BTC): 1.039945193423974e-05
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023786997185894204
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Scroll (SCR)**
-  - Market Cap Rank: 389
-  - Price (BTC): 8.67764401848873e-06
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 67
+  - Price (BTC): 1.841507244994744e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **TROY (TROY)**
+  - Market Cap Rank: 742
+  - Price (BTC): 5.81892261699724e-08
+  - [More Info](https://www.coingecko.com/en/coins/troy)
+
+- **RETARDIO (RETARDIO)**
+  - Market Cap Rank: 307
+  - Price (BTC): 2.4734714519584953e-06
+  - [More Info](https://www.coingecko.com/en/coins/retardio)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 32
+  - Price (BTC): 0.006219295373077517
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 146
+  - Price (BTC): 7.552599262381083e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 ## Posts
 - **Post ID: 1**
