@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-05 22:33:40 UTC
+**Last updated:** 2024-11-05 23:27:42 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69115 USD
-  - Market Cap: $1363190839203.9436 USD
-  - 24h Volume: $50460830887.38508 USD
-  - 24h Change: 2.195078052201565%
+- **Bitcoin (BTC)**: $69627 USD
+  - Market Cap: $1377087147909.1416 USD
+  - 24h Volume: $49821584485.84799 USD
+  - 24h Change: 2.822074571490241%
 
-- **Ethereum (ETH)**: $2416.54 USD
-  - Market Cap: $290960419461.89984 USD
-  - 24h Volume: $18069310443.70576 USD
-  - 24h Change: 1.3069008442410566%
+- **Ethereum (ETH)**: $2433.01 USD
+  - Market Cap: $292957254354.03674 USD
+  - 24h Volume: $17325196956.797207 USD
+  - 24h Change: 1.6211859988807458%
 
 ## Trending Coins
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 303
-  - Price (BTC): 3.7023884228878617e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 593
-  - Price (BTC): 8.104611452148095e-07
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+- **Nym (NYM)**
+  - Market Cap Rank: 667
+  - Price (BTC): 8.814286843364543e-07
+  - [More Info](https://www.coingecko.com/en/coins/nym)
 
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 320
-  - Price (BTC): 4.92266687665537e-05
+  - Market Cap Rank: 350
+  - Price (BTC): 4.443028451828007e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
+- **BabyBoomToken (BBT)**
+  - Market Cap Rank: 873
+  - Price (BTC): 2.6650641862883033e-06
+  - [More Info](https://www.coingecko.com/en/coins/babyboomtoken)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 603
+  - Price (BTC): 8.504763468368653e-07
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 173
-  - Price (BTC): 2.335378672136919e-05
+  - Market Cap Rank: 176
+  - Price (BTC): 2.3006847414522146e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
+- **Notcoin (NOT)**
+  - Market Cap Rank: 128
+  - Price (BTC): 8.653611642621659e-08
+  - [More Info](https://www.coingecko.com/en/coins/notcoin)
+
 - **Scroll (SCR)**
-  - Market Cap Rank: 366
-  - Price (BTC): 9.663552514080436e-06
+  - Market Cap Rank: 369
+  - Price (BTC): 9.644083712178377e-06
   - [More Info](https://www.coingecko.com/en/coins/scroll)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.411702255883462e-06
+  - Price (BTC): 2.45903883500007e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Notcoin (NOT)**
-  - Market Cap Rank: 128
-  - Price (BTC): 8.588567930826615e-08
-  - [More Info](https://www.coingecko.com/en/coins/notcoin)
-
-- **Nym (NYM)**
-  - Market Cap Rank: 664
-  - Price (BTC): 8.895431703376066e-07
-  - [More Info](https://www.coingecko.com/en/coins/nym)
-
 - **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.8273477659655517e-05
+  - Market Cap Rank: 20
+  - Price (BTC): 2.8564487216271766e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0023892257452310284
+  - Price (BTC): 0.002396620811182717
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 66
-  - Price (BTC): 1.8288582315160604e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 104
-  - Price (BTC): 2.7381324034224373e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
-
-- **Fwog (FWOG)**
-  - Market Cap Rank: 182
-  - Price (BTC): 5.549874754534116e-06
-  - [More Info](https://www.coingecko.com/en/coins/fwog)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03494152647704199
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 31
-  - Price (BTC): 0.006500409820867747
+  - Price (BTC): 0.006543102206852231
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Pyth Network (PYTH)**
+  - Market Cap Rank: 68
+  - Price (BTC): 4.8429487668787585e-06
+  - [More Info](https://www.coingecko.com/en/coins/pyth-network)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 89
+  - Price (BTC): 4.7273891845476816e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 ## Posts
 - **Post ID: 1**
