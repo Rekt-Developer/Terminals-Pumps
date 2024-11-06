@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-06 21:27:35 UTC
+**Last updated:** 2024-11-06 22:34:31 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76028 USD
-  - Market Cap: $1503893447260.2583 USD
-  - 24h Volume: $138238465905.8493 USD
-  - 24h Change: 9.355425773289895%
+- **Bitcoin (BTC)**: $75745 USD
+  - Market Cap: $1497090811663.0127 USD
+  - 24h Volume: $123770004206.05038 USD
+  - 24h Change: 9.036450987095318%
 
-- **Ethereum (ETH)**: $2694.98 USD
-  - Market Cap: $324245524965.5415 USD
-  - 24h Volume: $42860463722.729774 USD
-  - 24h Change: 11.09004929299016%
+- **Ethereum (ETH)**: $2696.41 USD
+  - Market Cap: $324324761135.21277 USD
+  - 24h Volume: $43425335924.945274 USD
+  - 24h Change: 11.00425080656768%
 
 ## Trending Coins
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.029036758414224e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 280
+  - Price (BTC): 4.4995094146364205e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 3.0085380963888234e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 279
-  - Price (BTC): 4.331777205438381e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+- **Raydium (RAY)**
+  - Market Cap Rank: 80
+  - Price (BTC): 5.655801114618661e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.5728020344201158e-06
+  - Price (BTC): 2.60708133439243e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 81
-  - Price (BTC): 5.41058738425243e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Panther AI (PAI)**
-  - Market Cap Rank: 945
-  - Price (BTC): 1.3505689087081567e-06
-  - [More Info](https://www.coingecko.com/en/coins/panther-ai)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002469254095711827
+  - Price (BTC): 0.0024924198202439726
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **BNB (BNB)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.007740290132779659
+  - Price (BTC): 0.007785356438991984
   - [More Info](https://www.coingecko.com/en/coins/bnb)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.035443773872404674
+  - Price (BTC): 0.03550810654824954
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 736
-  - Price (BTC): 0.0006208632732810045
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
-
 - **Grass (GRASS)**
-  - Market Cap Rank: 147
-  - Price (BTC): 3.0506716178542932e-05
+  - Market Cap Rank: 127
+  - Price (BTC): 3.5520128571124035e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Nym (NYM)**
-  - Market Cap Rank: 643
-  - Price (BTC): 9.166691125851537e-07
+  - Market Cap Rank: 650
+  - Price (BTC): 9.126722047794504e-07
   - [More Info](https://www.coingecko.com/en/coins/nym)
 
+- **Panther AI (PAI)**
+  - Market Cap Rank: 952
+  - Price (BTC): 1.3386873588586598e-06
+  - [More Info](https://www.coingecko.com/en/coins/panther-ai)
+
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 733
+  - Price (BTC): 0.0006186777893141229
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 477
-  - Price (BTC): 2.595818168146961e-05
+  - Market Cap Rank: 485
+  - Price (BTC): 2.5618514819995646e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 30
-  - Price (BTC): 0.006871615328781773
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **PAAL AI (PAAL)**
+  - Market Cap Rank: 268
+  - Price (BTC): 3.6945405914841445e-06
+  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.2508517911386347e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 458
+  - Price (BTC): 3.952294880732096e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
 ## Posts
 - **Post ID: 1**
