@@ -1,58 +1,63 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-06 05:32:44 UTC
+**Last updated:** 2024-11-06 06:41:27 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $74395 USD
-  - Market Cap: $1465432913295.8542 USD
-  - 24h Volume: $95849380765.12308 USD
-  - 24h Change: 8.766730540475255%
+- **Bitcoin (BTC)**: $74920 USD
+  - Market Cap: $1476983540093.04 USD
+  - 24h Volume: $98983080914.5393 USD
+  - 24h Change: 9.144726293532901%
 
-- **Ethereum (ETH)**: $2588.25 USD
-  - Market Cap: $311741730264.8653 USD
-  - 24h Volume: $30681078216.645805 USD
-  - 24h Change: 6.696331791153256%
+- **Ethereum (ETH)**: $2606.61 USD
+  - Market Cap: $314001659351.7664 USD
+  - 24h Volume: $32103308764.604427 USD
+  - 24h Change: 7.386237884187587%
 
 ## Trending Coins
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 315
-  - Price (BTC): 4.9080253281475774e-05
+  - Market Cap Rank: 300
+  - Price (BTC): 5.503668222038328e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 743
-  - Price (BTC): 0.0005979382274683322
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+- **BabyBoomToken (BBT)**
+  - Market Cap Rank: 879
+  - Price (BTC): 2.6053999747038016e-06
+  - [More Info](https://www.coingecko.com/en/coins/babyboomtoken)
 
 - **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 435
-  - Price (BTC): 4.330455537749159e-06
+  - Market Cap Rank: 450
+  - Price (BTC): 4.127527970129654e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 748
+  - Price (BTC): 0.0005887958292236741
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
 - **CoW Protocol (COW)**
-  - Market Cap Rank: 408
-  - Price (BTC): 5.85083744952602e-06
+  - Market Cap Rank: 406
+  - Price (BTC): 5.863346455184831e-06
   - [More Info](https://www.coingecko.com/en/coins/cow-protocol)
 
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 385
+  - Price (BTC): 1.6220452449460785e-06
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 162
-  - Price (BTC): 2.586396126648821e-05
+  - Market Cap Rank: 166
+  - Price (BTC): 2.472414206968683e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 445
-  - Price (BTC): 1.3263559901051567e-06
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+- **Nym (NYM)**
+  - Market Cap Rank: 682
+  - Price (BTC): 8.271266243076262e-07
+  - [More Info](https://www.coingecko.com/en/coins/nym)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.734702789696542e-06
+  - Price (BTC): 2.7863265285219214e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Nym (NYM)**
-  - Market Cap Rank: 680
-  - Price (BTC): 8.335765008811128e-07
-  - [More Info](https://www.coingecko.com/en/coins/nym)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -61,33 +66,28 @@
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024907546747230617
+  - Price (BTC): 0.0024997528854795695
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **BabyBoomToken (BBT)**
-  - Market Cap Rank: 857
-  - Price (BTC): 2.72675219817715e-06
-  - [More Info](https://www.coingecko.com/en/coins/babyboomtoken)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.1053957633132476e-05
+  - Price (BTC): 3.090541879442611e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Neiro (NEIRO)**
+  - Market Cap Rank: 115
+  - Price (BTC): 2.3059442466807087e-08
+  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
+
+- **Uniswap (UNI)**
+  - Market Cap Rank: 24
+  - Price (BTC): 0.00012316980386040268
+  - [More Info](https://www.coingecko.com/en/coins/uniswap)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03481085864110876
+  - Price (BTC): 0.03479699023059973
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Neiro (NEIRO)**
-  - Market Cap Rank: 124
-  - Price (BTC): 2.1921475440067667e-08
-  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 64
-  - Price (BTC): 2.023506580193957e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 ## Posts
 - **Post ID: 1**
