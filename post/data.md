@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-06 08:39:11 UTC
+**Last updated:** 2024-11-06 09:33:32 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $72764 USD
-  - Market Cap: $1438818934166.5266 USD
-  - 24h Volume: $112156834930.11522 USD
-  - 24h Change: 5.756539966224812%
+- **Bitcoin (BTC)**: $73788 USD
+  - Market Cap: $1459146312487.4983 USD
+  - 24h Volume: $114682428878.64 USD
+  - 24h Change: 7.2080743879041105%
 
-- **Ethereum (ETH)**: $2574.99 USD
-  - Market Cap: $310067150021.11414 USD
-  - 24h Volume: $36606304290.13881 USD
-  - 24h Change: 5.693410806690743%
+- **Ethereum (ETH)**: $2620.47 USD
+  - Market Cap: $315630421747.10425 USD
+  - 24h Volume: $37345590655.38329 USD
+  - 24h Change: 7.417689098886111%
 
 ## Trending Coins
-- **MAGA (TRUMP)**
-  - Market Cap Rank: 358
-  - Price (BTC): 4.276543284192764e-05
-  - [More Info](https://www.coingecko.com/en/coins/maga)
-
 - **Nym (NYM)**
-  - Market Cap Rank: 675
-  - Price (BTC): 8.524324770465699e-07
+  - Market Cap Rank: 682
+  - Price (BTC): 8.419944594364968e-07
   - [More Info](https://www.coingecko.com/en/coins/nym)
 
-- **Self Chain (SLF)**
-  - Market Cap Rank: 887
-  - Price (BTC): 4.421228925352579e-06
-  - [More Info](https://www.coingecko.com/en/coins/self-chain)
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 357
+  - Price (BTC): 4.2257058069679916e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 472
-  - Price (BTC): 3.88779179794283e-06
+  - Market Cap Rank: 462
+  - Price (BTC): 3.907870988745197e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.6201898437423533e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
 - **Ethervista (VISTA)**
-  - Market Cap Rank: 721
-  - Price (BTC): 0.0006346727988673288
+  - Market Cap Rank: 688
+  - Price (BTC): 0.0006903087960012256
   - [More Info](https://www.coingecko.com/en/coins/ethervista)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 461
-  - Price (BTC): 1.288269382496026e-06
+  - Market Cap Rank: 427
+  - Price (BTC): 1.4910864809258503e-06
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 167
+  - Price (BTC): 2.435805319364569e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.652858378695414e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Self Chain (SLF)**
+  - Market Cap Rank: 917
+  - Price (BTC): 4.087390548852879e-06
+  - [More Info](https://www.coingecko.com/en/coins/self-chain)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 167
-  - Price (BTC): 2.404058584312077e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 2.990429960231513e-05
+  - Price (BTC): 3.0265190336893293e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **CoW Protocol (COW)**
-  - Market Cap Rank: 395
-  - Price (BTC): 6.022754295501658e-06
+  - Market Cap Rank: 412
+  - Price (BTC): 5.777503914672188e-06
   - [More Info](https://www.coingecko.com/en/coins/cow-protocol)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 114
+  - Price (BTC): 9.631320757320464e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002482250882189188
+  - Price (BTC): 0.00249402432519199
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03539908743430475
+  - Price (BTC): 0.03549979207566351
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.2519535772283056e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 120
-  - Price (BTC): 9.278066815563434e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 105
+  - Price (BTC): 1.1570542797399929e-05
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 ## Posts
 - **Post ID: 1**
