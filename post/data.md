@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-05 23:27:42 UTC
+**Last updated:** 2024-11-06 02:39:49 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $69627 USD
-  - Market Cap: $1377087147909.1416 USD
-  - 24h Volume: $49821584485.84799 USD
-  - 24h Change: 2.822074571490241%
+- **Bitcoin (BTC)**: $72753 USD
+  - Market Cap: $1439163818320.3062 USD
+  - 24h Volume: $42612573423.236374 USD
+  - 24h Change: 7.0929493002886925%
 
-- **Ethereum (ETH)**: $2433.01 USD
-  - Market Cap: $292957254354.03674 USD
-  - 24h Volume: $17325196956.797207 USD
-  - 24h Change: 1.6211859988807458%
+- **Ethereum (ETH)**: $2557.92 USD
+  - Market Cap: $307547726163.7114 USD
+  - 24h Volume: $18292488041.121387 USD
+  - 24h Change: 6.212236564149129%
 
 ## Trending Coins
-- **Nym (NYM)**
-  - Market Cap Rank: 667
-  - Price (BTC): 8.814286843364543e-07
-  - [More Info](https://www.coingecko.com/en/coins/nym)
-
 - **MAGA (TRUMP)**
-  - Market Cap Rank: 350
-  - Price (BTC): 4.443028451828007e-05
+  - Market Cap Rank: 303
+  - Price (BTC): 5.415439651744432e-05
   - [More Info](https://www.coingecko.com/en/coins/maga)
 
 - **BabyBoomToken (BBT)**
-  - Market Cap Rank: 873
-  - Price (BTC): 2.6650641862883033e-06
+  - Market Cap Rank: 850
+  - Price (BTC): 2.7157363837109635e-06
   - [More Info](https://www.coingecko.com/en/coins/babyboomtoken)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 603
-  - Price (BTC): 8.504763468368653e-07
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+- **Nym (NYM)**
+  - Market Cap Rank: 675
+  - Price (BTC): 8.495706902372947e-07
+  - [More Info](https://www.coingecko.com/en/coins/nym)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 176
-  - Price (BTC): 2.3006847414522146e-05
+  - Market Cap Rank: 172
+  - Price (BTC): 2.35743756229961e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Notcoin (NOT)**
-  - Market Cap Rank: 128
-  - Price (BTC): 8.653611642621659e-08
-  - [More Info](https://www.coingecko.com/en/coins/notcoin)
-
-- **Scroll (SCR)**
-  - Market Cap Rank: 369
-  - Price (BTC): 9.644083712178377e-06
-  - [More Info](https://www.coingecko.com/en/coins/scroll)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.45903883500007e-06
+  - Price (BTC): 2.593145692896899e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.8564487216271766e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002396620811182717
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03494152647704199
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 31
-  - Price (BTC): 0.006543102206852231
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 563
+  - Price (BTC): 9.656053608155452e-07
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Pyth Network (PYTH)**
-  - Market Cap Rank: 68
-  - Price (BTC): 4.8429487668787585e-06
-  - [More Info](https://www.coingecko.com/en/coins/pyth-network)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002452797177825997
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Raydium (RAY)**
-  - Market Cap Rank: 89
-  - Price (BTC): 4.7273891845476816e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.0048544211243714e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 113
+  - Price (BTC): 9.7104821266508e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 65
+  - Price (BTC): 1.923120699138344e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Doland Tremp (TREMP)**
+  - Market Cap Rank: 771
+  - Price (BTC): 5.477424687456246e-06
+  - [More Info](https://www.coingecko.com/en/coins/doland-tremp)
+
+- **Fwog (FWOG)**
+  - Market Cap Rank: 171
+  - Price (BTC): 6.026927262073128e-06
+  - [More Info](https://www.coingecko.com/en/coins/fwog)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.2600550306596456e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.0351075348593743
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
