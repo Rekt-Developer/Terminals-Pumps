@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-07 21:25:54 UTC
+**Last updated:** 2024-11-07 22:32:28 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76376 USD
-  - Market Cap: $1511832394116.6326 USD
-  - 24h Volume: $69380100598.22833 USD
-  - 24h Change: 0.4559484782507401%
+- **Bitcoin (BTC)**: $75681 USD
+  - Market Cap: $1494991317565.3247 USD
+  - 24h Volume: $70068024470.97679 USD
+  - 24h Change: -0.05518414100208534%
 
-- **Ethereum (ETH)**: $2902.77 USD
-  - Market Cap: $349185100905.21136 USD
-  - 24h Volume: $37969741984.012886 USD
-  - 24h Change: 7.703837377755335%
+- **Ethereum (ETH)**: $2873.82 USD
+  - Market Cap: $345289257459.0423 USD
+  - 24h Volume: $37233305776.23524 USD
+  - 24h Change: 6.736371273100475%
 
 ## Trending Coins
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 451
-  - Price (BTC): 1.2547661926611018e-06
+  - Market Cap Rank: 447
+  - Price (BTC): 1.2651283952572847e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
+- **Ethervista (VISTA)**
+  - Market Cap Rank: 709
+  - Price (BTC): 0.0006607116895977276
+  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 265
-  - Price (BTC): 4.992810965243891e-10
+  - Market Cap Rank: 266
+  - Price (BTC): 4.9362550652992e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
-- **Swell (SWELL)**
-  - Market Cap Rank: 742
-  - Price (BTC): 4.577711927211392e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
-
 - **Grass (GRASS)**
-  - Market Cap Rank: 121
-  - Price (BTC): 3.858401619163528e-05
+  - Market Cap Rank: 126
+  - Price (BTC): 3.687237769131416e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Ethervista (VISTA)**
-  - Market Cap Rank: 708
-  - Price (BTC): 0.0006687444252688084
-  - [More Info](https://www.coingecko.com/en/coins/ethervista)
+- **Swell (SWELL)**
+  - Market Cap Rank: 734
+  - Price (BTC): 4.671983140906849e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.0215064727376323e-05
+  - Price (BTC): 3.0183409230097646e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Cetus Protocol (CETUS)**
   - Market Cap Rank: 289
-  - Price (BTC): 4.9543223844056865e-06
+  - Price (BTC): 4.971154305013727e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002579284467014924
+  - Price (BTC): 0.002575472181112418
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 104
-  - Price (BTC): 1.1181466581869845e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.037939917958662396
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.519878383689181e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.4227447487850234e-10
+  - Price (BTC): 1.415198868746479e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.5285545376348067e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 107
+  - Price (BTC): 1.0974747471600083e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 457
+  - Price (BTC): 1.3317915701926587e-06
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Raydium (RAY)**
   - Market Cap Rank: 74
-  - Price (BTC): 6.290286379751823e-05
+  - Price (BTC): 6.205074141440783e-05
   - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Aave (AAVE)**
-  - Market Cap Rank: 40
-  - Price (BTC): 0.002409168619689161
-  - [More Info](https://www.coingecko.com/en/coins/aave)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 64
+  - Price (BTC): 2.0517954803251613e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 ## Posts
 - **Post ID: 1**
