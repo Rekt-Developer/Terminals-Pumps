@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-08 15:30:50 UTC
+**Last updated:** 2024-11-08 16:40:25 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76469 USD
-  - Market Cap: $1506919446077.457 USD
-  - 24h Volume: $66945860477.06109 USD
-  - 24h Change: 1.3488016310205762%
+- **Bitcoin (BTC)**: $75881 USD
+  - Market Cap: $1506970166304.374 USD
+  - 24h Volume: $66849556655.36653 USD
+  - 24h Change: 0.13427313800830684%
 
-- **Ethereum (ETH)**: $2939.02 USD
-  - Market Cap: $353308503899.5813 USD
-  - 24h Volume: $34912855404.69844 USD
-  - 24h Change: 3.944079716078081%
+- **Ethereum (ETH)**: $2912.38 USD
+  - Market Cap: $350704795798.4049 USD
+  - 24h Volume: $35194352036.38772 USD
+  - 24h Change: 2.5846860101527125%
 
 ## Trending Coins
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 5.777756134567425e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026331132140478097
+  - Price (BTC): 0.0026227861346076837
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.016815353063535e-05
+  - Price (BTC): 3.0124393136383645e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 447
+  - Price (BTC): 1.2423236548479911e-06
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.038445928808988956
+  - Price (BTC): 0.03835679250894263
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 443
-  - Price (BTC): 1.2731777541467257e-06
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.5714253902549e-06
+  - Price (BTC): 2.583787264561667e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 263
-  - Price (BTC): 4.941064027920403e-10
+  - Market Cap Rank: 268
+  - Price (BTC): 4.808148061879889e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 5.9432363236783496e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 106
-  - Price (BTC): 4.503743198062772e-05
+  - Market Cap Rank: 107
+  - Price (BTC): 4.258969809549144e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Swell (SWELL)**
-  - Market Cap Rank: 603
-  - Price (BTC): 6.708561090060921e-07
+  - Market Cap Rank: 610
+  - Price (BTC): 6.495521688827432e-07
   - [More Info](https://www.coingecko.com/en/coins/swell-network)
-
-- **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 284
-  - Price (BTC): 1.2198589223415196e-05
-  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 76
-  - Price (BTC): 1.817365578672697e-05
+  - Price (BTC): 1.8157423548749634e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **Swell Ethereum (SWETH)**
-  - Market Cap Rank: 196
-  - Price (BTC): 0.04122111178998171
-  - [More Info](https://www.coingecko.com/en/coins/sweth)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.401050961314268e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Jupiter (JUP)**
-  - Market Cap Rank: 68
-  - Price (BTC): 1.45731871436926e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **Drift Protocol (DRIFT)**
+  - Market Cap Rank: 286
+  - Price (BTC): 1.2040914589731255e-05
+  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
 - **Ethena (ENA)**
   - Market Cap Rank: 69
-  - Price (BTC): 6.552023762009517e-06
+  - Price (BTC): 6.4994832837798546e-06
   - [More Info](https://www.coingecko.com/en/coins/ethena)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 111
-  - Price (BTC): 1.0100560090499504e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Raydium (RAY)**
+  - Market Cap Rank: 73
+  - Price (BTC): 6.307291542693595e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 ## Posts
 - **Post ID: 1**
