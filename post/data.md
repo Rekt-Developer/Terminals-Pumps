@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-08 16:40:25 UTC
+**Last updated:** 2024-11-08 17:29:51 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $75881 USD
-  - Market Cap: $1506970166304.374 USD
-  - 24h Volume: $66849556655.36653 USD
-  - 24h Change: 0.13427313800830684%
+- **Bitcoin (BTC)**: $75994 USD
+  - Market Cap: $1503752975913.6038 USD
+  - 24h Volume: $65187644506.697334 USD
+  - 24h Change: -0.48086294439615196%
 
-- **Ethereum (ETH)**: $2912.38 USD
-  - Market Cap: $350704795798.4049 USD
-  - 24h Volume: $35194352036.38772 USD
-  - 24h Change: 2.5846860101527125%
+- **Ethereum (ETH)**: $2898.58 USD
+  - Market Cap: $349052543520.8638 USD
+  - 24h Volume: $33562704282.693905 USD
+  - 24h Change: 1.0701493987561814%
 
 ## Trending Coins
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026227861346076837
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 453
+  - Price (BTC): 1.218079048204833e-06
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.0124393136383645e-05
+  - Price (BTC): 2.9234660467967493e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 447
-  - Price (BTC): 1.2423236548479911e-06
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 276
+  - Price (BTC): 4.576752857273268e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026001283861569174
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 9
+  - Price (BTC): 2.5275742114141406e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03835679250894263
+  - Price (BTC): 0.03816863619913924
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.583787264561667e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 268
-  - Price (BTC): 4.808148061879889e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 5.9432363236783496e-06
+  - Price (BTC): 5.811274374798536e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 107
-  - Price (BTC): 4.258969809549144e-05
+  - Price (BTC): 4.2634065850437955e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Swell (SWELL)**
-  - Market Cap Rank: 610
-  - Price (BTC): 6.495521688827432e-07
+  - Market Cap Rank: 613
+  - Price (BTC): 6.120726188215375e-07
   - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 76
-  - Price (BTC): 1.8157423548749634e-05
+  - Price (BTC): 1.7869415392248184e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.401050961314268e-10
+  - Price (BTC): 1.3666124651663504e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 286
-  - Price (BTC): 1.2040914589731255e-05
-  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
-
-- **Ethena (ENA)**
-  - Market Cap Rank: 69
-  - Price (BTC): 6.4994832837798546e-06
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 73
-  - Price (BTC): 6.307291542693595e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 41
+  - Price (BTC): 1.4253178397577717e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 114
+  - Price (BTC): 9.8209819445083e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **MAGA (TRUMP)**
+  - Market Cap Rank: 491
+  - Price (BTC): 2.5410780509752115e-05
+  - [More Info](https://www.coingecko.com/en/coins/maga)
 
 ## Posts
 - **Post ID: 1**
