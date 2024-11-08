@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-08 20:28:36 UTC
+**Last updated:** 2024-11-08 21:25:46 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76570 USD
-  - Market Cap: $1515386581434.0015 USD
-  - 24h Volume: $54428960578.72204 USD
-  - 24h Change: -0.2398763679644091%
+- **Bitcoin (BTC)**: $76511 USD
+  - Market Cap: $1514293151726.3948 USD
+  - 24h Volume: $62823806571.59748 USD
+  - 24h Change: 0.19613175708409597%
 
-- **Ethereum (ETH)**: $2945.38 USD
-  - Market Cap: $354971262953.4448 USD
-  - 24h Volume: $34967139963.42832 USD
-  - 24h Change: 1.6731581001082054%
+- **Ethereum (ETH)**: $2924.3 USD
+  - Market Cap: $352410225208.28534 USD
+  - 24h Volume: $35413403576.90492 USD
+  - 24h Change: 0.7700913121700925%
 
 ## Trending Coins
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 5.772680726085225e-06
+  - Price (BTC): 5.735574210384441e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 461
-  - Price (BTC): 1.1983584611437845e-06
+  - Market Cap Rank: 462
+  - Price (BTC): 1.1993123674805787e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 110
-  - Price (BTC): 4.106186592362698e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 242
-  - Price (BTC): 1.483226040733365e-05
+  - Market Cap Rank: 236
+  - Price (BTC): 1.5369833578146512e-05
   - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.9418415298278906e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Grass (GRASS)**
+  - Market Cap Rank: 114
+  - Price (BTC): 4.0176260863570114e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Swell (SWELL)**
-  - Market Cap Rank: 618
-  - Price (BTC): 6.275995459239608e-07
+  - Market Cap Rank: 629
+  - Price (BTC): 6.03213348715336e-07
   - [More Info](https://www.coingecko.com/en/coins/swell-network)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.038434063174280546
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002595983096945898
+  - Price (BTC): 0.002583586944648182
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 9
-  - Price (BTC): 2.5549798335997075e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 2.933112475136559e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03821572327415832
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.3955798455189377e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **MANTRA (OM)**
+  - Market Cap Rank: 76
+  - Price (BTC): 1.7916462870690282e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.400657644284804e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Cetus Protocol (CETUS)**
+  - Market Cap Rank: 297
+  - Price (BTC): 4.588598221733683e-06
+  - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
 - **Raydium (RAY)**
   - Market Cap Rank: 73
-  - Price (BTC): 6.268891404592321e-05
+  - Price (BTC): 6.3305624687293e-05
   - [More Info](https://www.coingecko.com/en/coins/raydium)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 76
-  - Price (BTC): 1.7901274044182726e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
+- **Kamino (KMNO)**
+  - Market Cap Rank: 317
+  - Price (BTC): 1.7136850376603291e-06
+  - [More Info](https://www.coingecko.com/en/coins/kamino)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 65
-  - Price (BTC): 1.9979610823360726e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **Aptos (APT)**
-  - Market Cap Rank: 28
-  - Price (BTC): 0.00012588494997479814
-  - [More Info](https://www.coingecko.com/en/coins/aptos)
+- **Jupiter (JUP)**
+  - Market Cap Rank: 68
+  - Price (BTC): 1.4182481936363534e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 ## Posts
 - **Post ID: 1**
