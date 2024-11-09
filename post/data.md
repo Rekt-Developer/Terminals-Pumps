@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-09 11:19:56 UTC
+**Last updated:** 2024-11-09 12:57:24 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76478 USD
-  - Market Cap: $1512510043621.817 USD
-  - 24h Volume: $52199114026.19797 USD
-  - 24h Change: 0.3041827096782354%
+- **Bitcoin (BTC)**: $76364 USD
+  - Market Cap: $1510462068138.476 USD
+  - 24h Volume: $51760404786.283325 USD
+  - 24h Change: 0.28618078771216904%
 
-- **Ethereum (ETH)**: $3051.18 USD
-  - Market Cap: $367430314366.34296 USD
-  - 24h Volume: $34093559873.63502 USD
-  - 24h Change: 4.366074660297217%
+- **Ethereum (ETH)**: $3037.0 USD
+  - Market Cap: $365900616482.4197 USD
+  - 24h Volume: $34689772202.51008 USD
+  - 24h Change: 3.374348983600112%
 
 ## Trending Coins
-- **Evercraft Ecotechnologies (ECET)**
-  - Market Cap Rank: 960
-  - Price (BTC): 5.618339058765755e-07
-  - [More Info](https://www.coingecko.com/en/coins/evercraft-ecotechnologies)
-
-- **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 183
-  - Price (BTC): 2.2024272419665e-05
-  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
-
-- **Swell (SWELL)**
-  - Market Cap Rank: 508
-  - Price (BTC): 8.838749742603332e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
-
 - **Grass (GRASS)**
-  - Market Cap Rank: 115
-  - Price (BTC): 4.009208170748548e-05
+  - Market Cap Rank: 126
+  - Price (BTC): 3.837102722173186e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Parcl (PRCL)**
-  - Market Cap Rank: 591
-  - Price (BTC): 5.856771756664861e-06
-  - [More Info](https://www.coingecko.com/en/coins/parcl)
+- **Swell (SWELL)**
+  - Market Cap Rank: 498
+  - Price (BTC): 9.038355971209576e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
+
+- **Drift Protocol (DRIFT)**
+  - Market Cap Rank: 187
+  - Price (BTC): 2.1339420253397508e-05
+  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 469
-  - Price (BTC): 1.182248216099638e-06
+  - Market Cap Rank: 468
+  - Price (BTC): 1.1890609478206715e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
+
+- **Parcl (PRCL)**
+  - Market Cap Rank: 592
+  - Price (BTC): 5.865072828236452e-06
+  - [More Info](https://www.coingecko.com/en/coins/parcl)
 
 - **Jupiter (JUP)**
   - Market Cap Rank: 63
-  - Price (BTC): 1.6099870301981496e-05
+  - Price (BTC): 1.5910439856951624e-05
   - [More Info](https://www.coingecko.com/en/coins/jupiter)
-
-- **Kamino (KMNO)**
-  - Market Cap Rank: 275
-  - Price (BTC): 2.3464310187679745e-06
-  - [More Info](https://www.coingecko.com/en/coins/kamino)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026480974163784195
+  - Price (BTC): 0.0026272249731658344
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Raydium (RAY)**
-  - Market Cap Rank: 68
-  - Price (BTC): 7.442048584107719e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03989746472078269
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Mantle (MNT)**
-  - Market Cap Rank: 43
-  - Price (BTC): 1.055783009084943e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantle)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.4581448542609325e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Dogs (DOGS)**
+  - Market Cap Rank: 208
+  - Price (BTC): 9.203907243132252e-09
+  - [More Info](https://www.coingecko.com/en/coins/dogs)
 
 - **Hamster Kombat (HMSTR)**
-  - Market Cap Rank: 273
-  - Price (BTC): 5.181532606132075e-08
+  - Market Cap Rank: 254
+  - Price (BTC): 5.45820726485339e-08
   - [More Info](https://www.coingecko.com/en/coins/hamster-kombat)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 69
+  - Price (BTC): 7.322907403096633e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.7345138394582725e-06
+  - Price (BTC): 2.687344849331989e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.0138381095733463e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Kamino (KMNO)**
+  - Market Cap Rank: 282
+  - Price (BTC): 2.2875401548254055e-06
+  - [More Info](https://www.coingecko.com/en/coins/kamino)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.039790428501272464
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Notcoin (NOT)**
+  - Market Cap Rank: 116
+  - Price (BTC): 9.574961988123418e-08
+  - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
 ## Posts
 - **Post ID: 1**
