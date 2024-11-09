@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-09 20:26:21 UTC
+**Last updated:** 2024-11-09 21:28:04 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76284 USD
-  - Market Cap: $1509997241575.572 USD
-  - 24h Volume: $32684715107.112843 USD
-  - 24h Change: -0.34680203592473785%
+- **Bitcoin (BTC)**: $76398 USD
+  - Market Cap: $1511097217950.5493 USD
+  - 24h Volume: $30030726999.305202 USD
+  - 24h Change: -0.11679296118626424%
 
-- **Ethereum (ETH)**: $3079.83 USD
-  - Market Cap: $370935668877.14984 USD
-  - 24h Volume: $28794974365.634384 USD
-  - 24h Change: 4.653707367958916%
+- **Ethereum (ETH)**: $3081.75 USD
+  - Market Cap: $371285712381.6015 USD
+  - 24h Volume: $27840908094.541107 USD
+  - 24h Change: 5.3655659568162575%
 
 ## Trending Coins
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.3028451669151044e-05
+  - Price (BTC): 3.380065230738518e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 115
-  - Price (BTC): 4.037748094000268e-05
+  - Market Cap Rank: 118
+  - Price (BTC): 4.0055054587525094e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 475
-  - Price (BTC): 1.1603616067556857e-06
+  - Market Cap Rank: 478
+  - Price (BTC): 1.1598047185856732e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
-- **Hamster Kombat (HMSTR)**
-  - Market Cap Rank: 234
-  - Price (BTC): 6.298176707620426e-08
-  - [More Info](https://www.coingecko.com/en/coins/hamster-kombat)
+- **Swell (SWELL)**
+  - Market Cap Rank: 539
+  - Price (BTC): 8.290753501141894e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 182
-  - Price (BTC): 2.1957609661379086e-05
+  - Market Cap Rank: 181
+  - Price (BTC): 2.2288966639210927e-05
   - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
-- **Swell (SWELL)**
-  - Market Cap Rank: 541
-  - Price (BTC): 8.270659907792715e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
+- **Hamster Kombat (HMSTR)**
+  - Market Cap Rank: 233
+  - Price (BTC): 6.287592440020569e-08
+  - [More Info](https://www.coingecko.com/en/coins/hamster-kombat)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002592286931232582
+  - Price (BTC): 0.0026061001746017103
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 8
-  - Price (BTC): 2.740423913871776e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
 - **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 277
-  - Price (BTC): 5.384528460675838e-06
+  - Market Cap Rank: 276
+  - Price (BTC): 5.362215955819987e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
-- **Jupiter (JUP)**
-  - Market Cap Rank: 64
-  - Price (BTC): 1.571365677563788e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.419072533134142e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.0403565062234931
+  - Price (BTC): 0.040352291900764115
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 90
+  - Price (BTC): 1.955845954265422e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.6443944893586713e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 8
+  - Price (BTC): 2.7607482014695823e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
 - **Parcl (PRCL)**
-  - Market Cap Rank: 572
-  - Price (BTC): 6.203201054097056e-06
+  - Market Cap Rank: 575
+  - Price (BTC): 6.2688293511194785e-06
   - [More Info](https://www.coingecko.com/en/coins/parcl)
 
-- **Raydium (RAY)**
-  - Market Cap Rank: 70
-  - Price (BTC): 7.15359178069774e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 88
-  - Price (BTC): 9.562676686095617e-06
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Ethena (ENA)**
+  - Market Cap Rank: 65
+  - Price (BTC): 7.412971884538601e-06
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
 
 ## Posts
 - **Post ID: 1**
