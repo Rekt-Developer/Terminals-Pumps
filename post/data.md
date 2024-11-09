@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-09 07:25:57 UTC
+**Last updated:** 2024-11-09 08:33:03 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76555 USD
-  - Market Cap: $1513812215176.8801 USD
-  - 24h Volume: $55748041573.51375 USD
-  - 24h Change: 1.0054325603574747%
+- **Bitcoin (BTC)**: $76627 USD
+  - Market Cap: $1515657625846.036 USD
+  - 24h Volume: $47644876096.257164 USD
+  - 24h Change: 0.8557154197777435%
 
-- **Ethereum (ETH)**: $3039.56 USD
-  - Market Cap: $365695939431.9774 USD
-  - 24h Volume: $35242122359.61092 USD
-  - 24h Change: 4.8895569426355205%
+- **Ethereum (ETH)**: $3029.35 USD
+  - Market Cap: $365018305881.1741 USD
+  - 24h Volume: $34479867049.59296 USD
+  - 24h Change: 4.219479602450966%
 
 ## Trending Coins
 - **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 168
-  - Price (BTC): 2.6049931981955647e-05
+  - Market Cap Rank: 172
+  - Price (BTC): 2.4562014575623053e-05
   - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
 - **Swell (SWELL)**
-  - Market Cap Rank: 517
-  - Price (BTC): 8.643593464332587e-07
+  - Market Cap Rank: 539
+  - Price (BTC): 8.13830937044453e-07
   - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
-- **Kamino (KMNO)**
-  - Market Cap Rank: 279
-  - Price (BTC): 2.253073117339146e-06
-  - [More Info](https://www.coingecko.com/en/coins/kamino)
-
-- **Parcl (PRCL)**
-  - Market Cap Rank: 575
-  - Price (BTC): 5.993296718495722e-06
-  - [More Info](https://www.coingecko.com/en/coins/parcl)
-
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 468
-  - Price (BTC): 1.1819186135590463e-06
+  - Market Cap Rank: 470
+  - Price (BTC): 1.1797680302768677e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
+- **Parcl (PRCL)**
+  - Market Cap Rank: 566
+  - Price (BTC): 6.344337906144899e-06
+  - [More Info](https://www.coingecko.com/en/coins/parcl)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 112
-  - Price (BTC): 4.085776004298596e-05
+  - Market Cap Rank: 115
+  - Price (BTC): 4.1505261253514526e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Kamino (KMNO)**
+  - Market Cap Rank: 290
+  - Price (BTC): 2.1924463341443917e-06
+  - [More Info](https://www.coingecko.com/en/coins/kamino)
 
 - **Jupiter (JUP)**
   - Market Cap Rank: 65
-  - Price (BTC): 1.520388023378015e-05
+  - Price (BTC): 1.531984856101789e-05
   - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
-- **Raydium (RAY)**
-  - Market Cap Rank: 68
-  - Price (BTC): 7.492129296876502e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.9604320530953277e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026259987576924206
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03964963242502059
+  - Price (BTC): 0.039568349641790436
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.4172808993004643e-10
+  - Price (BTC): 1.4457010661240575e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 8
-  - Price (BTC): 2.6697317246577714e-06
+  - Price (BTC): 2.7425507248908027e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **mETH Protocol (COOK)**
-  - Market Cap Rank: 776
-  - Price (BTC): 5.679086265126926e-07
-  - [More Info](https://www.coingecko.com/en/coins/meth-protocol)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 111
+  - Price (BTC): 1.0065278901264716e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 78
-  - Price (BTC): 1.795965802607748e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
+- **Department Of Government Efficiency (DOGE)**
+  - Market Cap Rank: 303
+  - Price (BTC): 2.789618105590969e-06
+  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026193671059997984
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 2.985470496383355e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 211
+  - Price (BTC): 4.656595798984357e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 ## Posts
 - **Post ID: 1**
