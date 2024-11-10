@@ -1,53 +1,48 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-10 22:30:51 UTC
+**Last updated:** 2024-11-10 23:25:17 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $81076 USD
-  - Market Cap: $1609235655011.4438 USD
-  - 24h Volume: $84527879450.44363 USD
-  - 24h Change: 6.0065996254848875%
+- **Bitcoin (BTC)**: $80566 USD
+  - Market Cap: $1591958437296.1467 USD
+  - 24h Volume: $89372411190.69698 USD
+  - 24h Change: 4.902328230651562%
 
-- **Ethereum (ETH)**: $3211.46 USD
-  - Market Cap: $388521939695.6761 USD
-  - 24h Volume: $50292692571.79481 USD
-  - 24h Change: 4.159847012021454%
+- **Ethereum (ETH)**: $3191.92 USD
+  - Market Cap: $383933901252.27295 USD
+  - 24h Volume: $51378399155.43597 USD
+  - 24h Change: 1.4191829695754876%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 276
-  - Price (BTC): 4.6130006853575497e-10
+  - Market Cap Rank: 278
+  - Price (BTC): 4.5421330365759734e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.754190603937647e-05
+  - Price (BTC): 3.750085438914937e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 132
+  - Price (BTC): 3.51279619617526e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 3.457980115218267e-06
+  - Price (BTC): 3.428479247263576e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026089581547773283
+  - Price (BTC): 0.0026117163168771864
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 7.406425318773152e-06
+  - Price (BTC): 7.366568005795256e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 131
-  - Price (BTC): 3.608758170344713e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **BounceBit (BB)**
-  - Market Cap Rank: 399
-  - Price (BTC): 4.150970844708425e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -56,38 +51,43 @@
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03976966292071073
+  - Price (BTC): 0.039596381768279905
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Swell (SWELL)**
-  - Market Cap Rank: 635
-  - Price (BTC): 6.16921107514488e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 103
+  - Price (BTC): 1.1453490884400081e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.5305188436664996e-10
+  - Price (BTC): 1.5063407424875987e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Raydium (RAY)**
   - Market Cap Rank: 72
-  - Price (BTC): 6.757101891421589e-05
+  - Price (BTC): 6.753705940147727e-05
   - [More Info](https://www.coingecko.com/en/coins/raydium)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 104
-  - Price (BTC): 1.1225245496092332e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 71
+  - Price (BTC): 1.8599134539354242e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 194
-  - Price (BTC): 5.230083046743478e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 11
+  - Price (BTC): 3.209973049992848e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
 
-- **Sei (SEI)**
-  - Market Cap Rank: 61
-  - Price (BTC): 5.7893297348394e-06
-  - [More Info](https://www.coingecko.com/en/coins/sei)
+- **Brett (BRETT)**
+  - Market Cap Rank: 94
+  - Price (BTC): 1.2708509587526207e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 33
+  - Price (BTC): 1.8601810155686023e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 ## Posts
 - **Post ID: 1**
