@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-09 23:26:46 UTC
+**Last updated:** 2024-11-10 02:54:52 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $76786 USD
-  - Market Cap: $1515518632917.3962 USD
-  - 24h Volume: $28185681683.237614 USD
-  - 24h Change: 0.3949176039166231%
+- **Bitcoin (BTC)**: $77356 USD
+  - Market Cap: $1530421213164.2756 USD
+  - 24h Volume: $33395714353.33381 USD
+  - 24h Change: 1.1433570479157138%
 
-- **Ethereum (ETH)**: $3147.35 USD
-  - Market Cap: $378216082376.0082 USD
-  - 24h Volume: $29494139492.132748 USD
-  - 24h Change: 6.337521423308774%
+- **Ethereum (ETH)**: $3143.57 USD
+  - Market Cap: $379266690251.1423 USD
+  - 24h Volume: $30471284481.302563 USD
+  - 24h Change: 5.533463551589035%
 
 ## Trending Coins
 - **Sui (SUI)**
   - Market Cap Rank: 19
-  - Price (BTC): 3.610482340989563e-05
+  - Price (BTC): 3.653999829017898e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 484
-  - Price (BTC): 1.140725199446698e-06
+  - Market Cap Rank: 481
+  - Price (BTC): 1.1545779279527547e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 120
-  - Price (BTC): 3.98969110634546e-05
+  - Market Cap Rank: 110
+  - Price (BTC): 4.287456225931773e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Drift Protocol (DRIFT)**
-  - Market Cap Rank: 175
-  - Price (BTC): 2.356807352927561e-05
-  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026280412369617426
+  - Price (BTC): 0.0026215334803895637
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Swell (SWELL)**
-  - Market Cap Rank: 539
-  - Price (BTC): 8.476539690951409e-07
-  - [More Info](https://www.coingecko.com/en/coins/swell-network)
-
 - **Cetus Protocol (CETUS)**
-  - Market Cap Rank: 273
-  - Price (BTC): 5.642343244175978e-06
+  - Market Cap Rank: 255
+  - Price (BTC): 5.960794799090498e-06
   - [More Info](https://www.coingecko.com/en/coins/cetus-protocol)
 
-- **Hamster Kombat (HMSTR)**
-  - Market Cap Rank: 237
-  - Price (BTC): 6.142873182303316e-08
-  - [More Info](https://www.coingecko.com/en/coins/hamster-kombat)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 2.927853029355781e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 6.716297932459652e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Drift Protocol (DRIFT)**
+  - Market Cap Rank: 176
+  - Price (BTC): 2.2909326603506576e-05
+  - [More Info](https://www.coingecko.com/en/coins/drift-protocol)
+
+- **Swell (SWELL)**
+  - Market Cap Rank: 560
+  - Price (BTC): 7.678328247222368e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.04097213555972707
+  - Price (BTC): 0.040659490140691645
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Parcl (PRCL)**
-  - Market Cap Rank: 556
-  - Price (BTC): 6.519608493833893e-06
-  - [More Info](https://www.coingecko.com/en/coins/parcl)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 64
-  - Price (BTC): 1.6000394075029555e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.7209157061552447e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 29
-  - Price (BTC): 1.459732615846445e-10
+  - Price (BTC): 1.4832143900608406e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 32
-  - Price (BTC): 1.8980550200245933e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 14
+  - Price (BTC): 2.8912054231134204e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Neiro (NEIRO)**
+  - Market Cap Rank: 83
+  - Price (BTC): 3.557590199948182e-08
+  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 70
+  - Price (BTC): 7.277638365718543e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 112
+  - Price (BTC): 1.0201323094984944e-05
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 ## Posts
 - **Post ID: 1**
