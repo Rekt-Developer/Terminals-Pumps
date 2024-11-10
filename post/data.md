@@ -1,63 +1,48 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-10 20:27:19 UTC
+**Last updated:** 2024-11-10 21:23:26 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $79479 USD
-  - Market Cap: $1571694889807.9456 USD
-  - 24h Volume: $82358438116.32396 USD
-  - 24h Change: 4.007312685662454%
+- **Bitcoin (BTC)**: $79327 USD
+  - Market Cap: $1565912346545.551 USD
+  - 24h Volume: $87013957668.20633 USD
+  - 24h Change: 3.94995356517751%
 
-- **Ethereum (ETH)**: $3160.74 USD
-  - Market Cap: $379923916095.9842 USD
-  - 24h Volume: $46002655493.8351 USD
-  - 24h Change: 2.4121544753827626%
+- **Ethereum (ETH)**: $3123.6 USD
+  - Market Cap: $372139813472.9638 USD
+  - 24h Volume: $48940477445.601616 USD
+  - 24h Change: 1.4462366248954266%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 278
-  - Price (BTC): 4.6066894974650316e-10
+  - Market Cap Rank: 283
+  - Price (BTC): 4.497137810319891e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 3.3505857653852197e-06
+  - Price (BTC): 3.2832702600336552e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 478
-  - Price (BTC): 1.1806525926005165e-06
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
-
-- **Notcoin (NOT)**
-  - Market Cap Rank: 116
-  - Price (BTC): 9.600045985949032e-08
-  - [More Info](https://www.coingecko.com/en/coins/notcoin)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 7.540062065215606e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.697386947828944e-05
+  - Price (BTC): 3.6295695546419957e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 130
-  - Price (BTC): 3.625834045818356e-05
+  - Market Cap Rank: 135
+  - Price (BTC): 3.518239149579442e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 7.22624577418549e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026025726166475807
+  - Price (BTC): 0.0025709761526997435
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.519413238668875e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -66,28 +51,43 @@
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.0396852566288596
+  - Price (BTC): 0.03942557328407175
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.4951481537747255e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 33
-  - Price (BTC): 1.8580535383583139e-06
+  - Price (BTC): 1.840038406243273e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 44
-  - Price (BTC): 3.371370970528e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 95
+  - Price (BTC): 1.851972314881934e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 71
-  - Price (BTC): 1.8016350709943676e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
+- **Bittensor (TAO)**
+  - Market Cap Rank: 31
+  - Price (BTC): 0.006854855141877281
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Swell (SWELL)**
+  - Market Cap Rank: 646
+  - Price (BTC): 6.038374958428879e-07
+  - [More Info](https://www.coingecko.com/en/coins/swell-network)
 
 - **Shiba Inu (SHIB)**
   - Market Cap Rank: 11
-  - Price (BTC): 3.1110243997120647e-10
+  - Price (BTC): 3.06551203416683e-10
   - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 72
+  - Price (BTC): 6.554307920404836e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 ## Posts
 - **Post ID: 1**
