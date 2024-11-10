@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-10 19:20:35 UTC
+**Last updated:** 2024-11-10 20:27:19 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $80451 USD
-  - Market Cap: $1595014339906.47 USD
-  - 24h Volume: $78262724358.2208 USD
-  - 24h Change: 5.0995920360798985%
+- **Bitcoin (BTC)**: $79479 USD
+  - Market Cap: $1571694889807.9456 USD
+  - 24h Volume: $82358438116.32396 USD
+  - 24h Change: 4.007312685662454%
 
-- **Ethereum (ETH)**: $3213.05 USD
-  - Market Cap: $386909127167.74335 USD
-  - 24h Volume: $43743722288.50934 USD
-  - 24h Change: 4.234408179593819%
+- **Ethereum (ETH)**: $3160.74 USD
+  - Market Cap: $379923916095.9842 USD
+  - 24h Volume: $46002655493.8351 USD
+  - 24h Change: 2.4121544753827626%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 275
-  - Price (BTC): 4.712769527371592e-10
+  - Market Cap Rank: 278
+  - Price (BTC): 4.6066894974650316e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 3.748424701138607e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 3.513732899322011e-06
+  - Price (BTC): 3.3505857653852197e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Notcoin (NOT)**
-  - Market Cap Rank: 115
-  - Price (BTC): 1.0090965048546686e-07
-  - [More Info](https://www.coingecko.com/en/coins/notcoin)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 130
-  - Price (BTC): 3.6546752583944706e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 481
-  - Price (BTC): 1.1848333727141445e-06
+  - Market Cap Rank: 478
+  - Price (BTC): 1.1806525926005165e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
+
+- **Notcoin (NOT)**
+  - Market Cap Rank: 116
+  - Price (BTC): 9.600045985949032e-08
+  - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 7.639233336460069e-06
+  - Price (BTC): 7.540062065215606e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.697386947828944e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 130
+  - Price (BTC): 3.625834045818356e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026025726166475807
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.519413238668875e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002634918759728164
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.5873178697380333e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 11
-  - Price (BTC): 3.2963621959708893e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.0396852566288596
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 33
-  - Price (BTC): 1.941434728300434e-06
+  - Price (BTC): 1.8580535383583139e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03999624389196352
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
 - **dogwifhat (WIF)**
-  - Market Cap Rank: 43
-  - Price (BTC): 3.4485317665972445e-05
+  - Market Cap Rank: 44
+  - Price (BTC): 3.371370970528e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 31
-  - Price (BTC): 0.00702070531460973
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 71
+  - Price (BTC): 1.8016350709943676e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
+
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 11
+  - Price (BTC): 3.1110243997120647e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
 
 ## Posts
 - **Post ID: 1**
