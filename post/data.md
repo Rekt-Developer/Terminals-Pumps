@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-10 15:26:33 UTC
+**Last updated:** 2024-11-10 16:35:36 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $79675 USD
-  - Market Cap: $1576889448347.3352 USD
-  - 24h Volume: $63059131959.00826 USD
-  - 24h Change: 4.300061440992412%
+- **Bitcoin (BTC)**: $79799 USD
+  - Market Cap: $1578563351091.3542 USD
+  - 24h Volume: $70766664269.93497 USD
+  - 24h Change: 4.756418398520057%
 
-- **Ethereum (ETH)**: $3202.83 USD
-  - Market Cap: $385520576701.76776 USD
-  - 24h Volume: $39941973928.8183 USD
-  - 24h Change: 5.458148122831206%
+- **Ethereum (ETH)**: $3214.06 USD
+  - Market Cap: $386298166923.788 USD
+  - 24h Volume: $41740313889.21533 USD
+  - 24h Change: 6.064312744409466%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 276
-  - Price (BTC): 4.76335407142919e-10
+  - Market Cap Rank: 280
+  - Price (BTC): 4.661929378105248e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
+- **Notcoin (NOT)**
+  - Market Cap Rank: 117
+  - Price (BTC): 9.748752890359152e-08
+  - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.737574038453361e-05
+  - Price (BTC): 3.789746524203733e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 3.056855835893148e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Notcoin (NOT)**
-  - Market Cap Rank: 116
-  - Price (BTC): 9.839134392047986e-08
-  - [More Info](https://www.coingecko.com/en/coins/notcoin)
-
 - **Grass (GRASS)**
-  - Market Cap Rank: 128
-  - Price (BTC): 3.81115717111125e-05
+  - Market Cap Rank: 124
+  - Price (BTC): 3.933261387387217e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 481
+  - Price (BTC): 1.1794531326577966e-06
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 7.468202252073949e-06
+  - Price (BTC): 7.666469765500538e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 476
-  - Price (BTC): 1.183605553982385e-06
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 33
-  - Price (BTC): 1.967180010854833e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.5470898294891094e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.04017449066913642
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 3.1353493328420156e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026037306228777063
+  - Price (BTC): 0.002635904863695691
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.5474356122926725e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Brett (BRETT)**
+  - Market Cap Rank: 95
+  - Price (BTC): 1.2915289107558938e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 32
+  - Price (BTC): 1.9894384349259915e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.040167755125267705
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 11
-  - Price (BTC): 3.269848616787301e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 86
-  - Price (BTC): 1.0286042582785032e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
 - **Aerodrome Finance (AERO)**
   - Market Cap Rank: 93
-  - Price (BTC): 1.9493782911004847e-05
+  - Price (BTC): 1.9620157449407958e-05
   - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 11
+  - Price (BTC): 3.229714383572285e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
 
 ## Posts
 - **Post ID: 1**
