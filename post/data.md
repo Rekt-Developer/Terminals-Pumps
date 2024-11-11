@@ -1,53 +1,68 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-11 05:34:05 UTC
+**Last updated:** 2024-11-11 06:41:44 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $81146 USD
-  - Market Cap: $1600380742757.5225 USD
-  - 24h Volume: $89516545455.9277 USD
-  - 24h Change: 2.101007605805833%
+- **Bitcoin (BTC)**: $81174 USD
+  - Market Cap: $1607740342853.776 USD
+  - 24h Volume: $75078674336.99591 USD
+  - 24h Change: 2.8766931866098417%
 
-- **Ethereum (ETH)**: $3152.88 USD
-  - Market Cap: $378724527685.80414 USD
-  - 24h Volume: $49307416098.862144 USD
-  - 24h Change: -1.5582350127039022%
+- **Ethereum (ETH)**: $3145.53 USD
+  - Market Cap: $379457826213.7036 USD
+  - 24h Volume: $44829984800.60607 USD
+  - 24h Change: -0.979279839013894%
 
 ## Trending Coins
+- **Act I The AI Prophecy (ACT)**
+  - Market Cap Rank: 276
+  - Price (BTC): 3.738635749888637e-06
+  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 213
+  - Price (BTC): 4.8847524296970305e-06
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
 - **Sui (SUI)**
   - Market Cap Rank: 18
-  - Price (BTC): 3.909022931574208e-05
+  - Price (BTC): 3.903117687963228e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 3.5490576924785015e-06
+  - Price (BTC): 3.4756412416299005e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 133
-  - Price (BTC): 3.501335692459172e-05
+  - Market Cap Rank: 134
+  - Price (BTC): 3.4216273482005345e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **dogwifhat (WIF)**
-  - Market Cap Rank: 40
-  - Price (BTC): 3.7427257042812266e-05
+  - Market Cap Rank: 41
+  - Price (BTC): 3.693961921868028e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
-- **BounceBit (BB)**
-  - Market Cap Rank: 398
-  - Price (BTC): 4.122907904922198e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+- **Acet (ACT)**
+  - Market Cap Rank: 396
+  - Price (BTC): 7.648751903659828e-07
+  - [More Info](https://www.coingecko.com/en/coins/acet)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 29
-  - Price (BTC): 1.5290736326186664e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **BounceBit (BB)**
+  - Market Cap Rank: 400
+  - Price (BTC): 4.089454628777867e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002537642658706687
+  - Price (BTC): 0.0025523430054362056
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 29
+  - Price (BTC): 1.48898849927448e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -56,38 +71,23 @@
 
 - **Cardano (ADA)**
   - Market Cap Rank: 10
-  - Price (BTC): 7.162422914304091e-06
+  - Price (BTC): 7.113498290241217e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 95
-  - Price (BTC): 1.8236351703572955e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
-
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 11
-  - Price (BTC): 3.1466769134177666e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
-
-- **Sei (SEI)**
-  - Market Cap Rank: 60
-  - Price (BTC): 5.873951235818089e-06
-  - [More Info](https://www.coingecko.com/en/coins/sei)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 80
-  - Price (BTC): 1.0719956809260728e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Jupiter (JUP)**
-  - Market Cap Rank: 67
-  - Price (BTC): 1.4880867496875139e-05
-  - [More Info](https://www.coingecko.com/en/coins/jupiter)
-
 - **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.087324899996672e-05
+  - Market Cap Rank: 110
+  - Price (BTC): 1.0242682110483529e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Neiro (NEIRO)**
+  - Market Cap Rank: 93
+  - Price (BTC): 2.990045378375063e-08
+  - [More Info](https://www.coingecko.com/en/coins/neiro-3)
+
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 71
+  - Price (BTC): 1.8770903132781103e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 ## Posts
 - **Post ID: 1**
