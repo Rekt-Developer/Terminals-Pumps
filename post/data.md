@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-12 10:38:05 UTC
+**Last updated:** 2024-11-12 11:22:21 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $87553 USD
-  - Market Cap: $1729406225724.0454 USD
-  - 24h Volume: $156399780187.38004 USD
-  - 24h Change: 6.748051554740725%
+- **Bitcoin (BTC)**: $87057 USD
+  - Market Cap: $1719249562001.5557 USD
+  - 24h Volume: $165488443246.48837 USD
+  - 24h Change: 6.017415109402139%
 
-- **Ethereum (ETH)**: $3336.48 USD
-  - Market Cap: $401378562949.61285 USD
-  - 24h Volume: $72120364790.27347 USD
-  - 24h Change: 4.463832038263208%
+- **Ethereum (ETH)**: $3279.0 USD
+  - Market Cap: $394905643353.99524 USD
+  - 24h Volume: $73342811479.57462 USD
+  - 24h Change: 2.7545794345291292%
 
 ## Trending Coins
 - **Notcoin (NOT)**
-  - Market Cap Rank: 125
-  - Price (BTC): 8.4792985524503e-08
+  - Market Cap Rank: 131
+  - Price (BTC): 8.209016000037884e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
-- **Self Chain (SLF)**
-  - Market Cap Rank: 980
-  - Price (BTC): 3.655452496203964e-06
-  - [More Info](https://www.coingecko.com/en/coins/self-chain)
+- **Nimiq (NIM)**
+  - Market Cap Rank: 982
+  - Price (BTC): 2.7776538996048978e-08
+  - [More Info](https://www.coingecko.com/en/coins/nimiq)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.61335226809284e-06
+  - Price (BTC): 4.4548983794307294e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Nimiq (NIM)**
-  - Market Cap Rank: 993
-  - Price (BTC): 2.7941925749490475e-08
-  - [More Info](https://www.coingecko.com/en/coins/nimiq)
-
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 510
-  - Price (BTC): 3.365630706957599e-07
+  - Market Cap Rank: 524
+  - Price (BTC): 3.269906958061529e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **RabBitcoin (RBTC)**
-  - Market Cap Rank: 217
-  - Price (BTC): 2.9968491146759676e-10
+  - Market Cap Rank: 238
+  - Price (BTC): 2.917916181691273e-10
   - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
 
-- **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 180
-  - Price (BTC): 5.759997597497952e-06
-  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
+- **Self Chain (SLF)**
+  - Market Cap Rank: 989
+  - Price (BTC): 3.5786065165864283e-06
+  - [More Info](https://www.coingecko.com/en/coins/self-chain)
 
-- **BounceBit (BB)**
-  - Market Cap Rank: 391
-  - Price (BTC): 4.022179395294915e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+- **Act I The AI Prophecy (ACT)**
+  - Market Cap Rank: 176
+  - Price (BTC): 6.12973905392118e-06
+  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.382946582725831e-05
+  - Price (BTC): 3.413471455796367e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 57
-  - Price (BTC): 3.5138662258855156e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 27
-  - Price (BTC): 1.543181706530095e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 197
-  - Price (BTC): 4.835094611506641e-06
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 128
-  - Price (BTC): 3.496560602483677e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **Grass (GRASS)**
+  - Market Cap Rank: 126
+  - Price (BTC): 3.459532604885124e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024554907907215076
+  - Price (BTC): 0.0024514327212665603
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **BounceBit (BB)**
+  - Market Cap Rank: 395
+  - Price (BTC): 3.963673698278176e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 28
+  - Price (BTC): 1.504168504342739e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 195
+  - Price (BTC): 4.9095984592926855e-06
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Cronos (CRO)**
+  - Market Cap Rank: 30
+  - Price (BTC): 2.0568761763356306e-06
+  - [More Info](https://www.coingecko.com/en/coins/cronos)
 
 ## Posts
 - **Post ID: 1**
