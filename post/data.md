@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-12 08:38:11 UTC
+**Last updated:** 2024-11-12 09:30:23 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $88913 USD
-  - Market Cap: $1758789287537.8706 USD
-  - 24h Volume: $143860527090.33197 USD
-  - 24h Change: 9.565974343408032%
+- **Bitcoin (BTC)**: $88580 USD
+  - Market Cap: $1751388291645.3118 USD
+  - 24h Volume: $155081221579.2858 USD
+  - 24h Change: 8.768443424010389%
 
-- **Ethereum (ETH)**: $3372.59 USD
-  - Market Cap: $405964492996.57294 USD
-  - 24h Volume: $67847318706.741425 USD
-  - 24h Change: 7.350551457273009%
+- **Ethereum (ETH)**: $3403.1 USD
+  - Market Cap: $409751302456.06006 USD
+  - 24h Volume: $64343937410.36597 USD
+  - 24h Change: 7.5377034907084655%
 
 ## Trending Coins
 - **Notcoin (NOT)**
-  - Market Cap Rank: 122
-  - Price (BTC): 8.992729627462428e-08
+  - Market Cap Rank: 121
+  - Price (BTC): 9.10461791682438e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
-
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 480
-  - Price (BTC): 3.6472117179996763e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.6175538058812815e-06
+  - Price (BTC): 4.796559295606509e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 177
-  - Price (BTC): 5.975011821949146e-06
+  - Market Cap Rank: 180
+  - Price (BTC): 5.748591726450739e-06
   - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 185
-  - Price (BTC): 5.366175267803737e-06
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 448
+  - Price (BTC): 4.047193808560942e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
+
+- **Self Chain (SLF)**
+  - Market Cap Rank: 982
+  - Price (BTC): 3.6950057551460687e-06
+  - [More Info](https://www.coingecko.com/en/coins/self-chain)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 25
+  - Price (BTC): 1.6477082825268962e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **BounceBit (BB)**
   - Market Cap Rank: 387
-  - Price (BTC): 4.25825819296988e-06
+  - Price (BTC): 4.2797044752190335e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
-- **RabBitcoin (RBTC)**
-  - Market Cap Rank: 313
-  - Price (BTC): 1.9571152547020799e-10
-  - [More Info](https://www.coingecko.com/en/coins/rabbitcoin)
+- **Bonk (BONK)**
+  - Market Cap Rank: 57
+  - Price (BTC): 3.6654512153826634e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 26
-  - Price (BTC): 1.619354718791155e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Sui (SUI)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.469507247953509e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 20
-  - Price (BTC): 3.5403209525823625e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 188
+  - Price (BTC): 5.080755132784316e-06
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 59
-  - Price (BTC): 3.572034871108774e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 11
+  - Price (BTC): 3.266274482093013e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 126
-  - Price (BTC): 3.61500087945785e-05
+  - Market Cap Rank: 128
+  - Price (BTC): 3.5761775606929456e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025093308237235778
+  - Price (BTC): 0.0024864327666808514
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 11
-  - Price (BTC): 3.250346917934008e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
-
-- **Render (RENDER)**
-  - Market Cap Rank: 44
-  - Price (BTC): 8.236698712718166e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03842343922595475
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
