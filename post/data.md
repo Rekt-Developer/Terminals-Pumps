@@ -1,73 +1,78 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-13 16:41:15 UTC
+**Last updated:** 2024-11-13 17:30:54 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $92311 USD
-  - Market Cap: $1840480580069.257 USD
-  - 24h Volume: $132948943333.30226 USD
-  - 24h Change: 6.316149084182042%
+- **Bitcoin (BTC)**: $92441 USD
+  - Market Cap: $1826761461475.3206 USD
+  - 24h Volume: $126939381720.60036 USD
+  - 24h Change: 5.552331753001868%
 
-- **Ethereum (ETH)**: $3284.76 USD
-  - Market Cap: $397539868489.08875 USD
-  - 24h Volume: $51527798243.61771 USD
-  - 24h Change: 1.171088033685835%
+- **Ethereum (ETH)**: $3287.08 USD
+  - Market Cap: $395637818403.00586 USD
+  - 24h Volume: $49556840396.61475 USD
+  - 24h Change: 0.8246874190457585%
 
 ## Trending Coins
+- **Nimiq (NIM)**
+  - Market Cap Rank: 953
+  - Price (BTC): 2.84590212276862e-08
+  - [More Info](https://www.coingecko.com/en/coins/nimiq)
+
 - **Notcoin (NOT)**
-  - Market Cap Rank: 128
-  - Price (BTC): 7.949240355864645e-08
+  - Market Cap Rank: 127
+  - Price (BTC): 7.97132982271232e-08
   - [More Info](https://www.coingecko.com/en/coins/notcoin)
 
-- **Nimiq (NIM)**
-  - Market Cap Rank: 959
-  - Price (BTC): 2.8144839819344178e-08
-  - [More Info](https://www.coingecko.com/en/coins/nimiq)
+- **BounceBit (BB)**
+  - Market Cap Rank: 408
+  - Price (BTC): 3.5655400454974166e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 21
-  - Price (BTC): 2.022334504633341e-10
+  - Price (BTC): 2.0717744433700967e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **PaLM AI (PALM)**
-  - Market Cap Rank: 697
-  - Price (BTC): 8.070364710903714e-06
+  - Market Cap Rank: 704
+  - Price (BTC): 7.979069655602854e-06
   - [More Info](https://www.coingecko.com/en/coins/palm-ai)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 68
-  - Price (BTC): 1.8067261369008107e-05
+  - Market Cap Rank: 67
+  - Price (BTC): 1.8647286099563646e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.494667928695673e-06
+  - Price (BTC): 4.469382770612253e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 198
-  - Price (BTC): 4.631876769321174e-06
+  - Market Cap Rank: 185
+  - Price (BTC): 4.9322959586623045e-06
   - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0023142436829826627
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.545526592289612e-05
+  - Price (BTC): 3.620432042781941e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 47
-  - Price (BTC): 4.0333006519781525e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0023632984048904673
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **dogwifhat (WIF)**
   - Market Cap Rank: 34
-  - Price (BTC): 3.937192489719296e-05
+  - Price (BTC): 3.928529007889118e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 47
+  - Price (BTC): 4.1161930997390933e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -75,19 +80,14 @@
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **PAAL AI (PAAL)**
-  - Market Cap Rank: 563
-  - Price (BTC): 1.034627945779325e-06
+  - Market Cap Rank: 586
+  - Price (BTC): 9.797642146606094e-07
   - [More Info](https://www.coingecko.com/en/coins/paal-ai)
 
-- **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 158
-  - Price (BTC): 6.293761980998486e-06
-  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 69
-  - Price (BTC): 1.745375777649779e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
+- **sudeng (HIPPO)**
+  - Market Cap Rank: 313
+  - Price (BTC): 2.2861617877966924e-07
+  - [More Info](https://www.coingecko.com/en/coins/sudeng)
 
 ## Posts
 - **Post ID: 1**
