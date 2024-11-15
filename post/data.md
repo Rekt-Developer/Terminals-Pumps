@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-15 06:48:30 UTC
+**Last updated:** 2024-11-15 07:29:21 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $87712 USD
-  - Market Cap: $1737408324505.2546 USD
-  - 24h Volume: $97124676668.37326 USD
-  - 24h Change: -2.370345174543527%
+- **Bitcoin (BTC)**: $88332 USD
+  - Market Cap: $1747891163047.3105 USD
+  - 24h Volume: $97383421133.42004 USD
+  - 24h Change: -1.7158830259210924%
 
-- **Ethereum (ETH)**: $3048.9 USD
-  - Market Cap: $367346445519.19385 USD
-  - 24h Volume: $36283797649.51072 USD
-  - 24h Change: -5.151228129072978%
+- **Ethereum (ETH)**: $3070.15 USD
+  - Market Cap: $369703178336.8595 USD
+  - 24h Volume: $36222517656.71453 USD
+  - 24h Change: -3.8808591370779424%
 
 ## Trending Coins
-- **Brett (BRETT)**
-  - Market Cap Rank: 70
-  - Price (BTC): 1.7128842624966152e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
-
 - **Pepe (PEPE)**
   - Market Cap Rank: 19
-  - Price (BTC): 2.2615498997200845e-10
+  - Price (BTC): 2.2787063189559545e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Notcoin (NOT)**
+  - Market Cap Rank: 125
+  - Price (BTC): 8.318532637408549e-08
+  - [More Info](https://www.coingecko.com/en/coins/notcoin)
+
+- **Brett (BRETT)**
+  - Market Cap Rank: 70
+  - Price (BTC): 1.7885313533971683e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.680211850606659e-05
+  - Price (BTC): 3.711575330074392e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Dogelon Mars (ELON)**
-  - Market Cap Rank: 438
-  - Price (BTC): 2.4426601745719358e-12
-  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
-
-- **SAD HAMSTER (HAMMY)**
-  - Market Cap Rank: 823
-  - Price (BTC): 4.658831482158627e-07
-  - [More Info](https://www.coingecko.com/en/coins/sad-hamster)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 65
-  - Price (BTC): 1.9934295599250206e-05
+  - Price (BTC): 2.0829771315599617e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Notcoin (NOT)**
-  - Market Cap Rank: 126
-  - Price (BTC): 8.301488286318524e-08
-  - [More Info](https://www.coingecko.com/en/coins/notcoin)
+- **SAD HAMSTER (HAMMY)**
+  - Market Cap Rank: 821
+  - Price (BTC): 4.6657966567133993e-07
+  - [More Info](https://www.coingecko.com/en/coins/sad-hamster)
+
+- **Dogelon Mars (ELON)**
+  - Market Cap Rank: 437
+  - Price (BTC): 2.4427727590629455e-12
+  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 138
-  - Price (BTC): 3.088143760623081e-05
+  - Market Cap Rank: 134
+  - Price (BTC): 3.1542801671655916e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **XRP (XRP)**
   - Market Cap Rank: 7
-  - Price (BTC): 9.179924752528388e-06
+  - Price (BTC): 9.070037154265131e-06
   - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Department Of Government Efficiency (DOGE)**
+  - Market Cap Rank: 232
+  - Price (BTC): 3.640210774423707e-06
+  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002383087509620392
+  - Price (BTC): 0.0023847318156607245
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Degen (Base) (DEGEN)**
-  - Market Cap Rank: 188
-  - Price (BTC): 2.8199142581362335e-07
-  - [More Info](https://www.coingecko.com/en/coins/degen-base)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 6
-  - Price (BTC): 4.206908000794622e-06
+  - Price (BTC): 4.2074436563918515e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 47
+  - Price (BTC): 4.0728297694178e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **dogwifhat (WIF)**
   - Market Cap Rank: 34
-  - Price (BTC): 4.034906418346915e-05
+  - Price (BTC): 4.0660876851773415e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Shrub (SHRUB)**
-  - Market Cap Rank: 333
-  - Price (BTC): 2.3034515673093845e-06
-  - [More Info](https://www.coingecko.com/en/coins/shrub)
 
 ## Posts
 - **Post ID: 1**
