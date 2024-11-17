@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 16:38:43 UTC
+**Last updated:** 2024-11-17 16:45:42 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90404 USD
-  - Market Cap: $1787177823820.096 USD
-  - 24h Volume: $47571003879.22381 USD
-  - 24h Change: -0.49187668087689407%
+- **Bitcoin (BTC)**: $90372 USD
+  - Market Cap: $1787789947221.1406 USD
+  - 24h Volume: $42529972298.07902 USD
+  - 24h Change: -0.36284929395909293%
 
-- **Ethereum (ETH)**: $3091.66 USD
-  - Market Cap: $372179416475.3876 USD
-  - 24h Volume: $25178046232.652187 USD
-  - 24h Change: -1.9993441235199145%
+- **Ethereum (ETH)**: $3091.61 USD
+  - Market Cap: $372308195563.7727 USD
+  - 24h Volume: $24940492710.936855 USD
+  - 24h Change: -1.9459459962836263%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 222
-  - Price (BTC): 6.079636004142372e-10
+  - Market Cap Rank: 224
+  - Price (BTC): 5.988375478295518e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 610
-  - Price (BTC): 8.374565161540409e-07
+  - Market Cap Rank: 613
+  - Price (BTC): 8.271099052421895e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 434
-  - Price (BTC): 3.46182554827726e-06
+  - Market Cap Rank: 433
+  - Price (BTC): 3.4578811660824773e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 504
-  - Price (BTC): 3.4318858291817554e-07
+  - Market Cap Rank: 509
+  - Price (BTC): 3.426719110178078e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
-
-- **MANTRA (OM)**
-  - Market Cap Rank: 44
-  - Price (BTC): 3.802326702070305e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.2484491713046496e-05
+  - Price (BTC): 4.284352934291048e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **MANTRA (OM)**
+  - Market Cap Rank: 44
+  - Price (BTC): 3.803891725929563e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 36
-  - Price (BTC): 6.05651134607564e-10
+  - Price (BTC): 6.068333833559164e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Popcat (POPCAT)**
-  - Market Cap Rank: 63
-  - Price (BTC): 2.2104419284553695e-05
+  - Market Cap Rank: 64
+  - Price (BTC): 2.17306550568797e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002589292415690931
+  - Price (BTC): 0.0025954516643266535
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **PONKE (PONKE)**
+  - Market Cap Rank: 233
+  - Price (BTC): 7.117069548476014e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 74
-  - Price (BTC): 1.69094077386635e-05
+  - Price (BTC): 1.6975299454594465e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **PONKE (PONKE)**
-  - Market Cap Rank: 218
-  - Price (BTC): 7.394764553492919e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 18
-  - Price (BTC): 2.3938345074283835e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.028752681381355e-06
+  - Price (BTC): 4.034013812404542e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.2029632535271043e-05
+  - Price (BTC): 1.1973113656793436e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Casper Network (CSPR)**
-  - Market Cap Rank: 301
-  - Price (BTC): 1.9756567267877312e-07
-  - [More Info](https://www.coingecko.com/en/coins/casper-network)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 19
+  - Price (BTC): 2.397686304115825e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 138
+  - Price (BTC): 7.66582164342832e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
 ## Posts
 - **Post ID: 1**
