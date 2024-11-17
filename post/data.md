@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 16:30:07 UTC
+**Last updated:** 2024-11-17 16:36:40 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90312 USD
-  - Market Cap: $1786846506576.3887 USD
-  - 24h Volume: $47560383967.55786 USD
-  - 24h Change: -0.4591891632650195%
+- **Bitcoin (BTC)**: $90404 USD
+  - Market Cap: $1787177823820.096 USD
+  - 24h Volume: $47571003879.22381 USD
+  - 24h Change: -0.49187668087689407%
 
-- **Ethereum (ETH)**: $3089.29 USD
-  - Market Cap: $371767758697.6714 USD
-  - 24h Volume: $26374685746.70482 USD
-  - 24h Change: -1.9187590072859313%
+- **Ethereum (ETH)**: $3091.66 USD
+  - Market Cap: $372179416475.3876 USD
+  - 24h Volume: $25178046232.652187 USD
+  - 24h Change: -1.9993441235199145%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 215
-  - Price (BTC): 6.198829074852417e-10
+  - Market Cap Rank: 222
+  - Price (BTC): 6.079636004142372e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 613
-  - Price (BTC): 8.363250748025151e-07
+  - Market Cap Rank: 610
+  - Price (BTC): 8.374565161540409e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 433
-  - Price (BTC): 3.4662380858389103e-06
+  - Market Cap Rank: 434
+  - Price (BTC): 3.46182554827726e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **Happy Cat (HAPPY)**
+  - Market Cap Rank: 504
+  - Price (BTC): 3.4318858291817554e-07
+  - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 44
-  - Price (BTC): 3.819094549600037e-05
+  - Price (BTC): 3.802326702070305e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.2502301293738725e-05
+  - Price (BTC): 4.2484491713046496e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 504
-  - Price (BTC): 3.449784544660437e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 36
-  - Price (BTC): 6.071431044178638e-10
+  - Price (BTC): 6.05651134607564e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 63
-  - Price (BTC): 2.239975347116382e-05
+  - Price (BTC): 2.2104419284553695e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002589902280961226
+  - Price (BTC): 0.002589292415690931
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 75
-  - Price (BTC): 1.695955603620573e-05
+  - Market Cap Rank: 74
+  - Price (BTC): 1.69094077386635e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **PONKE (PONKE)**
-  - Market Cap Rank: 219
-  - Price (BTC): 7.652087193858257e-06
+  - Market Cap Rank: 218
+  - Price (BTC): 7.394764553492919e-06
   - [More Info](https://www.coingecko.com/en/coins/ponke)
 
-- **Casper Network (CSPR)**
-  - Market Cap Rank: 292
-  - Price (BTC): 2.012157137807564e-07
-  - [More Info](https://www.coingecko.com/en/coins/casper-network)
-
 - **Pepe (PEPE)**
-  - Market Cap Rank: 19
-  - Price (BTC): 2.3989421473536775e-10
+  - Market Cap Rank: 18
+  - Price (BTC): 2.3938345074283835e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.2006057653552715e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.02850917660695e-06
+  - Price (BTC): 4.028752681381355e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.2029632535271043e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Casper Network (CSPR)**
+  - Market Cap Rank: 301
+  - Price (BTC): 1.9756567267877312e-07
+  - [More Info](https://www.coingecko.com/en/coins/casper-network)
 
 ## Posts
 - **Post ID: 1**
