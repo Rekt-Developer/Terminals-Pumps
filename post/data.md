@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 04:38:03 UTC
+**Last updated:** 2024-11-17 05:34:34 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90297 USD
-  - Market Cap: $1786369659196.9033 USD
-  - 24h Volume: $48943829597.09228 USD
-  - 24h Change: -1.0795824599683927%
+- **Bitcoin (BTC)**: $90516 USD
+  - Market Cap: $1793818005792.518 USD
+  - 24h Volume: $49458001244.31285 USD
+  - 24h Change: -1.1646620556776086%
 
-- **Ethereum (ETH)**: $3090.61 USD
-  - Market Cap: $372323567648.1278 USD
-  - 24h Volume: $28505410616.45559 USD
-  - 24h Change: -1.52902846116941%
+- **Ethereum (ETH)**: $3107.31 USD
+  - Market Cap: $374738866771.3199 USD
+  - 24h Volume: $29227184682.048252 USD
+  - 24h Change: -0.7758685901660666%
 
 ## Trending Coins
 - **XDC Network (XDC)**
   - Market Cap Rank: 141
-  - Price (BTC): 4.83717646622196e-07
+  - Price (BTC): 4.825363921858137e-07
   - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
 - **Solar (SXP)**
-  - Market Cap Rank: 308
-  - Price (BTC): 3.867414923167006e-06
+  - Market Cap Rank: 306
+  - Price (BTC): 3.924720491456168e-06
   - [More Info](https://www.coingecko.com/en/coins/solar-2)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 74
-  - Price (BTC): 1.7365054298019315e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.716074018112821e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 649
+  - Price (BTC): 7.683983450758296e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025737567878064307
+  - Price (BTC): 0.0026157959807190504
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 657
-  - Price (BTC): 6.852549638763117e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 45
-  - Price (BTC): 3.438286788723509e-05
+  - Price (BTC): 3.558333798004505e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 3.886755739521116e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Bonk (BONK)**
+  - Market Cap Rank: 37
+  - Price (BTC): 5.889538002753963e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.13314958947541e-05
+  - Price (BTC): 1.1428740210038676e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 74
+  - Price (BTC): 1.7349137250187313e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 19
+  - Price (BTC): 2.3494289605184327e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 67
+  - Price (BTC): 6.743441220764523e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Jupiter (JUP)**
+  - Market Cap Rank: 69
+  - Price (BTC): 1.4170498784142745e-05
+  - [More Info](https://www.coingecko.com/en/coins/jupiter)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.066842608093949e-05
+  - Price (BTC): 4.0419324968504194e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 144
-  - Price (BTC): 7.124592559583623e-08
+  - Market Cap Rank: 145
+  - Price (BTC): 7.146158490009585e-08
   - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
-- **Raydium (RAY)**
-  - Market Cap Rank: 68
-  - Price (BTC): 6.707611250023326e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 3.912052392245155e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.3170640361882092e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 228
-  - Price (BTC): 3.980109996160133e-06
-  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
+- **Litecoin Mascot (LESTER)**
+  - Market Cap Rank: 482
+  - Price (BTC): 1.2000234588468999e-06
+  - [More Info](https://www.coingecko.com/en/coins/litecoin-mascot)
 
 ## Posts
 - **Post ID: 1**
