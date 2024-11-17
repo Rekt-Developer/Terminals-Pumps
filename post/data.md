@@ -1,17 +1,17 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 16:25:17 UTC
+**Last updated:** 2024-11-17 16:30:07 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90253 USD
-  - Market Cap: $1785693557110.157 USD
-  - 24h Volume: $47548306239.577354 USD
-  - 24h Change: -0.45066201271450473%
+- **Bitcoin (BTC)**: $90312 USD
+  - Market Cap: $1786846506576.3887 USD
+  - 24h Volume: $47560383967.55786 USD
+  - 24h Change: -0.4591891632650195%
 
-- **Ethereum (ETH)**: $3088.86 USD
-  - Market Cap: $371784101996.0397 USD
-  - 24h Volume: $26222204388.341694 USD
-  - 24h Change: -1.8975351675668977%
+- **Ethereum (ETH)**: $3089.29 USD
+  - Market Cap: $371767758697.6714 USD
+  - 24h Volume: $26374685746.70482 USD
+  - 24h Change: -1.9187590072859313%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
