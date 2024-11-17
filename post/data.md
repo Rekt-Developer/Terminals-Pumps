@@ -1,6 +1,6 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 17:28:08 UTC
+**Last updated:** 2024-11-17 17:32:04 UTC
 
 ## Live Prices
 - **Bitcoin (BTC)**: $90506 USD
@@ -16,78 +16,78 @@
 ## Trending Coins
 - **Happy Cat (HAPPY)**
   - Market Cap Rank: 516
-  - Price (BTC): 3.35113083431365e-07
+  - Price (BTC): 3.3031487106585166e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 230
-  - Price (BTC): 5.950872216009973e-10
+  - Market Cap Rank: 226
+  - Price (BTC): 5.929200026235181e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 573
-  - Price (BTC): 9.283448980289896e-07
+  - Market Cap Rank: 570
+  - Price (BTC): 8.859652635608467e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 436
-  - Price (BTC): 3.437316218970721e-06
+  - Market Cap Rank: 435
+  - Price (BTC): 3.4407538220030156e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 44
-  - Price (BTC): 3.7744215792893764e-05
+  - Price (BTC): 3.7872151533957866e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 37
-  - Price (BTC): 5.774854465274936e-10
+  - Price (BTC): 5.731521171647316e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.2379336116319295e-05
+  - Price (BTC): 4.2389370428697336e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 73
-  - Price (BTC): 1.7577333464787557e-05
+  - Price (BTC): 1.760372170081901e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.00257726657661554
+  - Price (BTC): 0.002576750121558938
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 18
-  - Price (BTC): 2.4602652630313884e-10
+  - Price (BTC): 2.4711200824463547e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Popcat (POPCAT)**
   - Market Cap Rank: 64
-  - Price (BTC): 2.1710506165459045e-05
+  - Price (BTC): 2.1602666762876507e-05
   - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.0699909995150766e-06
+  - Price (BTC): 4.07730322271307e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **PONKE (PONKE)**
-  - Market Cap Rank: 223
-  - Price (BTC): 7.449564896976475e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.1949858756335824e-05
+  - Price (BTC): 1.1970948900207364e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Mister Miggles (MIGGLES)**
-  - Market Cap Rank: 354
-  - Price (BTC): 2.0726948514849307e-06
+  - Market Cap Rank: 357
+  - Price (BTC): 2.0799380180297667e-06
   - [More Info](https://www.coingecko.com/en/coins/mister-miggles)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 69
+  - Price (BTC): 6.33431370012625e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
 ## Posts
 - **Post ID: 1**
