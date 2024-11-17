@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-17 16:45:42 UTC
+**Last updated:** 2024-11-17 16:54:56 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $90372 USD
-  - Market Cap: $1787789947221.1406 USD
-  - 24h Volume: $42529972298.07902 USD
-  - 24h Change: -0.36284929395909293%
+- **Bitcoin (BTC)**: $90412 USD
+  - Market Cap: $1786785024429.091 USD
+  - 24h Volume: $47371641457.42124 USD
+  - 24h Change: -0.3486946661637668%
 
-- **Ethereum (ETH)**: $3091.61 USD
-  - Market Cap: $372308195563.7727 USD
-  - 24h Volume: $24940492710.936855 USD
-  - 24h Change: -1.9459459962836263%
+- **Ethereum (ETH)**: $3089.89 USD
+  - Market Cap: $371841737844.89655 USD
+  - 24h Volume: $26097347337.040882 USD
+  - 24h Change: -1.9014383745619348%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 224
-  - Price (BTC): 5.988375478295518e-10
+  - Market Cap Rank: 230
+  - Price (BTC): 5.880021155951454e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 613
-  - Price (BTC): 8.271099052421895e-07
+  - Market Cap Rank: 623
+  - Price (BTC): 8.552299154728017e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 433
-  - Price (BTC): 3.4578811660824773e-06
+  - Market Cap Rank: 434
+  - Price (BTC): 3.4373292887703032e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 509
-  - Price (BTC): 3.426719110178078e-07
+  - Market Cap Rank: 512
+  - Price (BTC): 3.387050090484167e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 4.284352934291048e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 44
-  - Price (BTC): 3.803891725929563e-05
+  - Price (BTC): 3.781515330533673e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 36
-  - Price (BTC): 6.068333833559164e-10
+  - Price (BTC): 5.999763367069273e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 64
-  - Price (BTC): 2.17306550568797e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 4.269082168489574e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025954516643266535
+  - Price (BTC): 0.0025868023954867593
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **PONKE (PONKE)**
-  - Market Cap Rank: 233
-  - Price (BTC): 7.117069548476014e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 63
+  - Price (BTC): 2.156469044445642e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 74
-  - Price (BTC): 1.6975299454594465e-05
+  - Price (BTC): 1.711363598616437e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **PONKE (PONKE)**
+  - Market Cap Rank: 233
+  - Price (BTC): 7.133367875348656e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.034013812404542e-06
+  - Price (BTC): 4.035304063806545e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.1973113656793436e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 19
-  - Price (BTC): 2.397686304115825e-10
+  - Price (BTC): 2.399344546969983e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.1958195552526493e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **DOG•GO•TO•THE•MOON (Runes) (DOG)**
   - Market Cap Rank: 138
-  - Price (BTC): 7.66582164342832e-08
+  - Price (BTC): 7.620472658369051e-08
   - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
 ## Posts
