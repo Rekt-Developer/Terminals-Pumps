@@ -4,6 +4,8 @@ import os
 import json
 from datetime import datetime, timedelta
 from requests_oauthlib import OAuth1Session
+import tempfile
+from urllib.parse import urlparse
 
 # Twitter API configurations for both accounts
 TWITTER_ACCOUNTS = {
@@ -21,11 +23,9 @@ TWITTER_ACCOUNTS = {
     }
 }
 
-# API Endpoints
+# API endpoints
 API_URL_POST = 'https://api.twitter.com/2/tweets'
 API_MEDIA_UPLOAD = 'https://upload.twitter.com/1.1/media/upload.json'
-CRYPTOCOMPARE_API_KEY = '1048c9d7ef0df6358f984e6be9466c9b5d83eb5f26a0a57741be7f3f7bd6eb03'
-CRYPTOCOMPARE_API_URL = 'https://min-api.cryptocompare.com/data/v2/news/'
 
 # Repository information
 REPO_OWNER = 'likhonisaac'
@@ -33,6 +33,10 @@ REPO_NAME = 'Terminals-Pumps'
 HISTORY_FILE = 'post_history.json'
 IMAGES_FOLDER = 'images'  # Local folder containing images
 USED_IMAGES_FILE = 'used_images.json'  # Track used images
+
+# CryptoCompare API to fetch news
+API_KEY = '1048c9d7ef0df6358f984e6be9466c9b5d83eb5f26a0a57741be7f3f7bd6eb03'
+NEWS_URL = 'https://min-api.cryptocompare.com/data/v2/news/'
 
 class TwitterBot:
     def __init__(self):
@@ -49,6 +53,7 @@ class TwitterBot:
         return {'account1': {}, 'account2': {}}
 
     def load_used_images(self):
+        """Load the history of used images"""
         try:
             if os.path.exists(USED_IMAGES_FILE):
                 with open(USED_IMAGES_FILE, 'r') as file:
@@ -58,6 +63,7 @@ class TwitterBot:
         return []
 
     def save_used_images(self):
+        """Save the updated used images list"""
         try:
             with open(USED_IMAGES_FILE, 'w') as file:
                 json.dump(self.used_images, file, indent=2)
@@ -66,40 +72,45 @@ class TwitterBot:
             print(f"Error saving used images history: {e}")
 
     def get_available_images(self):
+        """Get list of available images from the folder"""
         try:
             if not os.path.exists(IMAGES_FOLDER):
                 os.makedirs(IMAGES_FOLDER)
                 print(f"Created images folder: {IMAGES_FOLDER}")
                 return []
 
-            all_images = [f for f in os.listdir(IMAGES_FOLDER)
+            all_images = [f for f in os.listdir(IMAGES_FOLDER) 
                          if f.lower().endswith(('.png', '.jpg', '.jpeg', '.gif'))]
-
+            
+            # Filter out used images
             available_images = [img for img in all_images if img not in self.used_images]
-
+            
+            # If all images have been used, reset the history
             if not available_images:
                 print("All images have been used, resetting history")
                 self.used_images = []
                 self.save_used_images()
                 available_images = all_images
-
+            
             return available_images
         except Exception as e:
             print(f"Error getting available images: {e}")
             return []
 
     def get_random_image(self):
+        """Select a random unused image from the folder"""
         available_images = self.get_available_images()
         if not available_images:
             print("No images available in the folder")
             return None
-
+            
         selected_image = random.choice(available_images)
         image_path = os.path.join(IMAGES_FOLDER, selected_image)
-
+        
+        # Mark image as used
         self.used_images.append(selected_image)
         self.save_used_images()
-
+        
         print(f"Selected image: {selected_image}")
         return image_path
 
@@ -111,26 +122,27 @@ class TwitterBot:
         except Exception as e:
             print(f"Error saving history: {e}")
 
-    def load_news(self):
-        """Fetch the latest news from CryptoCompare API"""
+    def load_posts(self):
         try:
-            params = {'api_key': CRYPTOCOMPARE_API_KEY}
-            response = requests.get(CRYPTOCOMPARE_API_URL, params=params)
+            url = f'https://raw.githubusercontent.com/{REPO_OWNER}/{REPO_NAME}/main/post/post.json'
+            response = requests.get(url)
             response.raise_for_status()
-            return response.json()['Data']['feeds']
+            return response.json()['posts']
         except Exception as e:
-            print(f"Error fetching news: {e}")
+            print(f"Error loading posts: {e}")
             return []
 
     def upload_media(self, image_path, auth):
         """Upload media to Twitter and return the media ID."""
         try:
+            # Read the image file
             with open(image_path, 'rb') as image_file:
                 image_data = image_file.read()
-
+            
+            # Upload the image
             response = auth.post(API_MEDIA_UPLOAD, files={'media': image_data})
             response.raise_for_status()
-
+            
             media_id = response.json()['media_id_string']
             print(f"Successfully uploaded media with ID: {media_id}")
             return media_id
@@ -147,17 +159,18 @@ class TwitterBot:
                 resource_owner_key=account['access_token'],
                 resource_owner_secret=account['access_token_secret']
             )
-
+            
+            # Prepare tweet payload
             payload = {'text': content}
             if media_id:
                 payload['media'] = {'media_ids': [media_id]}
-
+            
             response = auth.post(API_URL_POST, json=payload)
             response.raise_for_status()
-            return response
+            return response, auth
         except Exception as e:
             print(f"Error posting tweet: {e}")
-            return None
+            return None, None
 
     def is_recently_posted(self, post_id, account_key):
         try:
@@ -170,43 +183,57 @@ class TwitterBot:
             print(f"Error checking recent posts: {e}")
         return False
 
+    def fetch_crypto_news(self):
+        """Fetch latest news from CryptoCompare API."""
+        try:
+            params = {'api_key': API_KEY}
+            response = requests.get(NEWS_URL, params=params)
+            response.raise_for_status()
+
+            # Ensure the response contains 'Data' key
+            news_data = response.json().get('Data', [])
+            if not news_data:
+                print("No news data found.")
+                return []
+            
+            return news_data
+        except Exception as e:
+            print(f"Error fetching news: {e}")
+            return []
+
     def post_updates(self):
         print(f"Starting post updates at {datetime.now()}")
-
-        news = self.load_news()
-        if not news:
+        
+        # Fetch crypto news
+        news_posts = self.fetch_crypto_news()
+        if not news_posts:
             print("No news available to tweet.")
             return
-
+        
+        # Choose an account based on the current minute
         current_minute = datetime.now().minute
         account_key = 'account1' if current_minute % 60 < 30 else 'account2'
         print(f"Using {account_key} for this update")
 
-        # Filter out recently posted content
-        available_news = [
-            n for n in news
-            if not self.is_recently_posted(n['id'], account_key)
-        ]
-
-        if not available_news:
-            print(f"No available news for {account_key} at this time.")
-            return
-
+        # Get random image from folder
         image_path = self.get_random_image()
         if not image_path:
             print("Failed to get image, proceeding without media")
 
-        news_to_post = random.choice(available_news)
-        content = news_to_post['title'] + "\n" + news_to_post['body']
-        post_id = str(news_to_post['id'])
+        # Select a random news post
+        news_post = random.choice(news_posts)
+        content = news_post.get('title', '')  # Use the title of the news item
+        post_id = str(news_post.get('id', ''))
 
+        # Add posting timestamp
         timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC")
         content_with_timestamp = f"{content}\n\nPosted at: {timestamp}"
 
-        print(f"Attempting to post news {post_id} from {account_key}")
-
+        print(f"Attempting to post tweet {post_id} from {account_key}")
+        
         media_id = None
         if image_path:
+            # First create OAuth session for media upload
             account = TWITTER_ACCOUNTS[account_key]
             auth = OAuth1Session(
                 account['consumer_key'],
@@ -216,14 +243,15 @@ class TwitterBot:
             )
             media_id = self.upload_media(image_path, auth)
 
-        response = self.post_tweet(content_with_timestamp, account_key, media_id)
+        # Post tweet with or without image
+        response, auth = self.post_tweet(content_with_timestamp, account_key, media_id)
 
         if response and response.status_code in (200, 201):
-            print(f"Successfully posted tweet from {account_key}: {post_id}")
+            print(f"Successfully posted tweet {post_id} from {account_key}")
             self.posts_history[account_key][post_id] = datetime.now().isoformat()
             self.save_posts_history()
         else:
-            print(f"Failed to post tweet from {account_key}")
+            print(f"Failed to post tweet {post_id} from {account_key}")
 
 def main():
     bot = TwitterBot()
