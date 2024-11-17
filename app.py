@@ -21,13 +21,17 @@ TWITTER_ACCOUNTS = {
     }
 }
 
-# API endpoints
-API_URL_POST = 'https://api.twitter.com/2/tweets'
+# CryptoCompare API configurations
+API_KEY = "1048c9d7ef0df6358f984e6be9466c9b5d83eb5f26a0a57741be7f3f7bd6eb03"
+NEWS_URL = "https://min-api.cryptocompare.com/data/v2/news/"
+SIGNAL_URL = "https://min-api.cryptocompare.com/data/tradingsignals/intotheblock/latest"
 
-# CryptoCompare API
-API_KEY = 'your_crypto_compare_api_key'
-NEWS_URL = 'https://min-api.cryptocompare.com/data/v2/news/'
-SIGNAL_URL = 'https://min-api.cryptocompare.com/data/tradingsignals/intotheblock/latest'
+# Emoji mappings for trading sentiment
+SENTIMENT_EMOJIS = {
+    'bullish': '📈🚀',
+    'bearish': '📉🔻',
+    'neutral': '🤔'
+}
 
 class TwitterBot:
     def __init__(self):
@@ -94,7 +98,7 @@ class TwitterBot:
                 if media_id:
                     payload['media'] = {'media_ids': [media_id]}
 
-            response = auth.post(API_URL_POST, json=payload)
+            response = auth.post("https://api.twitter.com/2/tweets", json=payload)
             response.raise_for_status()
             return response
         except Exception as e:
@@ -126,6 +130,14 @@ class TwitterBot:
             print(f"Error checking recent posts: {e}")
         return False
 
+    def generate_hashtags(self, text, symbol=None):
+        """Generate hashtags based on the given text."""
+        keywords = [word for word in text.split() if len(word) > 3]
+        base_hashtags = random.sample(keywords, min(3, len(keywords)))
+        if symbol:
+            base_hashtags.append(symbol)
+        return ' '.join([f"#{word}" for word in base_hashtags])
+
     def post_updates(self):
         """Post updates to Twitter."""
         print("Starting post updates...")
@@ -149,7 +161,8 @@ class TwitterBot:
             if not title or self.is_recently_posted(news_id, account_key):
                 continue
 
-            content = f"{title}\n\nRead more: {news.get('url')}"
+            hashtags = self.generate_hashtags(title)
+            content = f"{title}\n\n{hashtags}"
             response = self.post_tweet(content, account_key, image_url)
             if response and response.status_code in (200, 201):
                 print(f"Tweeted news: {title}")
@@ -162,11 +175,15 @@ class TwitterBot:
             if not signal:
                 continue
 
+            sentiment = signal.get('inOutVar', {}).get('sentiment', 'neutral')
+            emoji = SENTIMENT_EMOJIS.get(sentiment, '🤔')
+            score = signal.get('inOutVar', {}).get('score', 'N/A')
+
             signal_content = (
-                f"Trading Signal for {symbol}:\n"
-                f"Sentiment: {signal.get('inOutVar', {}).get('sentiment', 'N/A')}\n"
-                f"Score: {signal.get('inOutVar', {}).get('score', 'N/A')}\n"
-                f"Powered by IntoTheBlock"
+                f"🚨 {symbol} Trading Signal {emoji}\n"
+                f"Sentiment: {sentiment.capitalize()}\n"
+                f"Score: {score}\n"
+                f"#Crypto #Trading #{symbol}"
             )
             response = self.post_tweet(signal_content, account_key)
             if response and response.status_code in (200, 201):
