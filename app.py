@@ -62,8 +62,7 @@ class TwitterBot:
             params = {'api_key': API_KEY, 'sortOrder': 'latest'}
             response = requests.get(NEWS_URL, params=params)
             response.raise_for_status()
-            news_data = response.json().get('Data', [])
-            return news_data
+            return response.json().get('Data', [])
         except Exception as e:
             print(f"Error fetching news: {e}")
             return []
@@ -74,8 +73,7 @@ class TwitterBot:
             url = f"{SIGNAL_URL}?fsym={symbol}&api_key={API_KEY}"
             response = requests.get(url)
             response.raise_for_status()
-            signal_data = response.json().get('Data', {})
-            return signal_data
+            return response.json().get('Data', {})
         except Exception as e:
             print(f"Error fetching trading signal: {e}")
             return {}
@@ -93,13 +91,13 @@ class TwitterBot:
 
             payload = {'text': content}
             if image_url:
-                # Upload image URL to Twitter and get media ID
                 media_id = self.upload_media_from_url(image_url, auth)
                 if media_id:
                     payload['media'] = {'media_ids': [media_id]}
 
             response = auth.post("https://api.twitter.com/2/tweets", json=payload)
             response.raise_for_status()
+            print(f"Successfully posted: {content}")
             return response
         except Exception as e:
             print(f"Error posting tweet: {e}")
@@ -119,57 +117,53 @@ class TwitterBot:
             print(f"Error uploading media from URL: {e}")
             return None
 
-    def is_recently_posted(self, post_id, account_key):
+    def is_duplicate(self, post_id, account_key):
         """Check if a post has been recently posted to avoid duplicates."""
         try:
             account_history = self.posts_history.get(account_key, {})
             if str(post_id) in account_history:
-                last_posted = datetime.fromisoformat(account_history[str(post_id)])
-                return datetime.now() - last_posted < timedelta(hours=24)
+                return True
         except Exception as e:
-            print(f"Error checking recent posts: {e}")
+            print(f"Error checking duplicates: {e}")
         return False
+
+    def mark_posted(self, post_id, account_key):
+        """Mark a post as posted in the history."""
+        self.posts_history[account_key][str(post_id)] = datetime.now().isoformat()
+        self.save_posts_history()
 
     def generate_hashtags(self, text, symbol=None):
         """Generate hashtags based on the given text."""
-        keywords = [word for word in text.split() if len(word) > 3]
-        base_hashtags = random.sample(keywords, min(3, len(keywords)))
+        words = [word for word in text.split() if len(word) > 3]
+        hashtags = random.sample(words, min(3, len(words)))
         if symbol:
-            base_hashtags.append(symbol)
-        return ' '.join([f"#{word}" for word in base_hashtags])
+            hashtags.append(symbol)
+        return ' '.join([f"#{word}" for word in hashtags])
 
     def post_updates(self):
         """Post updates to Twitter."""
         print("Starting post updates...")
 
-        # Get latest news
-        news_posts = self.fetch_news()
-        if not news_posts:
-            print("No news to post.")
-            return
-
-        # Determine account to use
+        # Determine which account to use
         current_minute = datetime.now().minute
         account_key = 'account1' if current_minute % 60 < 30 else 'account2'
         print(f"Using {account_key} for updates.")
 
-        # Post the latest news
-        for news in news_posts[:5]:  # Limit to 5 news posts per update
+        # Fetch and post news
+        news_posts = self.fetch_news()
+        for news in news_posts[:5]:
             news_id = news.get('id')
             title = news.get('title')
             image_url = news.get('imageurl')
-            if not title or self.is_recently_posted(news_id, account_key):
+            if not title or self.is_duplicate(news_id, account_key):
                 continue
 
             hashtags = self.generate_hashtags(title)
             content = f"{title}\n\n{hashtags}"
-            response = self.post_tweet(content, account_key, image_url)
-            if response and response.status_code in (200, 201):
-                print(f"Tweeted news: {title}")
-                self.posts_history[account_key][news_id] = datetime.now().isoformat()
-                self.save_posts_history()
+            if self.post_tweet(content, account_key, image_url):
+                self.mark_posted(news_id, account_key)
 
-        # Post trading signals for BTC and ETH
+        # Fetch and post trading signals
         for symbol in ['BTC', 'ETH']:
             signal = self.fetch_trading_signal(symbol)
             if not signal:
@@ -185,9 +179,8 @@ class TwitterBot:
                 f"Score: {score}\n"
                 f"#Crypto #Trading #{symbol}"
             )
-            response = self.post_tweet(signal_content, account_key)
-            if response and response.status_code in (200, 201):
-                print(f"Tweeted trading signal for {symbol}.")
+            if self.post_tweet(signal_content, account_key):
+                self.mark_posted(f"{symbol}_{sentiment}", account_key)
 
 def main():
     bot = TwitterBot()
