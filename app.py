@@ -225,10 +225,6 @@ class TwitterBot:
         content = news_post.get('title', '')  # Use the title of the news item
         post_id = str(news_post.get('id', ''))
 
-        # Add posting timestamp
-        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC")
-        content_with_timestamp = f"{content}\n\nPosted at: {timestamp}"
-
         print(f"Attempting to post tweet {post_id} from {account_key}")
         
         media_id = None
