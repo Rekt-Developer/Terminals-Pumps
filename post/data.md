@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-18 07:31:29 UTC
+**Last updated:** 2024-11-18 08:43:20 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91587 USD
-  - Market Cap: $1812425387654.2595 USD
-  - 24h Volume: $51605519034.26649 USD
-  - 24h Change: 1.1749182868138635%
+- **Bitcoin (BTC)**: $91786 USD
+  - Market Cap: $1813847007795.9417 USD
+  - 24h Volume: $55147403036.916046 USD
+  - 24h Change: 1.3086469570287955%
 
-- **Ethereum (ETH)**: $3128.9 USD
-  - Market Cap: $376789024947.2989 USD
-  - 24h Volume: $25615875805.620018 USD
-  - 24h Change: -0.13718378277300355%
+- **Ethereum (ETH)**: $3123.39 USD
+  - Market Cap: $376019311867.11554 USD
+  - 24h Volume: $23648210782.63624 USD
+  - 24h Change: -0.8905961260930585%
 
 ## Trending Coins
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 135
-  - Price (BTC): 7.839200711386148e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
-
-- **MANTRA (OM)**
-  - Market Cap Rank: 36
-  - Price (BTC): 4.587089644611343e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.145081314536296e-05
+  - Price (BTC): 4.079429856905765e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Hedera (HBAR)**
-  - Market Cap Rank: 32
-  - Price (BTC): 1.3389653549566707e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.2626539028927309e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 135
+  - Price (BTC): 7.877977026176294e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 69
-  - Price (BTC): 1.8183051499574118e-05
+  - Price (BTC): 1.795327101911462e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.2635957603521474e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **MANTRA (OM)**
+  - Market Cap Rank: 36
+  - Price (BTC): 4.507483042357309e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 32
+  - Price (BTC): 1.2764409749016263e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026222702647154227
+  - Price (BTC): 0.0026286049103963548
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Fractal Bitcoin (FB)**
+  - Market Cap Rank: 794
+  - Price (BTC): 8.263570744090649e-05
+  - [More Info](https://www.coingecko.com/en/coins/fractal-bitcoin)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.098871356429139e-06
+  - Price (BTC): 4.114806496550598e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 18
+  - Price (BTC): 2.4233962691240647e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Bonk (BONK)**
   - Market Cap Rank: 39
-  - Price (BTC): 5.586003350736665e-10
+  - Price (BTC): 5.643106168908752e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **Fractal Bitcoin (FB)**
-  - Market Cap Rank: 789
-  - Price (BTC): 8.331472852534335e-05
-  - [More Info](https://www.coingecko.com/en/coins/fractal-bitcoin)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 20
-  - Price (BTC): 2.354380752305044e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 8.451455641861522e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 81
+  - Price (BTC): 1.0479554461399082e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 34
-  - Price (BTC): 1.7915063196404936e-06
+  - Price (BTC): 1.8324836215498917e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 158
-  - Price (BTC): 2.685094586676742e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 71
-  - Price (BTC): 6.09132068118295e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Department Of Government Efficiency (DOGE)**
-  - Market Cap Rank: 271
-  - Price (BTC): 3.19271466507655e-06
-  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 ## Posts
 - **Post ID: 1**
