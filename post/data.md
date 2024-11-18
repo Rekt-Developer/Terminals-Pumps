@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-18 06:47:32 UTC
+**Last updated:** 2024-11-18 07:31:29 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91422 USD
-  - Market Cap: $1805470963779.7266 USD
-  - 24h Volume: $50696766580.35678 USD
-  - 24h Change: 0.8039452628296813%
+- **Bitcoin (BTC)**: $91587 USD
+  - Market Cap: $1812425387654.2595 USD
+  - 24h Volume: $51605519034.26649 USD
+  - 24h Change: 1.1749182868138635%
 
-- **Ethereum (ETH)**: $3144.46 USD
-  - Market Cap: $379097929133.4416 USD
-  - 24h Volume: $24751329692.473824 USD
-  - 24h Change: 0.5848459050700423%
+- **Ethereum (ETH)**: $3128.9 USD
+  - Market Cap: $376789024947.2989 USD
+  - 24h Volume: $25615875805.620018 USD
+  - 24h Change: -0.13718378277300355%
 
 ## Trending Coins
 - **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 133
-  - Price (BTC): 8.184390507174336e-08
+  - Market Cap Rank: 135
+  - Price (BTC): 7.839200711386148e-08
   - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 69
-  - Price (BTC): 1.8263844488155685e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 36
-  - Price (BTC): 4.661558969778378e-05
+  - Price (BTC): 4.587089644611343e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.162108611193835e-05
+  - Price (BTC): 4.145081314536296e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0026665004511041584
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.2842800474045093e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 32
-  - Price (BTC): 1.3348436374937977e-06
+  - Price (BTC): 1.3389653549566707e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 39
-  - Price (BTC): 5.58586461969721e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.2626539028927309e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 69
+  - Price (BTC): 1.8183051499574118e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.336175506775355e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026222702647154227
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.102444591604971e-06
+  - Price (BTC): 4.098871356429139e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **ai16z (AI16Z)**
-  - Market Cap Rank: 195
-  - Price (BTC): 4.5158311999140614e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai16z)
+- **Bonk (BONK)**
+  - Market Cap Rank: 39
+  - Price (BTC): 5.586003350736665e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 152
-  - Price (BTC): 6.786742338507203e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+- **Fractal Bitcoin (FB)**
+  - Market Cap Rank: 789
+  - Price (BTC): 8.331472852534335e-05
+  - [More Info](https://www.coingecko.com/en/coins/fractal-bitcoin)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 92
-  - Price (BTC): 1.269727693102908e-05
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 20
+  - Price (BTC): 2.354380752305044e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Cardano (ADA)**
-  - Market Cap Rank: 10
-  - Price (BTC): 8.476036752535372e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
+- **Kaspa (KAS)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.7915063196404936e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 158
+  - Price (BTC): 2.685094586676742e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 71
+  - Price (BTC): 6.09132068118295e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Department Of Government Efficiency (DOGE)**
+  - Market Cap Rank: 271
+  - Price (BTC): 3.19271466507655e-06
+  - [More Info](https://www.coingecko.com/en/coins/department-of-government-efficiency)
 
 ## Posts
 - **Post ID: 1**
