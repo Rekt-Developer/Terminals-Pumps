@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-19 21:28:18 UTC
+**Last updated:** 2024-11-19 22:35:44 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $92049 USD
-  - Market Cap: $1820766212379.1487 USD
-  - 24h Volume: $76655931968.75842 USD
-  - 24h Change: 0.26036910884713527%
+- **Bitcoin (BTC)**: $91792 USD
+  - Market Cap: $1821457136807.9915 USD
+  - 24h Volume: $85438144491.98901 USD
+  - 24h Change: 0.6008235219968491%
 
-- **Ethereum (ETH)**: $3082.01 USD
-  - Market Cap: $370837549213.901 USD
-  - 24h Volume: $31245362581.226162 USD
-  - 24h Change: -2.645755368024491%
+- **Ethereum (ETH)**: $3072.07 USD
+  - Market Cap: $371565525266.13416 USD
+  - 24h Volume: $32446277258.009357 USD
+  - 24h Change: -2.7130125078462917%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 456
-  - Price (BTC): 3.9019881564899524e-07
+  - Market Cap Rank: 466
+  - Price (BTC): 3.794951773622121e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 39
-  - Price (BTC): 4.199495180191329e-05
+  - Price (BTC): 4.214914080558372e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 449
-  - Price (BTC): 3.2304286440507997e-06
+  - Market Cap Rank: 451
+  - Price (BTC): 3.225931430108808e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **McDull (Meme) (MCDULL)**
-  - Market Cap Rank: 583
-  - Price (BTC): 1.0054110389504915e-10
+  - Market Cap Rank: 592
+  - Price (BTC): 9.966732273695254e-11
   - [More Info](https://www.coingecko.com/en/coins/mcdull-meme)
 
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 624
-  - Price (BTC): 7.959225373200355e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
 - **JUNO (JUNO)**
-  - Market Cap Rank: 814
-  - Price (BTC): 6.064871446449223e-06
+  - Market Cap Rank: 880
+  - Price (BTC): 5.203359140907092e-06
   - [More Info](https://www.coingecko.com/en/coins/juno-network)
 
 - **Peanut the Squirrel (PNUT)**
   - Market Cap Rank: 68
-  - Price (BTC): 1.8772060695264135e-05
+  - Price (BTC): 1.8493415627952347e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002583161107987864
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 123
-  - Price (BTC): 9.060485300781268e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 4.053804238718925e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 175
-  - Price (BTC): 5.967324430914232e-06
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.217352326890932e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 22
-  - Price (BTC): 2.1210534347794412e-10
+  - Price (BTC): 2.1047013817969402e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 36
-  - Price (BTC): 5.693535300832911e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 123
+  - Price (BTC): 9.096647463939119e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 144
-  - Price (BTC): 2.866162431011411e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025591253172534477
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 31
+  - Price (BTC): 1.4087124903543026e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 173
+  - Price (BTC): 5.92182431557747e-06
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 4.031369673578956e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.198626973366807e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 35
+  - Price (BTC): 1.696292757451106e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 ## Posts
 - **Post ID: 1**
