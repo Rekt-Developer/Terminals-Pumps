@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-19 03:02:51 UTC
+**Last updated:** 2024-11-19 04:38:45 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $91305 USD
-  - Market Cap: $1805639655435.8892 USD
-  - 24h Volume: $84381571268.56058 USD
-  - 24h Change: 0.9456628872025092%
+- **Bitcoin (BTC)**: $91754 USD
+  - Market Cap: $1815285035683.919 USD
+  - 24h Volume: $78530344300.65607 USD
+  - 24h Change: 1.294938908410315%
 
-- **Ethereum (ETH)**: $3159.28 USD
-  - Market Cap: $380347468589.1535 USD
-  - 24h Volume: $37965880900.76736 USD
-  - 24h Change: 1.6584011936933436%
+- **Ethereum (ETH)**: $3157.61 USD
+  - Market Cap: $380457679456.3839 USD
+  - 24h Volume: $37787091678.09719 USD
+  - 24h Change: 1.6538101032186403%
 
 ## Trending Coins
 - **MANTRA (OM)**
-  - Market Cap Rank: 41
-  - Price (BTC): 4.254392024891751e-05
+  - Market Cap Rank: 40
+  - Price (BTC): 4.2262357001676325e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
 - **Evercraft Ecotechnologies (ECET)**
-  - Market Cap Rank: 860
-  - Price (BTC): 6.430041851037623e-07
+  - Market Cap Rank: 859
+  - Price (BTC): 6.391854284109619e-07
   - [More Info](https://www.coingecko.com/en/coins/evercraft-ecotechnologies)
 
-- **Ondo (ONDO)**
-  - Market Cap Rank: 80
-  - Price (BTC): 1.1488500146590593e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
+- **PONKE (PONKE)**
+  - Market Cap Rank: 193
+  - Price (BTC): 8.862524715063787e-06
+  - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **Hedera (HBAR)**
-  - Market Cap Rank: 28
-  - Price (BTC): 1.6762761061784358e-06
+  - Market Cap Rank: 29
+  - Price (BTC): 1.6140870951084567e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002637382625373822
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.0777395298003294e-05
+  - Price (BTC): 4.0592225798068984e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Happy Cat (HAPPY)**
-  - Market Cap Rank: 479
-  - Price (BTC): 3.7906842641445664e-07
-  - [More Info](https://www.coingecko.com/en/coins/happycat)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002621426954824853
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 131
+  - Price (BTC): 8.38457016926016e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+
+- **Rifampicin ($RIF)**
+  - Market Cap Rank: 353
+  - Price (BTC): 1.974891089735933e-06
+  - [More Info](https://www.coingecko.com/en/coins/rifampicin)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 74
-  - Price (BTC): 1.743108420325026e-05
+  - Market Cap Rank: 76
+  - Price (BTC): 1.6878932955802765e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 157
-  - Price (BTC): 2.6180563710365015e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.261120111921089e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Ondo (ONDO)**
+  - Market Cap Rank: 80
+  - Price (BTC): 1.1187289082811171e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.101778058300119e-06
+  - Price (BTC): 4.235021362631603e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 39
-  - Price (BTC): 5.584133701556445e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Raydium (RAY)**
+  - Market Cap Rank: 69
+  - Price (BTC): 6.437935540186475e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
 
-- **Rifampicin ($RIF)**
-  - Market Cap Rank: 345
-  - Price (BTC): 2.101618506663289e-06
-  - [More Info](https://www.coingecko.com/en/coins/rifampicin)
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.2176179452335998e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 34
-  - Price (BTC): 1.919554145240184e-06
+  - Price (BTC): 1.9181989590399175e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
-- **ai16z (AI16Z)**
-  - Market Cap Rank: 190
-  - Price (BTC): 4.773147263894062e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai16z)
+- **Grass (GRASS)**
+  - Market Cap Rank: 157
+  - Price (BTC): 2.574594958921459e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 ## Posts
 - **Post ID: 1**
