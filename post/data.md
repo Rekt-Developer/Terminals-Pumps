@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-20 07:29:59 UTC
+**Last updated:** 2024-11-20 08:43:04 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $92804 USD
-  - Market Cap: $1837414573166.3538 USD
-  - 24h Volume: $85442673586.11935 USD
-  - 24h Change: 1.0556591133923443%
+- **Bitcoin (BTC)**: $93273 USD
+  - Market Cap: $1844802335085.0525 USD
+  - 24h Volume: $83764616996.51744 USD
+  - 24h Change: 1.9551977466721833%
 
-- **Ethereum (ETH)**: $3115.03 USD
-  - Market Cap: $375355420544.8779 USD
-  - 24h Volume: $29141057935.485626 USD
-  - 24h Change: -0.16737438505918853%
+- **Ethereum (ETH)**: $3126.56 USD
+  - Market Cap: $376385341251.8514 USD
+  - 24h Volume: $28990264246.472385 USD
+  - 24h Change: 0.5406051319430362%
 
 ## Trending Coins
 - **McDull (Meme) (MCDULL)**
-  - Market Cap Rank: 591
-  - Price (BTC): 9.944095713253143e-11
+  - Market Cap Rank: 587
+  - Price (BTC): 9.961999658251863e-11
   - [More Info](https://www.coingecko.com/en/coins/mcdull-meme)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 334
-  - Price (BTC): 2.059838220809517e-06
+  - Market Cap Rank: 281
+  - Price (BTC): 2.7388817513898627e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 35
-  - Price (BTC): 5.994202218542953e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 72
-  - Price (BTC): 1.731421188744704e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002539643238210405
+  - Price (BTC): 0.002559259895029453
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.1003276359167904e-05
+  - Price (BTC): 4.074219667956261e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.201416376314831e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 71
+  - Price (BTC): 1.7481620154665936e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Luckycoin (LKY)**
-  - Market Cap Rank: 791
-  - Price (BTC): 3.848320149528831e-05
-  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+- **Bonk (BONK)**
+  - Market Cap Rank: 34
+  - Price (BTC): 6.029309992198061e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 162
+  - Price (BTC): 6.220641709937528e-06
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **MANTRA (OM)**
   - Market Cap Rank: 38
-  - Price (BTC): 4.3446299608840935e-05
+  - Price (BTC): 4.280279265765799e-05
   - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.196948492806696e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.222989911075594e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **ai16z (AI16Z)**
+  - Market Cap Rank: 308
+  - Price (BTC): 2.096616000537559e-06
+  - [More Info](https://www.coingecko.com/en/coins/ai16z)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 92
-  - Price (BTC): 1.2030594448267991e-05
+  - Price (BTC): 1.217235775508292e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.1766839079948503e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.1872438711451799e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.0335615354981788
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Hedera (HBAR)**
+  - Market Cap Rank: 32
+  - Price (BTC): 1.34638453128956e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 188
-  - Price (BTC): 4.9432552259905655e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+- **Grass (GRASS)**
+  - Market Cap Rank: 149
+  - Price (BTC): 2.6592368006531433e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Quant (QNT)**
-  - Market Cap Rank: 86
-  - Price (BTC): 0.0009413082876761502
-  - [More Info](https://www.coingecko.com/en/coins/quant)
+- **Aptos (APT)**
+  - Market Cap Rank: 26
+  - Price (BTC): 0.00013036770577662025
+  - [More Info](https://www.coingecko.com/en/coins/aptos)
 
 ## Posts
 - **Post ID: 1**
