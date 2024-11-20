@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-20 08:43:04 UTC
+**Last updated:** 2024-11-20 09:32:27 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $93273 USD
-  - Market Cap: $1844802335085.0525 USD
-  - 24h Volume: $83764616996.51744 USD
-  - 24h Change: 1.9551977466721833%
+- **Bitcoin (BTC)**: $93389 USD
+  - Market Cap: $1848637391576.346 USD
+  - 24h Volume: $86599504867.33446 USD
+  - 24h Change: 2.3243821409227876%
 
-- **Ethereum (ETH)**: $3126.56 USD
-  - Market Cap: $376385341251.8514 USD
-  - 24h Volume: $28990264246.472385 USD
-  - 24h Change: 0.5406051319430362%
+- **Ethereum (ETH)**: $3126.27 USD
+  - Market Cap: $376742337767.3582 USD
+  - 24h Volume: $29464606312.674366 USD
+  - 24h Change: 0.8054304096392283%
 
 ## Trending Coins
 - **McDull (Meme) (MCDULL)**
-  - Market Cap Rank: 587
-  - Price (BTC): 9.961999658251863e-11
+  - Market Cap Rank: 589
+  - Price (BTC): 9.990803692588444e-11
   - [More Info](https://www.coingecko.com/en/coins/mcdull-meme)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 281
-  - Price (BTC): 2.7388817513898627e-06
+  - Market Cap Rank: 287
+  - Price (BTC): 2.4938343650215165e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002559259895029453
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.074219667956261e-05
+  - Price (BTC): 4.0526060195778285e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 71
-  - Price (BTC): 1.7481620154665936e-05
+  - Market Cap Rank: 72
+  - Price (BTC): 1.7320559019914235e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Bonk (BONK)**
-  - Market Cap Rank: 34
-  - Price (BTC): 6.029309992198061e-10
+  - Market Cap Rank: 35
+  - Price (BTC): 5.897933285006023e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 162
-  - Price (BTC): 6.220641709937528e-06
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025455389064635912
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 38
-  - Price (BTC): 4.280279265765799e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 160
+  - Price (BTC): 6.356197543855152e-06
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.222989911075594e-06
+  - Price (BTC): 4.213794633088631e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **ai16z (AI16Z)**
-  - Market Cap Rank: 308
-  - Price (BTC): 2.096616000537559e-06
-  - [More Info](https://www.coingecko.com/en/coins/ai16z)
 
 - **Goatseus Maximus (GOAT)**
   - Market Cap Rank: 92
-  - Price (BTC): 1.217235775508292e-05
+  - Price (BTC): 1.2012334561400696e-05
   - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **MANTRA (OM)**
+  - Market Cap Rank: 38
+  - Price (BTC): 4.279813780433151e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
+
 - **Pepe (PEPE)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.1872438711451799e-10
+  - Market Cap Rank: 22
+  - Price (BTC): 2.1776418267447462e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Hedera (HBAR)**
-  - Market Cap Rank: 32
-  - Price (BTC): 1.34638453128956e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 70
+  - Price (BTC): 1.8348509773587503e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 149
-  - Price (BTC): 2.6592368006531433e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 8.972341399263367e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Aptos (APT)**
-  - Market Cap Rank: 26
-  - Price (BTC): 0.00013036770577662025
-  - [More Info](https://www.coingecko.com/en/coins/aptos)
+- **ai16z (AI16Z)**
+  - Market Cap Rank: 308
+  - Price (BTC): 2.147046605600439e-06
+  - [More Info](https://www.coingecko.com/en/coins/ai16z)
 
 ## Posts
 - **Post ID: 1**
