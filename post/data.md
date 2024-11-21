@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-20 23:28:30 UTC
+**Last updated:** 2024-11-21 03:01:15 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $93964 USD
-  - Market Cap: $1859146285877.284 USD
-  - 24h Volume: $80820061780.73918 USD
-  - 24h Change: 1.9775250897643801%
+- **Bitcoin (BTC)**: $94484 USD
+  - Market Cap: $1869515848518.9058 USD
+  - 24h Volume: $72408468044.99634 USD
+  - 24h Change: 2.8413831296862933%
 
-- **Ethereum (ETH)**: $3067.52 USD
-  - Market Cap: $369334175918.10394 USD
-  - 24h Volume: $31055730474.088444 USD
-  - 24h Change: -1.538276240615092%
+- **Ethereum (ETH)**: $3055.7 USD
+  - Market Cap: $367985182528.041 USD
+  - 24h Volume: $29669213165.083622 USD
+  - 24h Change: -1.2147128130986038%
 
 ## Trending Coins
-- **StrikeX (STRX)**
-  - Market Cap Rank: 944
-  - Price (BTC): 4.257831428570616e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
-- **BounceBit (BB)**
-  - Market Cap Rank: 459
-  - Price (BTC): 2.979691983916737e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 196
-  - Price (BTC): 4.406922049704066e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025143459079876936
+  - Price (BTC): 0.0024511109186550538
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 259
+  - Price (BTC): 2.9926025158836034e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+
+- **StrikeX (STRX)**
+  - Market Cap Rank: 883
+  - Price (BTC): 4.6301342439609695e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 23
+  - Price (BTC): 1.9395984652837552e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
 - **FLOKI (FLOKI)**
-  - Market Cap Rank: 49
-  - Price (BTC): 2.8811552743722706e-09
+  - Market Cap Rank: 50
+  - Price (BTC): 2.8279002756059485e-09
   - [More Info](https://www.coingecko.com/en/coins/floki)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 171
+  - Price (BTC): 2.1813285316981144e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.785269121325269e-05
+  - Price (BTC): 3.680802417622236e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.010153777539582e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 83
+  - Price (BTC): 1.3896436249087438e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 169
-  - Price (BTC): 2.2400458707987144e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.032275996001864024
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Gen Z Quant (QUANT)**
-  - Market Cap Rank: 917
-  - Price (BTC): 3.8717634385780845e-07
-  - [More Info](https://www.coingecko.com/en/coins/gen-z-quant)
+- **Brett (BRETT)**
+  - Market Cap Rank: 71
+  - Price (BTC): 1.6385058404952831e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.032184478814811e-06
+  - Price (BTC): 3.954303933478478e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
+  - Market Cap Rank: 132
+  - Price (BTC): 7.414167327970989e-08
+  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+
 - **Bonk (BONK)**
-  - Market Cap Rank: 36
-  - Price (BTC): 5.39291457249702e-10
+  - Market Cap Rank: 39
+  - Price (BTC): 5.001398448099688e-10
   - [More Info](https://www.coingecko.com/en/coins/bonk)
 
-- **MANTRA (OM)**
-  - Market Cap Rank: 41
-  - Price (BTC): 4.0783801013699894e-05
-  - [More Info](https://www.coingecko.com/en/coins/mantra)
-
-- **Raydium (RAY)**
-  - Market Cap Rank: 69
-  - Price (BTC): 5.99357241373479e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
-
-- **Popcat (POPCAT)**
-  - Market Cap Rank: 74
-  - Price (BTC): 1.6156423064759057e-05
-  - [More Info](https://www.coingecko.com/en/coins/popcat)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.179065189322759e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Comedian (BAN)**
+  - Market Cap Rank: 364
+  - Price (BTC): 1.7757942987696765e-06
+  - [More Info](https://www.coingecko.com/en/coins/comedian)
 
 ## Posts
 - **Post ID: 1**
