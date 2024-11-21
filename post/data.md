@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-21 20:32:36 UTC
+**Last updated:** 2024-11-21 21:28:15 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98699 USD
-  - Market Cap: $1953201928979.3936 USD
-  - 24h Volume: $123646281710.3771 USD
-  - 24h Change: 4.589070310439799%
+- **Bitcoin (BTC)**: $98072 USD
+  - Market Cap: $1942825020116.6218 USD
+  - 24h Volume: $120685630164.14838 USD
+  - 24h Change: 4.058739061947177%
 
-- **Ethereum (ETH)**: $3363.76 USD
-  - Market Cap: $405133617743.8356 USD
-  - 24h Volume: $54931436848.057556 USD
-  - 24h Change: 9.16180779686318%
+- **Ethereum (ETH)**: $3351.44 USD
+  - Market Cap: $403976676297.21344 USD
+  - 24h Volume: $53110908597.323814 USD
+  - 24h Change: 9.060541807872239%
 
 ## Trending Coins
 - **Phil (PHIL)**
-  - Market Cap Rank: 956
-  - Price (BTC): 3.482336502857789e-07
+  - Market Cap Rank: 957
+  - Price (BTC): 3.4892908654943074e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **StrikeX (STRX)**
-  - Market Cap Rank: 863
-  - Price (BTC): 4.978088942932705e-07
+  - Market Cap Rank: 871
+  - Price (BTC): 4.936066977158468e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 447
-  - Price (BTC): 3.119107603941017e-06
+  - Market Cap Rank: 450
+  - Price (BTC): 3.1165680099326886e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 827
-  - Price (BTC): 4.5433277216525166e-10
+  - Market Cap Rank: 818
+  - Price (BTC): 4.769273964346503e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 173
-  - Price (BTC): 5.036170478225777e-06
+  - Market Cap Rank: 174
+  - Price (BTC): 4.944865908692523e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.6693465043600236e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.00260159554332416
+  - Price (BTC): 0.00259125543033517
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 3.670281318240642e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 85
-  - Price (BTC): 1.3602896538755676e-05
-  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.1076176048867376e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.0341799770482644
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 909
-  - Price (BTC): 1.546392944649049e-07
+  - Market Cap Rank: 908
+  - Price (BTC): 1.5348655719037482e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 3.950846989589061e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.20301361628708e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Hedera (HBAR)**
-  - Market Cap Rank: 32
-  - Price (BTC): 1.2410362908586108e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **FLOKI (FLOKI)**
   - Market Cap Rank: 54
-  - Price (BTC): 2.6611865618158864e-09
+  - Price (BTC): 2.6443075743045793e-09
   - [More Info](https://www.coingecko.com/en/coins/floki)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.1992137143613145e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.1051245650126424e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Raydium (RAY)**
+  - Market Cap Rank: 67
+  - Price (BTC): 6.223136841824756e-05
+  - [More Info](https://www.coingecko.com/en/coins/raydium)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 3.917246862350021e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
