@@ -1,27 +1,27 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-21 04:39:43 UTC
+**Last updated:** 2024-11-21 05:35:49 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96313 USD
-  - Market Cap: $1906174104757.4717 USD
-  - 24h Volume: $92579889443.02611 USD
-  - 24h Change: 4.379726107452917%
+- **Bitcoin (BTC)**: $97817 USD
+  - Market Cap: $1935381689247.9695 USD
+  - 24h Volume: $98524219328.05515 USD
+  - 24h Change: 5.772894315058313%
 
-- **Ethereum (ETH)**: $3119.32 USD
-  - Market Cap: $375251562472.738 USD
-  - 24h Volume: $33478939507.511425 USD
-  - 24h Change: 0.5984893108633659%
+- **Ethereum (ETH)**: $3132.6 USD
+  - Market Cap: $377326382884.802 USD
+  - 24h Volume: $34946139047.693016 USD
+  - 24h Change: 0.6064927623672094%
 
 ## Trending Coins
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002454924840196476
+  - Price (BTC): 0.0024693205744365553
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 194
-  - Price (BTC): 4.3838720360972015e-06
+  - Market Cap Rank: 204
+  - Price (BTC): 3.981499600767272e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Bitcoin (BTC)**
@@ -30,64 +30,64 @@
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 85
-  - Price (BTC): 1.3792378435578917e-05
+  - Market Cap Rank: 81
+  - Price (BTC): 1.492323845675819e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.605321463775025e-05
+  - Price (BTC): 3.673002151368967e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 167
+  - Price (BTC): 2.192675553770799e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **FLOKI (FLOKI)**
   - Market Cap Rank: 52
-  - Price (BTC): 2.7262364379148354e-09
+  - Price (BTC): 2.709163570238649e-09
   - [More Info](https://www.coingecko.com/en/coins/floki)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 22
+  - Price (BTC): 1.9999764790689844e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 3.922472802407539e-06
+  - Price (BTC): 3.973312139850917e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Bittensor (TAO)**
+  - Market Cap Rank: 38
+  - Price (BTC): 0.005031807766712349
+  - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.032159182612811754
+  - Price (BTC): 0.03206774445682444
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 170
-  - Price (BTC): 2.1772724301204287e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 37
-  - Price (BTC): 5.002756462288538e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 1.9286830825536077e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.1299730057695509e-05
+  - Price (BTC): 1.1449194992047382e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Raydium (RAY)**
-  - Market Cap Rank: 70
-  - Price (BTC): 5.636161474104647e-05
-  - [More Info](https://www.coingecko.com/en/coins/raydium)
+- **MANTRA (OM)**
+  - Market Cap Rank: 43
+  - Price (BTC): 3.7224006394377406e-05
+  - [More Info](https://www.coingecko.com/en/coins/mantra)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 111
-  - Price (BTC): 9.343094141756233e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Popcat (POPCAT)**
+  - Market Cap Rank: 75
+  - Price (BTC): 1.5748057714134174e-05
+  - [More Info](https://www.coingecko.com/en/coins/popcat)
 
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 45
-  - Price (BTC): 3.195473266905231e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
+- **SPX6900 (SPX)**
+  - Market Cap Rank: 188
+  - Price (BTC): 4.909878478318872e-06
+  - [More Info](https://www.coingecko.com/en/coins/spx6900)
 
 ## Posts
 - **Post ID: 1**
