@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-21 23:28:51 UTC
+**Last updated:** 2024-11-22 03:02:55 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98584 USD
-  - Market Cap: $1950427756986.3186 USD
-  - 24h Volume: $124153586176.64847 USD
-  - 24h Change: 4.83508235342552%
+- **Bitcoin (BTC)**: $98713 USD
+  - Market Cap: $1953080362294.0073 USD
+  - 24h Volume: $123726326208.50111 USD
+  - 24h Change: 4.233615090404158%
 
-- **Ethereum (ETH)**: $3367.83 USD
-  - Market Cap: $405649412489.58545 USD
-  - 24h Volume: $55936052450.19973 USD
-  - 24h Change: 9.684699873701309%
+- **Ethereum (ETH)**: $3336.35 USD
+  - Market Cap: $401871633419.16547 USD
+  - 24h Volume: $56870859645.58142 USD
+  - 24h Change: 8.910873902445667%
 
 ## Trending Coins
-- **Phil (PHIL)**
-  - Market Cap Rank: 946
-  - Price (BTC): 3.5832329380658403e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
-
-- **StrikeX (STRX)**
-  - Market Cap Rank: 880
-  - Price (BTC): 4.8316068986013e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
-- **BounceBit (BB)**
-  - Market Cap Rank: 444
-  - Price (BTC): 3.1219012960518564e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
-- **MAD (MAD)**
-  - Market Cap Rank: 687
-  - Price (BTC): 6.518150638021236e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
-
-- **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 191
-  - Price (BTC): 4.608460040856987e-06
-  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
-
 - **Mode (MODE)**
-  - Market Cap Rank: 905
-  - Price (BTC): 1.5443834083027613e-07
+  - Market Cap Rank: 911
+  - Price (BTC): 1.536416918879773e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 17
-  - Price (BTC): 3.709908815044929e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **MAD (MAD)**
+  - Market Cap Rank: 798
+  - Price (BTC): 4.4509061336769845e-10
+  - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
-- **DOG•GO•TO•THE•MOON (Runes) (DOG)**
-  - Market Cap Rank: 128
-  - Price (BTC): 8.397505153460059e-08
-  - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.3790567489355079e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 216
+  - Price (BTC): 3.9115931317965215e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+
+- **Phil (PHIL)**
+  - Market Cap Rank: 953
+  - Price (BTC): 3.51674585618488e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.00259743048849672
+  - Price (BTC): 0.0026162405288553733
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.1236497039582424e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Sui (SUI)**
+  - Market Cap Rank: 17
+  - Price (BTC): 3.602507434438813e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03416405415751944
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **StrikeX (STRX)**
+  - Market Cap Rank: 885
+  - Price (BTC): 4.846231507667945e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.036858395457928e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 86
+  - Price (BTC): 1.2966464400696654e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 22
+  - Price (BTC): 2.10498235127902e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.2199066842837427e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Stellar (XLM)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.800403021535469e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 3.9121846836754444e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 8.821988447568838e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **SPX6900 (SPX)**
-  - Market Cap Rank: 172
-  - Price (BTC): 5.6685379743718965e-06
-  - [More Info](https://www.coingecko.com/en/coins/spx6900)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03381695035086796
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
