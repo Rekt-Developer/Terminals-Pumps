@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 18:43:03 UTC
+**Last updated:** 2024-11-22 19:08:31 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $99032 USD
-  - Market Cap: $1959445336734.5696 USD
-  - 24h Volume: $97729803439.27469 USD
-  - 24h Change: 0.8773793525371286%
+- **Bitcoin (BTC)**: $99354 USD
+  - Market Cap: $1965799515587.4539 USD
+  - 24h Volume: $96666083163.34058 USD
+  - 24h Change: 0.9698290150932252%
 
-- **Ethereum (ETH)**: $3294.76 USD
-  - Market Cap: $396631378933.91187 USD
-  - 24h Volume: $38350946309.261475 USD
-  - 24h Change: -1.853246674569257%
+- **Ethereum (ETH)**: $3290.52 USD
+  - Market Cap: $395962054478.0043 USD
+  - 24h Volume: $40555982103.917755 USD
+  - 24h Change: -2.6195585673584953%
 
 ## Trending Coins
 - **Mythos (MYTH)**
-  - Market Cap Rank: 339
-  - Price (BTC): 2.6507132604313635e-06
+  - Market Cap Rank: 330
+  - Price (BTC): 2.6979054525434067e-06
   - [More Info](https://www.coingecko.com/en/coins/mythos)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 274
-  - Price (BTC): 4.3459049073610467e-10
+  - Market Cap Rank: 278
+  - Price (BTC): 4.303859494044831e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **StrikeX (STRX)**
-  - Market Cap Rank: 902
-  - Price (BTC): 4.5853760459506613e-07
+  - Market Cap Rank: 905
+  - Price (BTC): 4.5469616242756907e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 457
-  - Price (BTC): 2.991921907144971e-06
+  - Market Cap Rank: 460
+  - Price (BTC): 2.9599861742537127e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 710
-  - Price (BTC): 5.991770382303221e-10
+  - Market Cap Rank: 752
+  - Price (BTC): 5.15832597655468e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 851
-  - Price (BTC): 1.7072406562794251e-07
+  - Market Cap Rank: 853
+  - Price (BTC): 1.6899735146561686e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.5182871648533025e-05
+  - Price (BTC): 3.4676002630102975e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.4375915216639075e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002566423079350244
+  - Price (BTC): 0.0025539767809658128
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 9
-  - Price (BTC): 9.846191132767662e-06
+  - Price (BTC): 9.727170177542815e-06
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.45874572041991e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Stellar (XLM)**
+  - Market Cap Rank: 18
+  - Price (BTC): 3.21976977141369e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 216
-  - Price (BTC): 3.886661828625917e-06
+  - Market Cap Rank: 227
+  - Price (BTC): 3.6752719699402613e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.1182973704846236e-06
+  - Price (BTC): 4.050315970240667e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Stellar (XLM)**
-  - Market Cap Rank: 18
-  - Price (BTC): 3.3106414258810264e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
-
 - **Peanut the Squirrel (PNUT)**
-  - Market Cap Rank: 91
-  - Price (BTC): 1.1484200320807021e-05
+  - Market Cap Rank: 94
+  - Price (BTC): 1.1114325467121177e-05
   - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03312169125807013
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
