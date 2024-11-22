@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 17:31:58 UTC
+**Last updated:** 2024-11-22 18:43:03 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $99286 USD
-  - Market Cap: $1964352341293.3699 USD
-  - 24h Volume: $98915770400.92375 USD
-  - 24h Change: 1.6511552566644796%
+- **Bitcoin (BTC)**: $99032 USD
+  - Market Cap: $1959445336734.5696 USD
+  - 24h Volume: $97729803439.27469 USD
+  - 24h Change: 0.8773793525371286%
 
-- **Ethereum (ETH)**: $3314.51 USD
-  - Market Cap: $399226165825.7937 USD
-  - 24h Volume: $42001410956.58022 USD
-  - 24h Change: -0.7487529196496456%
+- **Ethereum (ETH)**: $3294.76 USD
+  - Market Cap: $396631378933.91187 USD
+  - 24h Volume: $38350946309.261475 USD
+  - 24h Change: -1.853246674569257%
 
 ## Trending Coins
 - **Mythos (MYTH)**
-  - Market Cap Rank: 338
-  - Price (BTC): 2.623986426503896e-06
+  - Market Cap Rank: 339
+  - Price (BTC): 2.6507132604313635e-06
   - [More Info](https://www.coingecko.com/en/coins/mythos)
 
-- **StrikeX (STRX)**
-  - Market Cap Rank: 900
-  - Price (BTC): 4.595814751147629e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 279
-  - Price (BTC): 4.2437513237673604e-10
+  - Market Cap Rank: 274
+  - Price (BTC): 4.3459049073610467e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
+- **StrikeX (STRX)**
+  - Market Cap Rank: 902
+  - Price (BTC): 4.5853760459506613e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
 - **BounceBit (BB)**
-  - Market Cap Rank: 456
-  - Price (BTC): 3.0056168852814104e-06
+  - Market Cap Rank: 457
+  - Price (BTC): 2.991921907144971e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 786
-  - Price (BTC): 5.111264568693594e-10
+  - Market Cap Rank: 710
+  - Price (BTC): 5.991770382303221e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 845
-  - Price (BTC): 1.7344207093228852e-07
+  - Market Cap Rank: 851
+  - Price (BTC): 1.7072406562794251e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.5174774405018415e-05
+  - Price (BTC): 3.5182871648533025e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.4720799689420143e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002578179018827762
+  - Price (BTC): 0.002566423079350244
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
+- **Cardano (ADA)**
+  - Market Cap Rank: 9
+  - Price (BTC): 9.846191132767662e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.45874572041991e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 213
-  - Price (BTC): 4.005276754019421e-06
+  - Market Cap Rank: 216
+  - Price (BTC): 3.886661828625917e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.1182973704846236e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Stellar (XLM)**
+  - Market Cap Rank: 18
+  - Price (BTC): 3.3106414258810264e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
+
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 91
+  - Price (BTC): 1.1484200320807021e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Sologenic (SOLO)**
-  - Market Cap Rank: 259
-  - Price (BTC): 8.06220344175343e-06
-  - [More Info](https://www.coingecko.com/en/coins/sologenic)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 9
-  - Price (BTC): 9.756438947994508e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.0572024309044965e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 46
-  - Price (BTC): 3.164976967274747e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 ## Posts
 - **Post ID: 1**
