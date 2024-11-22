@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 13:14:47 UTC
+**Last updated:** 2024-11-22 14:36:57 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98570 USD
-  - Market Cap: $1950011990580.9836 USD
-  - 24h Volume: $97155219107.89546 USD
-  - 24h Change: 1.1202997788898403%
+- **Bitcoin (BTC)**: $97546 USD
+  - Market Cap: $1932633741215.5974 USD
+  - 24h Volume: $103724738125.71419 USD
+  - 24h Change: 0.5547585624898336%
 
-- **Ethereum (ETH)**: $3340.89 USD
-  - Market Cap: $402345644838.39844 USD
-  - 24h Volume: $49469455474.197014 USD
-  - 24h Change: 0.6658220683827193%
+- **Ethereum (ETH)**: $3287.47 USD
+  - Market Cap: $396420585668.1627 USD
+  - 24h Volume: $47687355829.61882 USD
+  - 24h Change: -1.5822273049144484%
 
 ## Trending Coins
-- **Mythos (MYTH)**
-  - Market Cap Rank: 323
-  - Price (BTC): 2.851505975737204e-06
-  - [More Info](https://www.coingecko.com/en/coins/mythos)
-
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 274
-  - Price (BTC): 4.425915129243519e-10
+  - Market Cap Rank: 276
+  - Price (BTC): 4.2771414680718297e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
+- **BounceBit (BB)**
+  - Market Cap Rank: 454
+  - Price (BTC): 2.9823800320134293e-06
+  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
+
+- **Mythos (MYTH)**
+  - Market Cap Rank: 313
+  - Price (BTC): 2.894411049760123e-06
+  - [More Info](https://www.coingecko.com/en/coins/mythos)
+
 - **Phil (PHIL)**
-  - Market Cap Rank: 982
-  - Price (BTC): 3.4948405154713903e-07
+  - Market Cap Rank: 994
+  - Price (BTC): 3.253108488049392e-07
   - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **StrikeX (STRX)**
-  - Market Cap Rank: 892
-  - Price (BTC): 4.869771791657781e-07
+  - Market Cap Rank: 884
+  - Price (BTC): 4.7618088554906814e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.4795958302419262e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **BounceBit (BB)**
-  - Market Cap Rank: 451
-  - Price (BTC): 3.0709365773311163e-06
-  - [More Info](https://www.coingecko.com/en/coins/bouncebit)
-
 - **MAD (MAD)**
-  - Market Cap Rank: 760
-  - Price (BTC): 5.509741790859588e-10
+  - Market Cap Rank: 797
+  - Price (BTC): 5.294033208396919e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 847
-  - Price (BTC): 1.7917456009451425e-07
+  - Market Cap Rank: 838
+  - Price (BTC): 1.7913828282681474e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.6358826078791844e-05
+  - Price (BTC): 3.584480364663466e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.4464194086134878e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 205
-  - Price (BTC): 4.17734656415842e-06
+  - Market Cap Rank: 217
+  - Price (BTC): 3.870387437221407e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002628622335009188
+  - Price (BTC): 0.002610905363072511
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.033904235674725475
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Cardano (ADA)**
+  - Market Cap Rank: 10
+  - Price (BTC): 9.066099583449567e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.0665652211313885e-06
+  - Price (BTC): 4.086104772276523e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Cardano (ADA)**
-  - Market Cap Rank: 9
-  - Price (BTC): 9.259145488062184e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Stellar (XLM)**
-  - Market Cap Rank: 21
-  - Price (BTC): 3.0062982010024548e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.0336793185024427
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 ## Posts
 - **Post ID: 1**
