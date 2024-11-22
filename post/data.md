@@ -1,77 +1,67 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 16:43:31 UTC
+**Last updated:** 2024-11-22 17:31:58 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98699 USD
-  - Market Cap: $1955267370092.9622 USD
-  - 24h Volume: $100196656868.05678 USD
-  - 24h Change: 1.49614061267907%
+- **Bitcoin (BTC)**: $99286 USD
+  - Market Cap: $1964352341293.3699 USD
+  - 24h Volume: $98915770400.92375 USD
+  - 24h Change: 1.6511552566644796%
 
-- **Ethereum (ETH)**: $3303.45 USD
-  - Market Cap: $398250001639.13293 USD
-  - 24h Volume: $42635945179.85589 USD
-  - 24h Change: -0.8053223175292633%
+- **Ethereum (ETH)**: $3314.51 USD
+  - Market Cap: $399226165825.7937 USD
+  - 24h Volume: $42001410956.58022 USD
+  - 24h Change: -0.7487529196496456%
 
 ## Trending Coins
 - **Mythos (MYTH)**
-  - Market Cap Rank: 323
-  - Price (BTC): 2.7821570074173228e-06
+  - Market Cap Rank: 338
+  - Price (BTC): 2.623986426503896e-06
   - [More Info](https://www.coingecko.com/en/coins/mythos)
 
+- **StrikeX (STRX)**
+  - Market Cap Rank: 900
+  - Price (BTC): 4.595814751147629e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 280
-  - Price (BTC): 4.1853151721630573e-10
+  - Market Cap Rank: 279
+  - Price (BTC): 4.2437513237673604e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 454
-  - Price (BTC): 3.0081528360151097e-06
+  - Market Cap Rank: 456
+  - Price (BTC): 3.0056168852814104e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
-- **StrikeX (STRX)**
-  - Market Cap Rank: 899
-  - Price (BTC): 4.6112907670989967e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
 - **MAD (MAD)**
-  - Market Cap Rank: 853
-  - Price (BTC): 4.3495122763868647e-10
+  - Market Cap Rank: 786
+  - Price (BTC): 5.111264568693594e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 846
-  - Price (BTC): 1.7518075566157082e-07
+  - Market Cap Rank: 845
+  - Price (BTC): 1.7344207093228852e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
-
-- **Phil (PHIL)**
-  - Market Cap Rank: 984
-  - Price (BTC): 3.2704407772034574e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.529233674575752e-05
+  - Price (BTC): 3.5174774405018415e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.4803256367204885e-05
+  - Price (BTC): 1.4720799689420143e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002589803796539041
+  - Price (BTC): 0.002578179018827762
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 9
-  - Price (BTC): 9.640428859550754e-06
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Chill Guy (CHILLGUY)**
   - Market Cap Rank: 213
-  - Price (BTC): 4.096244704148562e-06
+  - Price (BTC): 4.005276754019421e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Bitcoin (BTC)**
@@ -79,15 +69,25 @@
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.065098153067082e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Sologenic (SOLO)**
+  - Market Cap Rank: 259
+  - Price (BTC): 8.06220344175343e-06
+  - [More Info](https://www.coingecko.com/en/coins/sologenic)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 9
+  - Price (BTC): 9.756438947994508e-06
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.0582626636458937e-10
+  - Price (BTC): 2.0572024309044965e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 46
+  - Price (BTC): 3.164976967274747e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 ## Posts
 - **Post ID: 1**
