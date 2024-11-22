@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-22 09:32:17 UTC
+**Last updated:** 2024-11-22 10:40:23 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98591 USD
-  - Market Cap: $1947996179429.9797 USD
-  - 24h Volume: $113961477622.68079 USD
-  - 24h Change: 1.2070071623864806%
+- **Bitcoin (BTC)**: $98458 USD
+  - Market Cap: $1946837710754.2722 USD
+  - 24h Volume: $112692813424.09537 USD
+  - 24h Change: 0.8205449689727812%
 
-- **Ethereum (ETH)**: $3366.78 USD
-  - Market Cap: $405535177453.99146 USD
-  - 24h Volume: $56986383201.25463 USD
-  - 24h Change: 7.506415622385215%
+- **Ethereum (ETH)**: $3335.94 USD
+  - Market Cap: $401647987199.5608 USD
+  - 24h Volume: $57269797829.879105 USD
+  - 24h Change: 6.441389617848387%
 
 ## Trending Coins
 - **Mythos (MYTH)**
-  - Market Cap Rank: 333
-  - Price (BTC): 2.7083619622035522e-06
+  - Market Cap Rank: 334
+  - Price (BTC): 2.7083440645805434e-06
   - [More Info](https://www.coingecko.com/en/coins/mythos)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 702
-  - Price (BTC): 6.344030464697425e-10
+  - Market Cap Rank: 693
+  - Price (BTC): 6.577618574070737e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
+- **Phil (PHIL)**
+  - Market Cap Rank: 957
+  - Price (BTC): 3.516360049028873e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
+
 - **Mode (MODE)**
-  - Market Cap Rank: 856
-  - Price (BTC): 1.7265819525146114e-07
+  - Market Cap Rank: 861
+  - Price (BTC): 1.7056390661310685e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Chill Guy (CHILLGUY)**
   - Market Cap Rank: 213
-  - Price (BTC): 4.084192842145349e-06
+  - Price (BTC): 4.0474511540667295e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.405484925696192e-05
+  - Price (BTC): 1.4175081930120485e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Phil (PHIL)**
-  - Market Cap Rank: 961
-  - Price (BTC): 3.478404605808e-07
-  - [More Info](https://www.coingecko.com/en/coins/phil)
+- **StrikeX (STRX)**
+  - Market Cap Rank: 868
+  - Price (BTC): 4.983412251741714e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026256415858415183
+  - Price (BTC): 0.00262190994887247
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Sui (SUI)**
   - Market Cap Rank: 17
-  - Price (BTC): 3.618430888405526e-05
+  - Price (BTC): 3.592132955375037e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 21
-  - Price (BTC): 2.1444287828999275e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 180
-  - Price (BTC): 2.0638544258174358e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **StrikeX (STRX)**
-  - Market Cap Rank: 870
-  - Price (BTC): 4.978974507027465e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03423156167477057
+  - Price (BTC): 0.03387988895020356
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Secret (SCRT)**
-  - Market Cap Rank: 397
-  - Price (BTC): 5.299488582631752e-06
-  - [More Info](https://www.coingecko.com/en/coins/secret)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.1252790502065355e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 3.978505321235905e-06
+  - Price (BTC): 3.931538856172169e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 181
+  - Price (BTC): 2.0488500862105125e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 35
+  - Price (BTC): 5.263884633717528e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 ## Posts
 - **Post ID: 1**
