@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-23 05:09:24 UTC
+**Last updated:** 2024-11-23 06:13:10 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98706 USD
-  - Market Cap: $1953115873817.0916 USD
-  - 24h Volume: $65015122860.62805 USD
-  - 24h Change: -0.24338465542091%
+- **Bitcoin (BTC)**: $98837 USD
+  - Market Cap: $1956335531314.2007 USD
+  - 24h Volume: $83389809598.50002 USD
+  - 24h Change: 0.0524176629692218%
 
-- **Ethereum (ETH)**: $3357.39 USD
-  - Market Cap: $404277466913.49744 USD
-  - 24h Volume: $38574125249.68392 USD
-  - 24h Change: -1.0028645207254288%
+- **Ethereum (ETH)**: $3351.47 USD
+  - Market Cap: $403765457545.152 USD
+  - 24h Volume: $37717258250.8743 USD
+  - 24h Change: -0.7557974461259822%
 
 ## Trending Coins
 - **MAD (MAD)**
-  - Market Cap Rank: 732
-  - Price (BTC): 5.661096979014751e-10
+  - Market Cap Rank: 733
+  - Price (BTC): 5.730422166416779e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
-- **Mythos (MYTH)**
-  - Market Cap Rank: 346
-  - Price (BTC): 2.63263774772617e-06
-  - [More Info](https://www.coingecko.com/en/coins/mythos)
-
 - **Mode (MODE)**
-  - Market Cap Rank: 868
-  - Price (BTC): 1.7030686875572575e-07
+  - Market Cap Rank: 869
+  - Price (BTC): 1.6996631175714927e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **StrikeX (STRX)**
   - Market Cap Rank: 944
-  - Price (BTC): 4.3485325524011495e-07
+  - Price (BTC): 4.345031787375571e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.6407019564295094e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 9
-  - Price (BTC): 1.0935314217868328e-05
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 597
+  - Price (BTC): 7.838849266570844e-07
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Stellar (XLM)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.288380449646782e-06
+  - Price (BTC): 4.3830026513601565e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.5457403056756002e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.687478163560682e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 8
+  - Price (BTC): 1.1018985566876522e-05
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0026304414773844894
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Chill Guy (CHILLGUY)**
-  - Market Cap Rank: 283
-  - Price (BTC): 2.7783894569410593e-06
+  - Market Cap Rank: 287
+  - Price (BTC): 2.7136482633241375e-06
   - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 3.621724843681706e-05
+  - Price (BTC): 3.613606670366159e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03401396605113792
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 13
-  - Price (BTC): 2.7480261712254575e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.1521775115144403e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.5610257345681e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Polkadot (DOT)**
   - Market Cap Rank: 18
-  - Price (BTC): 7.594891469437792e-05
+  - Price (BTC): 7.507738764451821e-05
   - [More Info](https://www.coingecko.com/en/coins/polkadot)
 
-- **AIOZ Network (AIOZ)**
-  - Market Cap Rank: 116
-  - Price (BTC): 8.298146790041579e-06
-  - [More Info](https://www.coingecko.com/en/coins/aioz-network)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.033897723931014825
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Avalanche (AVAX)**
+  - Market Cap Rank: 11
+  - Price (BTC): 0.0004430486671394604
+  - [More Info](https://www.coingecko.com/en/coins/avalanche)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 ## Posts
 - **Post ID: 1**
