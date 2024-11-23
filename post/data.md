@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-23 08:11:58 UTC
+**Last updated:** 2024-11-23 09:09:17 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98671 USD
-  - Market Cap: $1953039580287.9075 USD
-  - 24h Volume: $78378092510.69182 USD
-  - 24h Change: -0.6295264137488878%
+- **Bitcoin (BTC)**: $98512 USD
+  - Market Cap: $1949573036968.6821 USD
+  - 24h Volume: $72163496753.9842 USD
+  - 24h Change: -0.3311491701801698%
 
-- **Ethereum (ETH)**: $3345.85 USD
-  - Market Cap: $403046868116.1681 USD
-  - 24h Volume: $36458907225.46037 USD
-  - 24h Change: -0.7542631630494824%
+- **Ethereum (ETH)**: $3372.29 USD
+  - Market Cap: $406205220976.5683 USD
+  - 24h Volume: $38714344510.139786 USD
+  - 24h Change: -0.05503376689655464%
 
 ## Trending Coins
-- **Mode (MODE)**
-  - Market Cap Rank: 866
-  - Price (BTC): 1.7056306359462801e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
-
 - **MAD (MAD)**
-  - Market Cap Rank: 808
-  - Price (BTC): 4.755098119975843e-10
+  - Market Cap Rank: 852
+  - Price (BTC): 4.3516991210615887e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
-- **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 589
-  - Price (BTC): 8.072226311676994e-07
-  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
+- **GOGGLES (GOGLZ)**
+  - Market Cap Rank: 640
+  - Price (BTC): 6.4780336319577005e-06
+  - [More Info](https://www.coingecko.com/en/coins/goggles)
 
-- **PONKE (PONKE)**
-  - Market Cap Rank: 251
-  - Price (BTC): 6.354052095566837e-06
-  - [More Info](https://www.coingecko.com/en/coins/ponke)
+- **Mode (MODE)**
+  - Market Cap Rank: 866
+  - Price (BTC): 1.7027976392958827e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **StrikeX (STRX)**
-  - Market Cap Rank: 936
-  - Price (BTC): 4.4069479830125923e-07
+  - Market Cap Rank: 933
+  - Price (BTC): 4.4713595025783947e-07
   - [More Info](https://www.coingecko.com/en/coins/strike-x)
+
+- **Solidus Ai Tech (AITECH)**
+  - Market Cap Rank: 590
+  - Price (BTC): 8.079740030993293e-07
+  - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Stellar (XLM)**
   - Market Cap Rank: 17
-  - Price (BTC): 4.428010039259085e-06
+  - Price (BTC): 4.567126925481297e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.664745010342095e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002621470752656838
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 61
-  - Price (BTC): 8.5331766296188e-06
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 8
-  - Price (BTC): 1.1105863402952257e-05
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.569265568292727e-05
+  - Price (BTC): 1.582256826627661e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 21
-  - Price (BTC): 3.677636041973834e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Polkadot (DOT)**
-  - Market Cap Rank: 18
-  - Price (BTC): 7.718762876997964e-05
-  - [More Info](https://www.coingecko.com/en/coins/polkadot)
+- **Cardano (ADA)**
+  - Market Cap Rank: 8
+  - Price (BTC): 1.1148267643895433e-05
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03391584867647765
+  - Price (BTC): 0.03421348338082688
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002620145612258385
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Phil (PHIL)**
+  - Market Cap Rank: 995
+  - Price (BTC): 3.3240776509588814e-07
+  - [More Info](https://www.coingecko.com/en/coins/phil)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.6774357711355945e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Fantom (FTM)**
+  - Market Cap Rank: 61
+  - Price (BTC): 8.857287266642496e-06
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 3.632426269375614e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **VeChain (VET)**
+  - Market Cap Rank: 41
+  - Price (BTC): 4.6394193301163504e-07
+  - [More Info](https://www.coingecko.com/en/coins/vechain)
 
 ## Posts
 - **Post ID: 1**
