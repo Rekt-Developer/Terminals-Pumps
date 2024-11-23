@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-23 19:07:12 UTC
+**Last updated:** 2024-11-23 20:10:05 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97945 USD
-  - Market Cap: $1938068154696.0984 USD
-  - 24h Volume: $55578620194.6531 USD
-  - 24h Change: -1.462905027429092%
+- **Bitcoin (BTC)**: $97485 USD
+  - Market Cap: $1928992778151.2961 USD
+  - 24h Volume: $53791834429.08105 USD
+  - 24h Change: -1.631798321760277%
 
-- **Ethereum (ETH)**: $3427.08 USD
-  - Market Cap: $412885479705.3747 USD
-  - 24h Volume: $43005458735.21256 USD
-  - 24h Change: 4.0963545291116965%
+- **Ethereum (ETH)**: $3407.07 USD
+  - Market Cap: $410296743739.5312 USD
+  - 24h Volume: $42178763504.033165 USD
+  - 24h Change: 3.6356916359431475%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 666
-  - Price (BTC): 2.1892068043413108e-07
+  - Market Cap Rank: 654
+  - Price (BTC): 2.2925231348516106e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
-- **StrikeX (STRX)**
-  - Market Cap Rank: 918
-  - Price (BTC): 4.578425504071322e-07
-  - [More Info](https://www.coingecko.com/en/coins/strike-x)
-
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 577
-  - Price (BTC): 8.680778159905543e-07
+  - Market Cap Rank: 574
+  - Price (BTC): 8.796790439869416e-07
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 261
-  - Price (BTC): 5.094399513939074e-10
+  - Market Cap Rank: 258
+  - Price (BTC): 5.071423416783389e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
-- **Dogelon Mars (ELON)**
-  - Market Cap Rank: 500
-  - Price (BTC): 2.0719362444137674e-12
-  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
+- **StrikeX (STRX)**
+  - Market Cap Rank: 926
+  - Price (BTC): 4.540934574431167e-07
+  - [More Info](https://www.coingecko.com/en/coins/strike-x)
 
 - **BounceBit (BB)**
-  - Market Cap Rank: 441
-  - Price (BTC): 3.302589997172377e-06
+  - Market Cap Rank: 443
+  - Price (BTC): 3.287770405889701e-06
   - [More Info](https://www.coingecko.com/en/coins/bouncebit)
 
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 724
-  - Price (BTC): 6.180392280623957e-06
+  - Market Cap Rank: 717
+  - Price (BTC): 6.318899271932065e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
+- **Dogelon Mars (ELON)**
+  - Market Cap Rank: 501
+  - Price (BTC): 2.0606410721358873e-12
+  - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
+
 - **PONKE (PONKE)**
-  - Market Cap Rank: 256
-  - Price (BTC): 6.3458233176642145e-06
+  - Market Cap Rank: 259
+  - Price (BTC): 6.240453162521235e-06
   - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **Stellar (XLM)**
   - Market Cap Rank: 15
-  - Price (BTC): 5.208373048952116e-06
+  - Price (BTC): 5.153029533273376e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
-
-- **Kusama (KSM)**
-  - Market Cap Rank: 151
-  - Price (BTC): 0.0004369044529362791
-  - [More Info](https://www.coingecko.com/en/coins/kusama)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 9
-  - Price (BTC): 1.0881983119352894e-05
+  - Price (BTC): 1.0880857975045516e-05
   - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Polkadot (DOT)**
-  - Market Cap Rank: 18
-  - Price (BTC): 8.997073594225657e-05
-  - [More Info](https://www.coingecko.com/en/coins/polkadot)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026203127143072553
+  - Price (BTC): 0.002612445415224378
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Polkadot (DOT)**
+  - Market Cap Rank: 18
+  - Price (BTC): 8.821354669208717e-05
+  - [More Info](https://www.coingecko.com/en/coins/polkadot)
+
+- **Chill Guy (CHILLGUY)**
+  - Market Cap Rank: 280
+  - Price (BTC): 2.913378786408324e-06
+  - [More Info](https://www.coingecko.com/en/coins/chill-guy)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.407655307879577e-06
+  - Price (BTC): 4.327365100243039e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Celestia (TIA)**
-  - Market Cap Rank: 52
-  - Price (BTC): 7.260489414060563e-05
-  - [More Info](https://www.coingecko.com/en/coins/celestia)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.512337897655924e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 ## Posts
 - **Post ID: 1**
