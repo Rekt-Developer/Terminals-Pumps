@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-24 07:09:48 UTC
+**Last updated:** 2024-11-24 08:13:09 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98502 USD
-  - Market Cap: $1948887679055.6184 USD
-  - 24h Volume: $41927901311.19406 USD
-  - 24h Change: -0.2850123551700946%
+- **Bitcoin (BTC)**: $98464 USD
+  - Market Cap: $1948764708584.9368 USD
+  - 24h Volume: $47620817409.95852 USD
+  - 24h Change: -0.12069259888617787%
 
-- **Ethereum (ETH)**: $3429.9 USD
-  - Market Cap: $413067229109.524 USD
-  - 24h Volume: $35185882779.20137 USD
-  - 24h Change: 2.3825733326332013%
+- **Ethereum (ETH)**: $3426.21 USD
+  - Market Cap: $412757021862.2282 USD
+  - 24h Volume: $37819105402.382706 USD
+  - 24h Change: 2.5030333912746445%
 
 ## Trending Coins
 - **Celestia (TIA)**
   - Market Cap Rank: 52
-  - Price (BTC): 7.444751140400515e-05
+  - Price (BTC): 7.473960852462338e-05
   - [More Info](https://www.coingecko.com/en/coins/celestia)
 
 - **Solidus Ai Tech (AITECH)**
-  - Market Cap Rank: 529
-  - Price (BTC): 1.0044136945791018e-06
+  - Market Cap Rank: 504
+  - Price (BTC): 1.074565664592423e-06
   - [More Info](https://www.coingecko.com/en/coins/solidus-ai-tech)
 
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 696
-  - Price (BTC): 6.776934823452909e-06
+  - Market Cap Rank: 689
+  - Price (BTC): 6.847042823357512e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **PONKE (PONKE)**
   - Market Cap Rank: 262
-  - Price (BTC): 6.236480940171091e-06
+  - Price (BTC): 6.252170657456978e-06
   - [More Info](https://www.coingecko.com/en/coins/ponke)
 
 - **Dogelon Mars (ELON)**
   - Market Cap Rank: 516
-  - Price (BTC): 2.024405452269059e-12
+  - Price (BTC): 2.0320013628546527e-12
   - [More Info](https://www.coingecko.com/en/coins/dogelon-mars)
 
+- **The Sandbox (SAND)**
+  - Market Cap Rank: 89
+  - Price (BTC): 6.164050303756754e-06
+  - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
+
 - **Stellar (XLM)**
-  - Market Cap Rank: 13
-  - Price (BTC): 5.735058125554896e-06
+  - Market Cap Rank: 12
+  - Price (BTC): 5.895179576775445e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **Polkadot (DOT)**
   - Market Cap Rank: 18
-  - Price (BTC): 9.075501148779285e-05
+  - Price (BTC): 9.23591402543057e-05
   - [More Info](https://www.coingecko.com/en/coins/polkadot)
-
-- **The Sandbox (SAND)**
-  - Market Cap Rank: 91
-  - Price (BTC): 5.9822155605988106e-06
-  - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.4822049214335245e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.452279495775738e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.5282537744593624e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Render (RENDER)**
-  - Market Cap Rank: 36
-  - Price (BTC): 8.149808065207215e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0026044908007191426
+  - Price (BTC): 0.0026083573345849075
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Tether (USDT)**
-  - Market Cap Rank: 3
-  - Price (BTC): 1.0167728771668288e-05
-  - [More Info](https://www.coingecko.com/en/coins/tether)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 9
-  - Price (BTC): 1.079041123964838e-05
+  - Price (BTC): 1.0909624754222407e-05
   - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.45393279978175e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.490017284659483e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Terra Luna Classic (LUNC)**
+  - Market Cap Rank: 150
+  - Price (BTC): 1.2942130902431904e-09
+  - [More Info](https://www.coingecko.com/en/coins/terra-luna-classic)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03479381115294705
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Kaspa (KAS)**
+  - Market Cap Rank: 39
+  - Price (BTC): 1.5751825285961017e-06
+  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 ## Posts
 - **Post ID: 1**
