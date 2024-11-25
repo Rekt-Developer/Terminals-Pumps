@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-25 18:13:42 UTC
+**Last updated:** 2024-11-25 19:07:52 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95180 USD
-  - Market Cap: $1881945860403.352 USD
-  - 24h Volume: $80429036787.82637 USD
-  - 24h Change: -0.8401157082416084%
+- **Bitcoin (BTC)**: $94803 USD
+  - Market Cap: $1878569915354.1277 USD
+  - 24h Volume: $84526466507.37566 USD
+  - 24h Change: -1.6099655926914622%
 
-- **Ethereum (ETH)**: $3466.81 USD
-  - Market Cap: $415631832877.7828 USD
-  - 24h Volume: $47540678289.189766 USD
-  - 24h Change: 4.593648833307216%
+- **Ethereum (ETH)**: $3436.42 USD
+  - Market Cap: $414635284264.39636 USD
+  - 24h Volume: $48331340689.08927 USD
+  - 24h Change: 3.3263849421555878%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 704
-  - Price (BTC): 2.0127692304135802e-07
+  - Market Cap Rank: 711
+  - Price (BTC): 1.984746648605962e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 271
-  - Price (BTC): 4.85151718265661e-10
+  - Market Cap Rank: 272
+  - Price (BTC): 4.873153088952165e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Koma Inu (KOMA)**
   - Market Cap Rank: 779
-  - Price (BTC): 5.598204857636709e-07
+  - Price (BTC): 5.557590759616472e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
-- **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 673
-  - Price (BTC): 7.46079417797042e-06
-  - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **Coq Inu (COQ)**
   - Market Cap Rank: 376
-  - Price (BTC): 2.6284112024572435e-11
+  - Price (BTC): 2.62684976984831e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
+- **GOGGLES (GOGLZ)**
+  - Market Cap Rank: 669
+  - Price (BTC): 7.5510952620755346e-06
+  - [More Info](https://www.coingecko.com/en/coins/goggles)
+
 - **MAD (MAD)**
-  - Market Cap Rank: 859
-  - Price (BTC): 4.718861932577509e-10
+  - Market Cap Rank: 874
+  - Price (BTC): 4.4447960564475983e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025206653124896106
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
 - **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 266
-  - Price (BTC): 3.394968688885326e-06
+  - Market Cap Rank: 262
+  - Price (BTC): 3.5453209410524083e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 162
-  - Price (BTC): 2.723732144897751e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **dogwifhat (WIF)**
-  - Market Cap Rank: 51
-  - Price (BTC): 3.339585890144803e-05
-  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.2107956660456e-06
+  - Price (BTC): 4.22267846360762e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Luckycoin (LKY)**
-  - Market Cap Rank: 421
-  - Price (BTC): 0.00011729442018126172
-  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+- **Stellar (XLM)**
+  - Market Cap Rank: 14
+  - Price (BTC): 5.3142103134289285e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.5400721905112835e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.330421013109073e-05
+  - Price (BTC): 3.3268700179976384e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 59
-  - Price (BTC): 9.91724488625052e-06
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **The Sandbox (SAND)**
-  - Market Cap Rank: 71
-  - Price (BTC): 7.495399579839429e-06
-  - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
 
 - **DOG•GO•TO•THE•MOON (Runes) (DOG)**
   - Market Cap Rank: 151
-  - Price (BTC): 7.161993591259124e-08
+  - Price (BTC): 7.167691338485525e-08
   - [More Info](https://www.coingecko.com/en/coins/dog-go-to-the-moon-runes-2)
+
+- **Luckycoin (LKY)**
+  - Market Cap Rank: 380
+  - Price (BTC): 0.00013607715594105097
+  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+
+- **dogwifhat (WIF)**
+  - Market Cap Rank: 50
+  - Price (BTC): 3.3425629591868344e-05
+  - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
 ## Posts
 - **Post ID: 1**
