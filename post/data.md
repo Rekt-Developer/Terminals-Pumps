@@ -1,63 +1,73 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-25 16:12:32 UTC
+**Last updated:** 2024-11-25 17:09:10 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95931 USD
-  - Market Cap: $1900310237716.1853 USD
-  - 24h Volume: $69807035775.55064 USD
-  - 24h Change: -0.3859654917014733%
+- **Bitcoin (BTC)**: $95540 USD
+  - Market Cap: $1893404344302.1587 USD
+  - 24h Volume: $76593189766.52892 USD
+  - 24h Change: -0.5773221961320529%
 
-- **Ethereum (ETH)**: $3512.57 USD
-  - Market Cap: $423428181109.87756 USD
-  - 24h Volume: $42639478898.263626 USD
-  - 24h Change: 6.02912804555458%
+- **Ethereum (ETH)**: $3467.47 USD
+  - Market Cap: $418268519741.3048 USD
+  - 24h Volume: $44640938068.973404 USD
+  - 24h Change: 4.541014394926379%
 
 ## Trending Coins
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 690
-  - Price (BTC): 2.102700675980588e-07
+  - Market Cap Rank: 689
+  - Price (BTC): 2.124469895543247e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 272
-  - Price (BTC): 4.963545707358377e-10
+  - Market Cap Rank: 273
+  - Price (BTC): 4.914117960883271e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 775
-  - Price (BTC): 5.733696323123746e-07
+  - Market Cap Rank: 778
+  - Price (BTC): 5.620897764611225e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 686
-  - Price (BTC): 7.2335421893486565e-06
+  - Market Cap Rank: 667
+  - Price (BTC): 7.636674889843971e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 896
-  - Price (BTC): 4.432489501515139e-10
+  - Market Cap Rank: 881
+  - Price (BTC): 4.417993019625862e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **dogwifhat (WIF)**
-  - Market Cap Rank: 48
-  - Price (BTC): 3.472288323344855e-05
+  - Market Cap Rank: 50
+  - Price (BTC): 3.395809406310747e-05
   - [More Info](https://www.coingecko.com/en/coins/dogwifhat)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 159
-  - Price (BTC): 2.7349135267389942e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.318301906397982e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025402720905155626
+  - Price (BTC): 0.0025293159336593324
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
+- **Grass (GRASS)**
+  - Market Cap Rank: 161
+  - Price (BTC): 2.696213078490487e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
 - **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 243
-  - Price (BTC): 3.949528708045827e-06
+  - Market Cap Rank: 247
+  - Price (BTC): 3.867693288387457e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **Fantom (FTM)**
+  - Market Cap Rank: 59
+  - Price (BTC): 1.0168325663431025e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -66,28 +76,18 @@
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.036566025464106304
+  - Price (BTC): 0.03630437418996687
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Fantom (FTM)**
-  - Market Cap Rank: 59
-  - Price (BTC): 1.0167407953362233e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.389870287472327e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **The Sandbox (SAND)**
-  - Market Cap Rank: 70
-  - Price (BTC): 7.918804930132216e-06
-  - [More Info](https://www.coingecko.com/en/coins/the-sandbox)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.315110928904868e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.029891695631021e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 103
+  - Price (BTC): 1.200825086829108e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
 
 ## Posts
 - **Post ID: 1**
