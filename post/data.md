@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-26 08:14:15 UTC
+**Last updated:** 2024-11-26 09:11:21 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $93498 USD
-  - Market Cap: $1851708089234.6853 USD
-  - 24h Volume: $115371361634.0445 USD
-  - 24h Change: -4.895843749017344%
+- **Bitcoin (BTC)**: $93341 USD
+  - Market Cap: $1846527479219.6392 USD
+  - 24h Volume: $120742175846.33371 USD
+  - 24h Change: -5.390936699866546%
 
-- **Ethereum (ETH)**: $3386.03 USD
-  - Market Cap: $408274264522.88586 USD
-  - 24h Volume: $57925583001.30512 USD
-  - 24h Change: -0.8534572096868618%
+- **Ethereum (ETH)**: $3382.04 USD
+  - Market Cap: $407140467970.72955 USD
+  - 24h Volume: $59497973502.96194 USD
+  - 24h Change: -1.3113833705984397%
 
 ## Trending Coins
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.036204864575589774
+  - Price (BTC): 0.03626314992295226
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Coq Inu (COQ)**
-  - Market Cap Rank: 385
-  - Price (BTC): 2.5716261369644717e-11
-  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
+- **Thena (THE)**
+  - Market Cap Rank: 748
+  - Price (BTC): 1.0969010332360867e-05
+  - [More Info](https://www.coingecko.com/en/coins/thena)
 
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 665
-  - Price (BTC): 7.715708767709589e-06
+  - Market Cap Rank: 669
+  - Price (BTC): 7.6183055072181704e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
-- **Stellar (XLM)**
-  - Market Cap Rank: 16
-  - Price (BTC): 4.948022407538481e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
+- **Coq Inu (COQ)**
+  - Market Cap Rank: 395
+  - Price (BTC): 2.503942621848992e-11
+  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 910
-  - Price (BTC): 4.1900171872892766e-10
+  - Market Cap Rank: 935
+  - Price (BTC): 3.980579559759207e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 137
-  - Price (BTC): 3.410069627681863e-05
+  - Market Cap Rank: 140
+  - Price (BTC): 3.308731253853604e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 192
-  - Price (BTC): 5.349030315136978e-06
+  - Market Cap Rank: 204
+  - Price (BTC): 4.8346527334692774e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 146
-  - Price (BTC): 7.545031071283373e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **MemeFi (MEMEFI)**
-  - Market Cap Rank: 598
-  - Price (BTC): 9.088139124183804e-08
-  - [More Info](https://www.coingecko.com/en/coins/memefi)
+- **Stellar (XLM)**
+  - Market Cap Rank: 16
+  - Price (BTC): 4.885104142476711e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.4285931443065745e-05
+  - Price (BTC): 3.375929246072864e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.232543951309233e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 57
-  - Price (BTC): 1.0491666556688884e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002514825145984714
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.017766208187443e-10
+  - Price (BTC): 1.9947912419347225e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002501015736682057
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 6
+  - Price (BTC): 1.496993465115209e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 152
+  - Price (BTC): 7.175285250061419e-06
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **POL (ex-MATIC) (POL)**
+  - Market Cap Rank: 35
+  - Price (BTC): 5.700845807807717e-06
+  - [More Info](https://www.coingecko.com/en/coins/pol-ex-matic)
+
+- **Cardano (ADA)**
+  - Market Cap Rank: 9
+  - Price (BTC): 1.0036068704875422e-05
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 ## Posts
 - **Post ID: 1**
