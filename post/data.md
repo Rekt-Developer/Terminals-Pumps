@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-25 23:09:53 UTC
+**Last updated:** 2024-11-26 00:50:06 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $94165 USD
-  - Market Cap: $1863532987777.768 USD
-  - 24h Volume: $92841562198.47908 USD
-  - 24h Change: -4.215637208870296%
+- **Bitcoin (BTC)**: $94258 USD
+  - Market Cap: $1864696058370.0623 USD
+  - 24h Volume: $106467558297.4732 USD
+  - 24h Change: -3.91947460863178%
 
-- **Ethereum (ETH)**: $3453.06 USD
-  - Market Cap: $415450485953.7692 USD
-  - 24h Volume: $54615325464.14153 USD
-  - 24h Change: 2.5635306198351566%
+- **Ethereum (ETH)**: $3447.84 USD
+  - Market Cap: $415176047948.40875 USD
+  - 24h Volume: $52417471050.75393 USD
+  - 24h Change: 2.6254344434891754%
 
 ## Trending Coins
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 692
-  - Price (BTC): 7.0981422231543694e-06
+  - Market Cap Rank: 654
+  - Price (BTC): 7.995468983087974e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
-- **KANGO (KANGO)**
-  - Market Cap Rank: 977
-  - Price (BTC): 1.2786816809005602e-09
-  - [More Info](https://www.coingecko.com/en/coins/kango)
-
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 374
-  - Price (BTC): 2.6606815633974624e-11
+  - Market Cap Rank: 381
+  - Price (BTC): 2.6248130052073232e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
+- **KANGO (KANGO)**
+  - Market Cap Rank: 972
+  - Price (BTC): 1.2996606242453857e-09
+  - [More Info](https://www.coingecko.com/en/coins/kango)
+
 - **MAD (MAD)**
-  - Market Cap Rank: 950
-  - Price (BTC): 3.8232674378735393e-10
+  - Market Cap Rank: 965
+  - Price (BTC): 3.7906013129645506e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Happy Cat (HAPPY)**
-  - Market Cap Rank: 737
-  - Price (BTC): 1.8857154650736058e-07
+  - Market Cap Rank: 730
+  - Price (BTC): 1.930445769669661e-07
   - [More Info](https://www.coingecko.com/en/coins/happycat)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 292
-  - Price (BTC): 2.3096048719860813e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 16
-  - Price (BTC): 5.178511482756596e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
-
 - **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 249
-  - Price (BTC): 4.0524971841664755e-06
+  - Market Cap Rank: 239
+  - Price (BTC): 4.177538027178647e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
 
-- **Avalanche (AVAX)**
-  - Market Cap Rank: 11
-  - Price (BTC): 0.0004460392536374065
-  - [More Info](https://www.coingecko.com/en/coins/avalanche)
+- **Stellar (XLM)**
+  - Market Cap Rank: 14
+  - Price (BTC): 5.3170336700293705e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.4015979642593567e-05
+  - Price (BTC): 3.4477957736203545e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.176809268603996e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002508308572429204
+  - Price (BTC): 0.002523017977937476
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Sei (SEI)**
-  - Market Cap Rank: 59
-  - Price (BTC): 6.717357059422543e-06
-  - [More Info](https://www.coingecko.com/en/coins/sei)
+- **Fantom (FTM)**
+  - Market Cap Rank: 56
+  - Price (BTC): 1.0979518670481218e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
-- **Bonk (BONK)**
-  - Market Cap Rank: 47
-  - Price (BTC): 4.6400874650342545e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.2758115683185295e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.0365917659064792
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Luckycoin (LKY)**
+  - Market Cap Rank: 367
+  - Price (BTC): 0.00014764312446319638
+  - [More Info](https://www.coingecko.com/en/coins/luckycoin)
+
+- **Grass (GRASS)**
+  - Market Cap Rank: 148
+  - Price (BTC): 3.032762096041696e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
+
+- **Sei (SEI)**
+  - Market Cap Rank: 57
+  - Price (BTC): 6.982645910796655e-06
+  - [More Info](https://www.coingecko.com/en/coins/sei)
 
 ## Posts
 - **Post ID: 1**
