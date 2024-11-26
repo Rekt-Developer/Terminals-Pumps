@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-26 10:11:30 UTC
+**Last updated:** 2024-11-26 11:08:47 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $93357 USD
-  - Market Cap: $1848266361924.2903 USD
-  - 24h Volume: $120500199166.74942 USD
-  - 24h Change: -5.4340407417365855%
+- **Bitcoin (BTC)**: $92440 USD
+  - Market Cap: $1825481574570.8718 USD
+  - 24h Volume: $122320081881.165 USD
+  - 24h Change: -6.170554673807568%
 
-- **Ethereum (ETH)**: $3352.2 USD
-  - Market Cap: $403964016632.5916 USD
-  - 24h Volume: $57837925937.74169 USD
-  - 24h Change: -3.5260470206971677%
+- **Ethereum (ETH)**: $3320.51 USD
+  - Market Cap: $399052503934.83405 USD
+  - 24h Volume: $56884194813.952484 USD
+  - 24h Change: -5.181941285121955%
 
 ## Trending Coins
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.035929506549660845
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
 - **KANGO (KANGO)**
-  - Market Cap Rank: 978
-  - Price (BTC): 1.3134180664739492e-09
+  - Market Cap Rank: 977
+  - Price (BTC): 1.3135302146699884e-09
   - [More Info](https://www.coingecko.com/en/coins/kango)
 
-- **Thena (THE)**
-  - Market Cap Rank: 682
-  - Price (BTC): 1.274455306055477e-05
-  - [More Info](https://www.coingecko.com/en/coins/thena)
-
-- **Coq Inu (COQ)**
-  - Market Cap Rank: 390
-  - Price (BTC): 2.524008988670552e-11
-  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
-
-- **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 665
-  - Price (BTC): 7.585034124977404e-06
-  - [More Info](https://www.coingecko.com/en/coins/goggles)
-
-- **MAD (MAD)**
-  - Market Cap Rank: 936
-  - Price (BTC): 3.9734896485102226e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
-
-- **Grass (GRASS)**
-  - Market Cap Rank: 145
-  - Price (BTC): 3.108430870241016e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 16
-  - Price (BTC): 4.860158263895759e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03591274055712301
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Self Chain (SLF)**
   - Market Cap Rank: 866
-  - Price (BTC): 4.750921290388162e-06
+  - Price (BTC): 4.732699756738148e-06
   - [More Info](https://www.coingecko.com/en/coins/self-chain)
 
+- **Thena (THE)**
+  - Market Cap Rank: 739
+  - Price (BTC): 1.1149279451303352e-05
+  - [More Info](https://www.coingecko.com/en/coins/thena)
+
+- **Coq Inu (COQ)**
+  - Market Cap Rank: 396
+  - Price (BTC): 2.4557973642952992e-11
+  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
+
+- **GOGGLES (GOGLZ)**
+  - Market Cap Rank: 668
+  - Price (BTC): 7.2987680040066e-06
+  - [More Info](https://www.coingecko.com/en/coins/goggles)
+
+- **MAD (MAD)**
+  - Market Cap Rank: 956
+  - Price (BTC): 3.858433409153477e-10
+  - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
 - **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 201
-  - Price (BTC): 4.838627725362449e-06
+  - Market Cap Rank: 202
+  - Price (BTC): 4.818924058755345e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.370781234319308e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0025032528940215648
+  - Price (BTC): 0.0024594401250663533
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ren (REN)**
-  - Market Cap Rank: 909
-  - Price (BTC): 4.2177319735582885e-07
-  - [More Info](https://www.coingecko.com/en/coins/ren)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.4730260071636723e-05
+  - Price (BTC): 1.442122222337046e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Avalanche (AVAX)**
-  - Market Cap Rank: 12
-  - Price (BTC): 0.00043353338820297644
-  - [More Info](https://www.coingecko.com/en/coins/avalanche)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.334793887507052e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Bonk (BONK)**
+  - Market Cap Rank: 50
+  - Price (BTC): 4.4377022325024503e-10
+  - [More Info](https://www.coingecko.com/en/coins/bonk)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.092708775480916e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Ren (REN)**
+  - Market Cap Rank: 926
+  - Price (BTC): 4.057877278338974e-07
+  - [More Info](https://www.coingecko.com/en/coins/ren)
 
 ## Posts
 - **Post ID: 1**
