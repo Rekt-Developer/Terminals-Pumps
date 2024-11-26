@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-26 07:10:34 UTC
+**Last updated:** 2024-11-26 08:14:15 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $94380 USD
-  - Market Cap: $1867536598362.7122 USD
-  - 24h Volume: $112317296768.53671 USD
-  - 24h Change: -4.000818761628439%
+- **Bitcoin (BTC)**: $93498 USD
+  - Market Cap: $1851708089234.6853 USD
+  - 24h Volume: $115371361634.0445 USD
+  - 24h Change: -4.895843749017344%
 
-- **Ethereum (ETH)**: $3415.79 USD
-  - Market Cap: $411403655181.04767 USD
-  - 24h Volume: $58650212308.66778 USD
-  - 24h Change: 0.8719551089346602%
+- **Ethereum (ETH)**: $3386.03 USD
+  - Market Cap: $408274264522.88586 USD
+  - 24h Volume: $57925583001.30512 USD
+  - 24h Change: -0.8534572096868618%
 
 ## Trending Coins
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03622320970870782
+  - Price (BTC): 0.036204864575589774
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 380
-  - Price (BTC): 2.634653379046694e-11
+  - Market Cap Rank: 385
+  - Price (BTC): 2.5716261369644717e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 680
-  - Price (BTC): 7.494485477848382e-06
+  - Market Cap Rank: 665
+  - Price (BTC): 7.715708767709589e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **Stellar (XLM)**
   - Market Cap Rank: 16
-  - Price (BTC): 5.151857806107776e-06
+  - Price (BTC): 4.948022407538481e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **MAD (MAD)**
-  - Market Cap Rank: 931
-  - Price (BTC): 3.99934309522576e-10
+  - Market Cap Rank: 910
+  - Price (BTC): 4.1900171872892766e-10
   - [More Info](https://www.coingecko.com/en/coins/mad-2)
 
 - **Grass (GRASS)**
-  - Market Cap Rank: 138
-  - Price (BTC): 3.3733154335190654e-05
+  - Market Cap Rank: 137
+  - Price (BTC): 3.410069627681863e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 176
-  - Price (BTC): 5.860516657442938e-06
+  - Market Cap Rank: 192
+  - Price (BTC): 5.349030315136978e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
 
-- **MemeFi (MEMEFI)**
-  - Market Cap Rank: 595
-  - Price (BTC): 9.467725358185962e-08
-  - [More Info](https://www.coingecko.com/en/coins/memefi)
-
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 152
-  - Price (BTC): 7.209007199785941e-06
+  - Market Cap Rank: 146
+  - Price (BTC): 7.545031071283373e-06
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.0025183484874809928
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Rollbit Coin (RLB)**
-  - Market Cap Rank: 285
-  - Price (BTC): 1.307427825543276e-06
-  - [More Info](https://www.coingecko.com/en/coins/rollbit-coin)
-
-- **POL (ex-MATIC) (POL)**
-  - Market Cap Rank: 35
-  - Price (BTC): 5.824405217262404e-06
-  - [More Info](https://www.coingecko.com/en/coins/pol-ex-matic)
+- **MemeFi (MEMEFI)**
+  - Market Cap Rank: 598
+  - Price (BTC): 9.088139124183804e-08
+  - [More Info](https://www.coingecko.com/en/coins/memefi)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.419363201217012e-05
+  - Price (BTC): 3.4285931443065745e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.5125399452581286e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.232543951309233e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **Sei (SEI)**
-  - Market Cap Rank: 58
-  - Price (BTC): 6.702242701225224e-06
-  - [More Info](https://www.coingecko.com/en/coins/sei)
+- **Fantom (FTM)**
+  - Market Cap Rank: 57
+  - Price (BTC): 1.0491666556688884e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.002514825145984714
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.017766208187443e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
