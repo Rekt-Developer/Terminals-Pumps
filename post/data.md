@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-27 23:10:01 UTC
+**Last updated:** 2024-11-28 00:50:45 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96186 USD
-  - Market Cap: $1902925661128.1655 USD
-  - 24h Volume: $69351744826.646 USD
-  - 24h Change: 4.844141037301164%
+- **Bitcoin (BTC)**: $96351 USD
+  - Market Cap: $1906805173165.2422 USD
+  - 24h Volume: $79201788706.37726 USD
+  - 24h Change: 4.812445591571006%
 
-- **Ethereum (ETH)**: $3673.19 USD
-  - Market Cap: $442050194305.50745 USD
-  - 24h Volume: $47737239823.09261 USD
-  - 24h Change: 10.53295180793976%
+- **Ethereum (ETH)**: $3660.84 USD
+  - Market Cap: $441057218589.0249 USD
+  - 24h Volume: $49628769381.297935 USD
+  - 24h Change: 10.442564113240362%
 
 ## Trending Coins
 - **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 735
-  - Price (BTC): 6.735735821921204e-06
+  - Market Cap Rank: 750
+  - Price (BTC): 6.394700560939997e-06
   - [More Info](https://www.coingecko.com/en/coins/goggles)
 
+- **MAD (MAD)**
+  - Market Cap Rank: 943
+  - Price (BTC): 4.299481426061477e-10
+  - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 801
-  - Price (BTC): 6.197847244002554e-08
+  - Market Cap Rank: 784
+  - Price (BTC): 6.379275112877994e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 389
-  - Price (BTC): 2.6335869123084824e-11
+  - Market Cap Rank: 388
+  - Price (BTC): 2.6177804048562135e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
 - **Thena (THE)**
-  - Market Cap Rank: 390
-  - Price (BTC): 3.2967218044016603e-05
+  - Market Cap Rank: 387
+  - Price (BTC): 3.323021057880771e-05
   - [More Info](https://www.coingecko.com/en/coins/thena)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 247
-  - Price (BTC): 3.272732779290781e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Just a chill guy (CHILLGUY)**
   - Market Cap Rank: 178
-  - Price (BTC): 5.946721787926796e-06
+  - Price (BTC): 5.823130824782269e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
-
-- **MAD (MAD)**
-  - Market Cap Rank: 937
-  - Price (BTC): 4.2321431605777155e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 130
-  - Price (BTC): 9.411396178969278e-06
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Bonk (BONK)**
-  - Market Cap Rank: 48
-  - Price (BTC): 4.562512903587208e-10
-  - [More Info](https://www.coingecko.com/en/coins/bonk)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.597856110105357e-05
+  - Price (BTC): 3.581348352952059e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Eigenlayer (EIGEN)**
-  - Market Cap Rank: 149
-  - Price (BTC): 4.178546153678764e-05
-  - [More Info](https://www.coingecko.com/en/coins/eigenlayer)
-
 - **NEURALAI (NEURAL)**
-  - Market Cap Rank: 565
-  - Price (BTC): 0.00010437504828582
+  - Market Cap Rank: 559
+  - Price (BTC): 0.00010846644605056
   - [More Info](https://www.coingecko.com/en/coins/neuralai)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.0489535562389524e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Ethena (ENA)**
+  - Market Cap Rank: 68
+  - Price (BTC): 7.3824329294042526e-06
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03810407588192155
+  - Price (BTC): 0.037980684584089396
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
+- **Tornado Cash (TORN)**
+  - Market Cap Rank: 700
+  - Price (BTC): 0.00018663998428362927
+  - [More Info](https://www.coingecko.com/en/coins/tornado-cash)
+
 - **Grass (GRASS)**
-  - Market Cap Rank: 145
-  - Price (BTC): 3.303509539215281e-05
+  - Market Cap Rank: 144
+  - Price (BTC): 3.35839335502496e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
-- **Tornado Cash (TORN)**
-  - Market Cap Rank: 674
-  - Price (BTC): 0.00020991660239512506
-  - [More Info](https://www.coingecko.com/en/coins/tornado-cash)
+- **Peanut the Squirrel (PNUT)**
+  - Market Cap Rank: 108
+  - Price (BTC): 1.144379204834935e-05
+  - [More Info](https://www.coingecko.com/en/coins/peanut-the-squirrel)
+
+- **Ethereum Name Service (ENS)**
+  - Market Cap Rank: 104
+  - Price (BTC): 0.0003649043027720961
+  - [More Info](https://www.coingecko.com/en/coins/ethereum-name-service)
 
 ## Posts
 - **Post ID: 1**
