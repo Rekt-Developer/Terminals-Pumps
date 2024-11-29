@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-29 15:10:44 UTC
+**Last updated:** 2024-11-29 16:12:27 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98396 USD
-  - Market Cap: $1943593597811.095 USD
-  - 24h Volume: $62072729524.307175 USD
-  - 24h Change: 3.2807196861487093%
+- **Bitcoin (BTC)**: $98266 USD
+  - Market Cap: $1944719197373.2485 USD
+  - 24h Volume: $66195683297.48698 USD
+  - 24h Change: 3.118378194976957%
 
-- **Ethereum (ETH)**: $3639.78 USD
-  - Market Cap: $438072945360.92773 USD
-  - 24h Volume: $27893992600.682392 USD
-  - 24h Change: 2.0641409468251646%
+- **Ethereum (ETH)**: $3618.16 USD
+  - Market Cap: $435774433364.94965 USD
+  - 24h Volume: $28190612706.93547 USD
+  - 24h Change: 1.67897225236257%
 
 ## Trending Coins
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 80
-  - Price (BTC): 4.9108777302220566e-05
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Spectral (SPEC)**
-  - Market Cap Rank: 356
-  - Price (BTC): 0.00016119524447021262
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 92
-  - Price (BTC): 1.4173475052015234e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 788
-  - Price (BTC): 6.501969370000066e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 215
-  - Price (BTC): 3.910366814404695e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 296
-  - Price (BTC): 4.374940644699562e-10
+  - Market Cap Rank: 297
+  - Price (BTC): 4.376514742246394e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
-- **Coq Inu (COQ)**
-  - Market Cap Rank: 424
-  - Price (BTC): 2.3582868564160034e-11
-  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 76
+  - Price (BTC): 5.0836339065789144e-05
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
+- **Propchain (PROPC)**
+  - Market Cap Rank: 983
+  - Price (BTC): 2.115393708022313e-05
+  - [More Info](https://www.coingecko.com/en/coins/propchain)
+
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 793
+  - Price (BTC): 6.447075533556468e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.767586333524424e-05
+  - Price (BTC): 1.7537340109496696e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.00249874441937722
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Spectral (SPEC)**
+  - Market Cap Rank: 357
+  - Price (BTC): 0.00016079320020765927
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.29094007294364e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 97
+  - Price (BTC): 1.3434431525150198e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 211
+  - Price (BTC): 3.976933987124283e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
+
+- **Coq Inu (COQ)**
+  - Market Cap Rank: 418
+  - Price (BTC): 2.3899465568667333e-11
+  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.1303719578102376e-10
+  - Price (BTC): 2.1164564719530573e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Ethena (ENA)**
-  - Market Cap Rank: 67
-  - Price (BTC): 7.809755381328307e-06
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
+- **Algorand (ALGO)**
+  - Market Cap Rank: 51
+  - Price (BTC): 4.115528138583112e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
 
-- **Ondo (ONDO)**
-  - Market Cap Rank: 78
-  - Price (BTC): 1.1449132232659879e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 797
-  - Price (BTC): 6.591538224949894e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.586102443585657e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 209
-  - Price (BTC): 4.885022646025559e-06
+  - Market Cap Rank: 214
+  - Price (BTC): 4.756946239438471e-06
   - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.270906444712799e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **PAAL AI (PAAL)**
+  - Market Cap Rank: 343
+  - Price (BTC): 2.6791024842239225e-06
+  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
 
 ## Posts
 - **Post ID: 1**
