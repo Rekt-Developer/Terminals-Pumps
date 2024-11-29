@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-29 21:09:00 UTC
+**Last updated:** 2024-11-29 22:09:26 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97468 USD
-  - Market Cap: $1928547811407.4084 USD
-  - 24h Volume: $74908061907.85168 USD
-  - 24h Change: 2.6639351886465366%
+- **Bitcoin (BTC)**: $97491 USD
+  - Market Cap: $1928065302719.7507 USD
+  - 24h Volume: $71681618316.72815 USD
+  - 24h Change: 2.545052819890471%
 
-- **Ethereum (ETH)**: $3596.92 USD
-  - Market Cap: $433163906169.8766 USD
-  - 24h Volume: $29289711773.371452 USD
-  - 24h Change: 0.9111302525279298%
+- **Ethereum (ETH)**: $3595.08 USD
+  - Market Cap: $432895436945.2455 USD
+  - 24h Volume: $29622200497.970676 USD
+  - 24h Change: 0.5981104556636612%
 
 ## Trending Coins
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 296
-  - Price (BTC): 4.4615454179274447e-10
+  - Market Cap Rank: 291
+  - Price (BTC): 4.553530439187961e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 71
-  - Price (BTC): 6.084300023229103e-05
+  - Price (BTC): 5.9679449208375306e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Propchain (PROPC)**
-  - Market Cap Rank: 977
-  - Price (BTC): 2.137403530386745e-05
+  - Market Cap Rank: 972
+  - Price (BTC): 2.191677176268585e-05
   - [More Info](https://www.coingecko.com/en/coins/propchain)
 
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 779
-  - Price (BTC): 6.65987184159597e-08
+  - Market Cap Rank: 783
+  - Price (BTC): 6.622280043305277e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 422
-  - Price (BTC): 2.3707341719253897e-11
+  - Market Cap Rank: 426
+  - Price (BTC): 2.3576766489189023e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 185
+  - Price (BTC): 4.663080247322382e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 97
-  - Price (BTC): 1.3587814040720335e-05
+  - Price (BTC): 1.3690907685160203e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 191
-  - Price (BTC): 4.4938714048778016e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 5
-  - Price (BTC): 1.780068685500503e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Spectral (SPEC)**
-  - Market Cap Rank: 345
-  - Price (BTC): 0.0001693677413019334
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 - **Algorand (ALGO)**
   - Market Cap Rank: 43
-  - Price (BTC): 4.506154438581587e-06
+  - Price (BTC): 4.484694105351155e-06
   - [More Info](https://www.coingecko.com/en/coins/algorand)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 5
+  - Price (BTC): 1.801208297185353e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 138
+  - Price (BTC): 8.874933490541661e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0025042627069998898
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Spectral (SPEC)**
+  - Market Cap Rank: 347
+  - Price (BTC): 0.00016754709472551152
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.439562922746341e-06
+  - Price (BTC): 4.4203098834011195e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 140
-  - Price (BTC): 8.799002016127005e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 30
-  - Price (BTC): 1.7471300701586063e-06
+  - Price (BTC): 1.797624414715232e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.1605422840352407e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 223
-  - Price (BTC): 4.552211721692132e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+- **aixbt by Virtuals (AIXBT)**
+  - Market Cap Rank: 362
+  - Price (BTC): 2.1834524939315286e-06
+  - [More Info](https://www.coingecko.com/en/coins/aixbt-by-virtuals)
 
 ## Posts
 - **Post ID: 1**
