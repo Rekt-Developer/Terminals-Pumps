@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-29 08:13:57 UTC
+**Last updated:** 2024-11-29 09:11:16 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95806 USD
-  - Market Cap: $1894542009697.7825 USD
-  - 24h Volume: $52671845975.54929 USD
-  - 24h Change: 0.6198004285147946%
+- **Bitcoin (BTC)**: $95945 USD
+  - Market Cap: $1898660162588.9963 USD
+  - 24h Volume: $51690705327.64243 USD
+  - 24h Change: 0.6978188802371014%
 
-- **Ethereum (ETH)**: $3553.2 USD
-  - Market Cap: $427408044765.83386 USD
-  - 24h Volume: $31894607729.719376 USD
-  - 24h Change: -0.9132024248426021%
+- **Ethereum (ETH)**: $3565.72 USD
+  - Market Cap: $429458390277.8644 USD
+  - 24h Volume: $30016508813.211475 USD
+  - 24h Change: -1.5790887476682989%
 
 ## Trending Coins
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 85
+  - Price (BTC): 4.496952328503295e-05
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 92
-  - Price (BTC): 1.3745995840630164e-05
+  - Market Cap Rank: 93
+  - Price (BTC): 1.4068525348030577e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 820
-  - Price (BTC): 5.695397320878045e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
-
-- **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 751
-  - Price (BTC): 6.489387267372995e-06
-  - [More Info](https://www.coingecko.com/en/coins/goggles)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 131
-  - Price (BTC): 3.724857659629494e-05
+  - Price (BTC): 3.779673163127808e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
 
+- **GOGGLES (GOGLZ)**
+  - Market Cap Rank: 743
+  - Price (BTC): 6.479098385116757e-06
+  - [More Info](https://www.coingecko.com/en/coins/goggles)
+
 - **Spectral (SPEC)**
-  - Market Cap Rank: 369
-  - Price (BTC): 0.0001445024624346362
+  - Market Cap Rank: 382
+  - Price (BTC): 0.0001371835923587433
   - [More Info](https://www.coingecko.com/en/coins/spectral)
 
-- **Coq Inu (COQ)**
-  - Market Cap Rank: 409
-  - Price (BTC): 2.4530112414712617e-11
-  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
-
 - **Act I The AI Prophecy (ACT)**
-  - Market Cap Rank: 176
-  - Price (BTC): 6.3248084494018405e-06
+  - Market Cap Rank: 170
+  - Price (BTC): 6.517061965121773e-06
   - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
+
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 822
+  - Price (BTC): 5.871936202251335e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
+- **dYdX (DYDX)**
+  - Market Cap Rank: 106
+  - Price (BTC): 1.6697447178304344e-05
+  - [More Info](https://www.coingecko.com/en/coins/dydx-chain)
+
+- **Coq Inu (COQ)**
+  - Market Cap Rank: 414
+  - Price (BTC): 2.449719800833624e-11
+  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
 - **XRP (XRP)**
   - Market Cap Rank: 6
-  - Price (BTC): 1.671508197753813e-05
+  - Price (BTC): 1.679955724086347e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **dYdX (DYDX)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.6397609547467235e-05
-  - [More Info](https://www.coingecko.com/en/coins/dydx-chain)
-
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 213
-  - Price (BTC): 4.764422348093374e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.5146741625563016e-05
+  - Price (BTC): 3.525684687996275e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 215
+  - Price (BTC): 4.754926708793341e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **Thena (THE)**
+  - Market Cap Rank: 398
+  - Price (BTC): 3.1651858901602346e-05
+  - [More Info](https://www.coingecko.com/en/coins/thena)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 37
-  - Price (BTC): 0.006329174695382041
+  - Price (BTC): 0.0063954307136529255
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 137
-  - Price (BTC): 8.776146322092562e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03704222524539139
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
 - **aixbt by Virtuals (AIXBT)**
-  - Market Cap Rank: 372
-  - Price (BTC): 1.9921086810407537e-06
+  - Market Cap Rank: 369
+  - Price (BTC): 1.9977021828515095e-06
   - [More Info](https://www.coingecko.com/en/coins/aixbt-by-virtuals)
 
 ## Posts
