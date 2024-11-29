@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-29 04:13:08 UTC
+**Last updated:** 2024-11-29 05:10:28 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96454 USD
-  - Market Cap: $1908609118892.0833 USD
-  - 24h Volume: $59304714999.4844 USD
-  - 24h Change: 0.7665605454502447%
+- **Bitcoin (BTC)**: $96289 USD
+  - Market Cap: $1905252374237.1196 USD
+  - 24h Volume: $56036013265.61805 USD
+  - 24h Change: 0.41544107092871957%
 
-- **Ethereum (ETH)**: $3582.79 USD
-  - Market Cap: $431480407078.7907 USD
-  - 24h Volume: $31404466531.459454 USD
-  - 24h Change: -0.47465697612473084%
+- **Ethereum (ETH)**: $3581.87 USD
+  - Market Cap: $430809843521.7192 USD
+  - 24h Volume: $31437513650.164757 USD
+  - 24h Change: -0.9167705325518477%
 
 ## Trending Coins
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 97
-  - Price (BTC): 1.3277755315884013e-05
+  - Market Cap Rank: 99
+  - Price (BTC): 1.2957307752317613e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **GOGGLES (GOGLZ)**
-  - Market Cap Rank: 749
-  - Price (BTC): 6.446839881945797e-06
-  - [More Info](https://www.coingecko.com/en/coins/goggles)
-
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 865
-  - Price (BTC): 5.2229662299984034e-08
+  - Market Cap Rank: 857
+  - Price (BTC): 5.334900843954609e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
+- **GOGGLES (GOGLZ)**
+  - Market Cap Rank: 737
+  - Price (BTC): 6.531063844098761e-06
+  - [More Info](https://www.coingecko.com/en/coins/goggles)
+
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 408
-  - Price (BTC): 2.4799123056358686e-11
+  - Market Cap Rank: 407
+  - Price (BTC): 2.484010825497704e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
+
+- **Spectral (SPEC)**
+  - Market Cap Rank: 372
+  - Price (BTC): 0.00014465833482091102
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 - **Grass (GRASS)**
   - Market Cap Rank: 131
-  - Price (BTC): 3.818137300047546e-05
+  - Price (BTC): 3.757789293018002e-05
   - [More Info](https://www.coingecko.com/en/coins/grass)
-
-- **Spectral (SPEC)**
-  - Market Cap Rank: 369
-  - Price (BTC): 0.00014699396600631576
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
-
-- **peaq (PEAQ)**
-  - Market Cap Rank: 479
-  - Price (BTC): 3.5150121756784777e-06
-  - [More Info](https://www.coingecko.com/en/coins/peaq)
 
 - **Aerodrome Finance (AERO)**
   - Market Cap Rank: 119
-  - Price (BTC): 1.4579794100918866e-05
+  - Price (BTC): 1.452715173403544e-05
   - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
-- **aixbt by Virtuals (AIXBT)**
-  - Market Cap Rank: 371
-  - Price (BTC): 1.9752044045519225e-06
-  - [More Info](https://www.coingecko.com/en/coins/aixbt-by-virtuals)
+- **Act I The AI Prophecy (ACT)**
+  - Market Cap Rank: 180
+  - Price (BTC): 6.001923321060106e-06
+  - [More Info](https://www.coingecko.com/en/coins/act-i-the-ai-prophecy)
 
-- **Just a chill guy (CHILLGUY)**
-  - Market Cap Rank: 195
-  - Price (BTC): 5.295635623004891e-06
-  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
-
-- **Thena (THE)**
-  - Market Cap Rank: 388
-  - Price (BTC): 3.3348822664531495e-05
-  - [More Info](https://www.coingecko.com/en/coins/thena)
-
-- **Worldcoin (WLD)**
-  - Market Cap Rank: 68
-  - Price (BTC): 2.9415331923994755e-05
-  - [More Info](https://www.coingecko.com/en/coins/worldcoin)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 6
-  - Price (BTC): 1.6094123853429867e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 38
-  - Price (BTC): 1.6557304839560242e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+- **peaq (PEAQ)**
+  - Market Cap Rank: 481
+  - Price (BTC): 3.4865140327628024e-06
+  - [More Info](https://www.coingecko.com/en/coins/peaq)
 
 - **Bittensor (TAO)**
   - Market Cap Rank: 36
-  - Price (BTC): 0.006197219813886087
+  - Price (BTC): 0.006315766893071512
   - [More Info](https://www.coingecko.com/en/coins/bittensor)
+
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 38
+  - Price (BTC): 1.6681679302432883e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+
+- **ai16z (AI16Z)**
+  - Market Cap Rank: 277
+  - Price (BTC): 3.165738645316345e-06
+  - [More Info](https://www.coingecko.com/en/coins/ai16z)
+
+- **Worldcoin (WLD)**
+  - Market Cap Rank: 67
+  - Price (BTC): 2.99895279567365e-05
+  - [More Info](https://www.coingecko.com/en/coins/worldcoin)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 202
+  - Price (BTC): 5.040454821929874e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
+
+- **aixbt by Virtuals (AIXBT)**
+  - Market Cap Rank: 380
+  - Price (BTC): 1.887879320990114e-06
+  - [More Info](https://www.coingecko.com/en/coins/aixbt-by-virtuals)
 
 ## Posts
 - **Post ID: 1**
