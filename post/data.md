@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-30 21:08:15 UTC
+**Last updated:** 2024-11-30 22:09:01 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96965 USD
-  - Market Cap: $1918845742102.8572 USD
-  - 24h Volume: $46136070121.66757 USD
-  - 24h Change: -0.4528685554270705%
+- **Bitcoin (BTC)**: $96859 USD
+  - Market Cap: $1915326076517.7341 USD
+  - 24h Volume: $42940302260.104126 USD
+  - 24h Change: -0.6314279771211513%
 
-- **Ethereum (ETH)**: $3707.89 USD
-  - Market Cap: $446566355755.37695 USD
-  - 24h Volume: $30280109638.276493 USD
-  - 24h Change: 3.2277329325149977%
+- **Ethereum (ETH)**: $3714.44 USD
+  - Market Cap: $447314268560.9722 USD
+  - 24h Volume: $31107453722.374737 USD
+  - 24h Change: 3.3697633662612887%
 
 ## Trending Coins
+- **Simon's Cat (CAT)**
+  - Market Cap Rank: 294
+  - Price (BTC): 4.687894611316397e-10
+  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
+
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 63
-  - Price (BTC): 8.587553754731276e-05
+  - Market Cap Rank: 62
+  - Price (BTC): 8.94115141339282e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 74
-  - Price (BTC): 1.952032975308457e-05
+  - Market Cap Rank: 77
+  - Price (BTC): 1.87223187522199e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 191
-  - Price (BTC): 4.651996377737667e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Opulous (OPUL)**
-  - Market Cap Rank: 790
-  - Price (BTC): 1.2190728042697992e-06
-  - [More Info](https://www.coingecko.com/en/coins/opulous)
-
-- **Simon's Cat (CAT)**
-  - Market Cap Rank: 294
-  - Price (BTC): 4.6155217752392196e-10
-  - [More Info](https://www.coingecko.com/en/coins/simons-cat)
-
-- **PinLink (PIN)**
-  - Market Cap Rank: 623
-  - Price (BTC): 1.1585180530256e-05
-  - [More Info](https://www.coingecko.com/en/coins/pinlink)
-
 - **NEURALAI (NEURAL)**
-  - Market Cap Rank: 481
-  - Price (BTC): 0.00014107580895477
+  - Market Cap Rank: 483
+  - Price (BTC): 0.00014089044689742
   - [More Info](https://www.coingecko.com/en/coins/neuralai)
 
-- **AIOZ Network (AIOZ)**
-  - Market Cap Rank: 114
-  - Price (BTC): 9.752132737178973e-06
-  - [More Info](https://www.coingecko.com/en/coins/aioz-network)
-
-- **Altura (ALU)**
-  - Market Cap Rank: 468
-  - Price (BTC): 1.468087102640823e-06
-  - [More Info](https://www.coingecko.com/en/coins/altura)
-
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 804
-  - Price (BTC): 6.286642719375981e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
-
-- **PAAL AI (PAAL)**
-  - Market Cap Rank: 300
-  - Price (BTC): 3.4035445797337335e-06
-  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 37
-  - Price (BTC): 0.006809097141329504
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 189
+  - Price (BTC): 4.6734641646463337e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.952973419206249e-05
+  - Price (BTC): 1.990416426272e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
+- **PinLink (PIN)**
+  - Market Cap Rank: 600
+  - Price (BTC): 1.2390493424661e-05
+  - [More Info](https://www.coingecko.com/en/coins/pinlink)
+
+- **AIOZ Network (AIOZ)**
+  - Market Cap Rank: 116
+  - Price (BTC): 9.910033356436711e-06
+  - [More Info](https://www.coingecko.com/en/coins/aioz-network)
+
+- **PAAL AI (PAAL)**
+  - Market Cap Rank: 299
+  - Price (BTC): 3.501426252616644e-06
+  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
+
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 801
+  - Price (BTC): 6.344330600608055e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
+- **Opulous (OPUL)**
+  - Market Cap Rank: 785
+  - Price (BTC): 1.2341562015621402e-06
+  - [More Info](https://www.coingecko.com/en/coins/opulous)
+
 - **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.9467280042415366e-05
+  - Market Cap Rank: 35
+  - Price (BTC): 1.9498364728471416e-05
   - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
-- **0x0.ai: AI Smart Contract (0X0)**
-  - Market Cap Rank: 298
-  - Price (BTC): 3.463597159349126e-06
-  - [More Info](https://www.coingecko.com/en/coins/0x0-ai-ai-smart-contract)
+- **Coq Inu (COQ)**
+  - Market Cap Rank: 448
+  - Price (BTC): 2.306221454131057e-11
+  - [More Info](https://www.coingecko.com/en/coins/coq-inu)
+
+- **Curve DAO (CRV)**
+  - Market Cap Rank: 146
+  - Price (BTC): 6.973522725822224e-06
+  - [More Info](https://www.coingecko.com/en/coins/curve-dao-token)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.00248163810851638
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 ## Posts
 - **Post ID: 1**
