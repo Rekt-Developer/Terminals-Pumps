@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-11-30 08:12:10 UTC
+**Last updated:** 2024-11-30 09:09:33 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96737 USD
-  - Market Cap: $1914688670571.1768 USD
-  - 24h Volume: $62265508059.1972 USD
-  - 24h Change: 0.9511767714029762%
+- **Bitcoin (BTC)**: $96793 USD
+  - Market Cap: $1917014875294.7942 USD
+  - 24h Volume: $76174498288.12685 USD
+  - 24h Change: 0.9036333299833557%
 
-- **Ethereum (ETH)**: $3711.53 USD
-  - Market Cap: $446949250370.55334 USD
-  - 24h Volume: $33978293467.17033 USD
-  - 24h Change: 4.424692468115104%
+- **Ethereum (ETH)**: $3691.95 USD
+  - Market Cap: $444801504701.09595 USD
+  - 24h Volume: $33989332555.014233 USD
+  - 24h Change: 3.5899894496749796%
 
 ## Trending Coins
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 66
-  - Price (BTC): 7.097018429772547e-05
+  - Market Cap Rank: 68
+  - Price (BTC): 6.805292907442124e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 786
-  - Price (BTC): 6.644301313465341e-08
+  - Market Cap Rank: 784
+  - Price (BTC): 6.730685902251095e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.981000972482545e-05
+  - Price (BTC): 1.964785857081494e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 87
-  - Price (BTC): 1.570012687869404e-05
+  - Market Cap Rank: 88
+  - Price (BTC): 1.531857174476737e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Coq Inu (COQ)**
-  - Market Cap Rank: 431
-  - Price (BTC): 2.378655059974503e-11
+  - Market Cap Rank: 430
+  - Price (BTC): 2.3937687930085993e-11
   - [More Info](https://www.coingecko.com/en/coins/coq-inu)
 
 - **Spectral (SPEC)**
-  - Market Cap Rank: 328
-  - Price (BTC): 0.0001862465511127411
+  - Market Cap Rank: 333
+  - Price (BTC): 0.00018156336004436816
   - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 - **Ski Mask Dog (SKI)**
-  - Market Cap Rank: 764
-  - Price (BTC): 6.435326718127805e-07
+  - Market Cap Rank: 753
+  - Price (BTC): 6.69049812952416e-07
   - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.568712908963449e-05
+  - Price (BTC): 3.5835408389767246e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 141
-  - Price (BTC): 8.849152921702339e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+- **Propchain (PROPC)**
+  - Market Cap Rank: 991
+  - Price (BTC): 2.155105188387133e-05
+  - [More Info](https://www.coingecko.com/en/coins/propchain)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 75
+  - Price (BTC): 1.2634257510812007e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.038110254228132
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Algorand (ALGO)**
+  - Market Cap Rank: 45
+  - Price (BTC): 4.43006458545019e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
 
 - **Cardano (ADA)**
   - Market Cap Rank: 8
-  - Price (BTC): 1.1743148317742237e-05
+  - Price (BTC): 1.1549809069878016e-05
   - [More Info](https://www.coingecko.com/en/coins/cardano)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002521925208866853
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 77
-  - Price (BTC): 1.2548772457220268e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
+- **Grass (GRASS)**
+  - Market Cap Rank: 145
+  - Price (BTC): 3.4295878216317474e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.1714425233012679e-10
+  - Price (BTC): 2.147273359851991e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 194
-  - Price (BTC): 4.526836335320929e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Kaspa (KAS)**
-  - Market Cap Rank: 40
-  - Price (BTC): 1.6958363138189727e-06
-  - [More Info](https://www.coingecko.com/en/coins/kaspa)
 
 ## Posts
 - **Post ID: 1**
