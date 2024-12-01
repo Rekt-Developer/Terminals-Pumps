@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-01 11:08:12 UTC
+**Last updated:** 2024-12-01 12:17:49 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97003 USD
-  - Market Cap: $1918697057981.503 USD
-  - 24h Volume: $43722432271.06483 USD
-  - 24h Change: 0.6978772507009174%
+- **Bitcoin (BTC)**: $97118 USD
+  - Market Cap: $1922722087707.4016 USD
+  - 24h Volume: $41186176010.2967 USD
+  - 24h Change: 0.6412893351120237%
 
-- **Ethereum (ETH)**: $3691.34 USD
-  - Market Cap: $444248236486.05914 USD
-  - 24h Volume: $27216430249.42718 USD
-  - 24h Change: 1.0876095741003533%
+- **Ethereum (ETH)**: $3692.58 USD
+  - Market Cap: $444924095630.2843 USD
+  - 24h Volume: $27080999991.125317 USD
+  - 24h Change: 0.7794978409619134%
 
 ## Trending Coins
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 54
-  - Price (BTC): 9.827625425618859e-05
+  - Market Cap Rank: 56
+  - Price (BTC): 9.672326716563067e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **LayerZero (ZRO)**
   - Market Cap Rank: 164
-  - Price (BTC): 6.278913779387466e-05
+  - Price (BTC): 6.301558049134144e-05
   - [More Info](https://www.coingecko.com/en/coins/layerzero)
 
+- **QuantixAI (QAI)**
+  - Market Cap Rank: 260
+  - Price (BTC): 0.000945254515602791
+  - [More Info](https://www.coingecko.com/en/coins/quantixai)
+
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 89
-  - Price (BTC): 1.5655021506637713e-05
+  - Market Cap Rank: 91
+  - Price (BTC): 1.556021695540035e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Brett (BRETT)**
-  - Market Cap Rank: 70
-  - Price (BTC): 2.227445044853827e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+- **Algorand (ALGO)**
+  - Market Cap Rank: 40
+  - Price (BTC): 5.1653283438735285e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.990104553444465e-05
+  - Price (BTC): 1.9702120897051568e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **ZKsync (ZK)**
-  - Market Cap Rank: 152
-  - Price (BTC): 2.1246499888533434e-06
-  - [More Info](https://www.coingecko.com/en/coins/zksync)
+- **Brett (BRETT)**
+  - Market Cap Rank: 70
+  - Price (BTC): 2.2727567664421234e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
+
+- **Empyreal (EMP)**
+  - Market Cap Rank: 743
+  - Price (BTC): 0.002389893889545678
+  - [More Info](https://www.coingecko.com/en/coins/empyreal)
 
 - **Artificial Superintelligence Alliance (FET)**
   - Market Cap Rank: 34
-  - Price (BTC): 1.9088317137336633e-05
+  - Price (BTC): 1.9351383780702908e-05
   - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
 - **Shrub (SHRUB)**
-  - Market Cap Rank: 821
-  - Price (BTC): 5.883359989059987e-07
+  - Market Cap Rank: 817
+  - Price (BTC): 5.936523820004839e-07
   - [More Info](https://www.coingecko.com/en/coins/shrub)
 
+- **Spectral (SPEC)**
+  - Market Cap Rank: 373
+  - Price (BTC): 0.00014737996769390144
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
+
 - **Hedera (HBAR)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.126164793601925e-06
+  - Market Cap Rank: 27
+  - Price (BTC): 2.0573370225893804e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **NEURALAI (NEURAL)**
-  - Market Cap Rank: 480
-  - Price (BTC): 0.0001414775218428
-  - [More Info](https://www.coingecko.com/en/coins/neuralai)
+- **Solana (SOL)**
+  - Market Cap Rank: 4
+  - Price (BTC): 0.0024423770455790843
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 148
-  - Price (BTC): 7.963664742170864e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **peaq (PEAQ)**
-  - Market Cap Rank: 439
-  - Price (BTC): 4.4164786038042675e-06
-  - [More Info](https://www.coingecko.com/en/coins/peaq)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03801912737453615
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **AIOZ Network (AIOZ)**
-  - Market Cap Rank: 108
-  - Price (BTC): 1.1311798846654993e-05
+  - Market Cap Rank: 109
+  - Price (BTC): 1.1284545770991945e-05
   - [More Info](https://www.coingecko.com/en/coins/aioz-network)
-
-- **TARS AI (TAI)**
-  - Market Cap Rank: 417
-  - Price (BTC): 3.987391763255549e-06
-  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
-
-- **PAAL AI (PAAL)**
-  - Market Cap Rank: 306
-  - Price (BTC): 3.407037067678677e-06
-  - [More Info](https://www.coingecko.com/en/coins/paal-ai)
 
 ## Posts
 - **Post ID: 1**
