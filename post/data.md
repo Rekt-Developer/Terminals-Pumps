@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-01 05:10:14 UTC
+**Last updated:** 2024-12-01 06:13:57 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96509 USD
-  - Market Cap: $1910360299433.3958 USD
-  - 24h Volume: $46297242724.05701 USD
-  - 24h Change: -0.2650198641752405%
+- **Bitcoin (BTC)**: $96525 USD
+  - Market Cap: $1906556573087.8276 USD
+  - 24h Volume: $44997429423.74704 USD
+  - 24h Change: -0.6924305484455433%
 
-- **Ethereum (ETH)**: $3697.25 USD
-  - Market Cap: $445676257234.592 USD
-  - 24h Volume: $32617006855.262314 USD
-  - 24h Change: 1.316428314674078%
+- **Ethereum (ETH)**: $3694.21 USD
+  - Market Cap: $443926849548.1532 USD
+  - 24h Volume: $31141635049.37828 USD
+  - 24h Change: -0.4514047961735823%
 
 ## Trending Coins
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 863
-  - Price (BTC): 5.540248073600662e-08
+  - Market Cap Rank: 866
+  - Price (BTC): 5.5183564151298044e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 52
+  - Price (BTC): 0.00010074933505293221
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
 - **Shrub (SHRUB)**
-  - Market Cap Rank: 840
-  - Price (BTC): 5.741073864780919e-07
+  - Market Cap Rank: 796
+  - Price (BTC): 6.312242984497165e-07
   - [More Info](https://www.coingecko.com/en/coins/shrub)
 
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 53
-  - Price (BTC): 9.912054672231292e-05
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+- **LayerZero (ZRO)**
+  - Market Cap Rank: 159
+  - Price (BTC): 6.737255805169725e-05
+  - [More Info](https://www.coingecko.com/en/coins/layerzero)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 90
-  - Price (BTC): 1.5747873121859352e-05
+  - Price (BTC): 1.540496459592382e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **LayerZero (ZRO)**
-  - Market Cap Rank: 167
-  - Price (BTC): 6.103697554527223e-05
-  - [More Info](https://www.coingecko.com/en/coins/layerzero)
-
 - **NEURALAI (NEURAL)**
-  - Market Cap Rank: 431
-  - Price (BTC): 0.00016920823323213
+  - Market Cap Rank: 460
+  - Price (BTC): 0.00015058546773584
   - [More Info](https://www.coingecko.com/en/coins/neuralai)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.9526458865627216e-05
+  - Price (BTC): 1.9326974765917337e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **PinLink (PIN)**
-  - Market Cap Rank: 561
-  - Price (BTC): 1.3914444129501e-05
+  - Market Cap Rank: 549
+  - Price (BTC): 1.4418168339168e-05
   - [More Info](https://www.coingecko.com/en/coins/pinlink)
-
-- **Goatseus Maximus (GOAT)**
-  - Market Cap Rank: 148
-  - Price (BTC): 8.1575518402025e-06
-  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
-
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 12
-  - Price (BTC): 3.159404484652258e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
-
-- **Brett (BRETT)**
-  - Market Cap Rank: 72
-  - Price (BTC): 2.0569830250076293e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.44262843360459e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Aethir (ATH)**
-  - Market Cap Rank: 291
-  - Price (BTC): 7.82058243648842e-07
-  - [More Info](https://www.coingecko.com/en/coins/aethir)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.038346975083620366
+  - Price (BTC): 0.038258029694647776
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 11
+  - Price (BTC): 3.2388996394853164e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.429133159142563e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **ZKsync (ZK)**
+  - Market Cap Rank: 157
+  - Price (BTC): 2.043479613209928e-06
+  - [More Info](https://www.coingecko.com/en/coins/zksync)
+
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.9215282832846144e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
+
 - **AIOZ Network (AIOZ)**
-  - Market Cap Rank: 113
-  - Price (BTC): 1.027898357209806e-05
+  - Market Cap Rank: 112
+  - Price (BTC): 1.0448376727620573e-05
   - [More Info](https://www.coingecko.com/en/coins/aioz-network)
+
+- **Super Champs (CHAMP)**
+  - Market Cap Rank: 829
+  - Price (BTC): 6.258432998655138e-07
+  - [More Info](https://www.coingecko.com/en/coins/super-champs)
 
 ## Posts
 - **Post ID: 1**
