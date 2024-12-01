@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-01 04:15:40 UTC
+**Last updated:** 2024-12-01 05:10:14 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96322 USD
-  - Market Cap: $1906350381656.5396 USD
-  - 24h Volume: $45831278418.05183 USD
-  - 24h Change: -0.3999601598529219%
+- **Bitcoin (BTC)**: $96509 USD
+  - Market Cap: $1910360299433.3958 USD
+  - 24h Volume: $46297242724.05701 USD
+  - 24h Change: -0.2650198641752405%
 
-- **Ethereum (ETH)**: $3705.33 USD
-  - Market Cap: $446398103165.94794 USD
-  - 24h Volume: $32212949423.976315 USD
-  - 24h Change: 1.5821506690164706%
+- **Ethereum (ETH)**: $3697.25 USD
+  - Market Cap: $445676257234.592 USD
+  - 24h Volume: $32617006855.262314 USD
+  - 24h Change: 1.316428314674078%
 
 ## Trending Coins
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 870
-  - Price (BTC): 5.481768380994513e-08
+  - Market Cap Rank: 863
+  - Price (BTC): 5.540248073600662e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
+- **Shrub (SHRUB)**
+  - Market Cap Rank: 840
+  - Price (BTC): 5.741073864780919e-07
+  - [More Info](https://www.coingecko.com/en/coins/shrub)
+
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 52
-  - Price (BTC): 0.0001005695025244363
+  - Market Cap Rank: 53
+  - Price (BTC): 9.912054672231292e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
-- **NEURALAI (NEURAL)**
-  - Market Cap Rank: 449
-  - Price (BTC): 0.00016054130919265
-  - [More Info](https://www.coingecko.com/en/coins/neuralai)
-
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 85
-  - Price (BTC): 1.6539588703814537e-05
+  - Market Cap Rank: 90
+  - Price (BTC): 1.5747873121859352e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Shrub (SHRUB)**
-  - Market Cap Rank: 844
-  - Price (BTC): 5.641709649446779e-07
-  - [More Info](https://www.coingecko.com/en/coins/shrub)
+- **LayerZero (ZRO)**
+  - Market Cap Rank: 167
+  - Price (BTC): 6.103697554527223e-05
+  - [More Info](https://www.coingecko.com/en/coins/layerzero)
+
+- **NEURALAI (NEURAL)**
+  - Market Cap Rank: 431
+  - Price (BTC): 0.00016920823323213
+  - [More Info](https://www.coingecko.com/en/coins/neuralai)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.962318371449413e-05
+  - Price (BTC): 1.9526458865627216e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **PinLink (PIN)**
-  - Market Cap Rank: 569
-  - Price (BTC): 1.353418896333e-05
+  - Market Cap Rank: 561
+  - Price (BTC): 1.3914444129501e-05
   - [More Info](https://www.coingecko.com/en/coins/pinlink)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 148
+  - Price (BTC): 8.1575518402025e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 12
+  - Price (BTC): 3.159404484652258e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
 
 - **Brett (BRETT)**
   - Market Cap Rank: 72
-  - Price (BTC): 2.0650524992078463e-06
+  - Price (BTC): 2.0569830250076293e-06
   - [More Info](https://www.coingecko.com/en/coins/brett-2)
-
-- **Spectral (SPEC)**
-  - Market Cap Rank: 360
-  - Price (BTC): 0.00015938187771004153
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.438496766306742e-06
+  - Price (BTC): 4.44262843360459e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Aethir (ATH)**
+  - Market Cap Rank: 291
+  - Price (BTC): 7.82058243648842e-07
+  - [More Info](https://www.coingecko.com/en/coins/aethir)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03847065356780858
+  - Price (BTC): 0.038346975083620366
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.494693189280134e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 36
-  - Price (BTC): 1.8992439870958407e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
-
-- **ParallelAI (PAI)**
-  - Market Cap Rank: 641
-  - Price (BTC): 9.034307113266403e-06
-  - [More Info](https://www.coingecko.com/en/coins/parallelai)
-
-- **Ethena (ENA)**
-  - Market Cap Rank: 65
-  - Price (BTC): 9.007355413873164e-06
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
+- **AIOZ Network (AIOZ)**
+  - Market Cap Rank: 113
+  - Price (BTC): 1.027898357209806e-05
+  - [More Info](https://www.coingecko.com/en/coins/aioz-network)
 
 ## Posts
 - **Post ID: 1**
