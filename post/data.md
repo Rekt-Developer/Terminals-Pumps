@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-01 18:12:29 UTC
+**Last updated:** 2024-12-01 19:07:26 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97426 USD
-  - Market Cap: $1926615078158.4045 USD
-  - 24h Volume: $46829632878.98944 USD
-  - 24h Change: 0.5530170574759793%
+- **Bitcoin (BTC)**: $97221 USD
+  - Market Cap: $1923237549668.7966 USD
+  - 24h Volume: $43112552183.4651 USD
+  - 24h Change: 0.2468095075513386%
 
-- **Ethereum (ETH)**: $3728.21 USD
-  - Market Cap: $448455129574.87244 USD
-  - 24h Volume: $29313790242.882294 USD
-  - 24h Change: 1.3921952382008087%
+- **Ethereum (ETH)**: $3714.74 USD
+  - Market Cap: $446992533790.4656 USD
+  - 24h Volume: $27105401471.68226 USD
+  - 24h Change: 1.136600068658926%
 
 ## Trending Coins
 - **Shrub (SHRUB)**
   - Market Cap Rank: 793
-  - Price (BTC): 6.461143608428308e-07
+  - Price (BTC): 6.450710773281656e-07
   - [More Info](https://www.coingecko.com/en/coins/shrub)
 
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 289
-  - Price (BTC): 4.751706037643098e-10
+  - Market Cap Rank: 291
+  - Price (BTC): 4.701834968871947e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 844
+  - Price (BTC): 6.011608129586635e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 62
-  - Price (BTC): 9.072333553845074e-05
+  - Market Cap Rank: 59
+  - Price (BTC): 9.338697097820272e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 588
+  - Price (BTC): 1.05676465753374e-06
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **LayerZero (ZRO)**
   - Market Cap Rank: 162
-  - Price (BTC): 6.688353428341959e-05
+  - Price (BTC): 6.653401497393344e-05
   - [More Info](https://www.coingecko.com/en/coins/layerzero)
 
 - **ZKsync (ZK)**
-  - Market Cap Rank: 145
-  - Price (BTC): 2.3481171987190767e-06
+  - Market Cap Rank: 147
+  - Price (BTC): 2.3363372600857837e-06
   - [More Info](https://www.coingecko.com/en/coins/zksync)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 205
-  - Price (BTC): 4.3726988216801816e-11
+  - Market Cap Rank: 207
+  - Price (BTC): 4.3313687000072565e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 834
-  - Price (BTC): 6.059080348224408e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 5
-  - Price (BTC): 1.9761392994663985e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 576
-  - Price (BTC): 1.0995872636511516e-06
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
-- **Brett (BRETT)**
-  - Market Cap Rank: 69
-  - Price (BTC): 2.3338852882326035e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 93
-  - Price (BTC): 1.5760233377665302e-05
+  - Price (BTC): 1.5520450049117663e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 829
+  - Price (BTC): 6.018507456584671e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
+- **Just a chill guy (CHILLGUY)**
+  - Market Cap Rank: 221
+  - Price (BTC): 4.943687972877127e-06
+  - [More Info](https://www.coingecko.com/en/coins/just-a-chill-guy)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 23
-  - Price (BTC): 2.3017121888485633e-10
+  - Price (BTC): 2.3175968849829056e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.002435461773489166
+  - Price (BTC): 0.002433164795761134
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.5819168994949515e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **XRP (XRP)**
+  - Market Cap Rank: 5
+  - Price (BTC): 2.017149958226604e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Empyreal (EMP)**
-  - Market Cap Rank: 739
-  - Price (BTC): 0.0023377980187116168
-  - [More Info](https://www.coingecko.com/en/coins/empyreal)
+- **Brett (BRETT)**
+  - Market Cap Rank: 70
+  - Price (BTC): 2.2952998891880724e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 ## Posts
 - **Post ID: 1**
