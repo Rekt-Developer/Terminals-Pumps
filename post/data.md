@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-01 07:09:31 UTC
+**Last updated:** 2024-12-01 08:12:40 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96375 USD
-  - Market Cap: $1906707439456.588 USD
-  - 24h Volume: $29656275436.71409 USD
-  - 24h Change: -0.4681350503222216%
+- **Bitcoin (BTC)**: $96569 USD
+  - Market Cap: $1910871254451.0415 USD
+  - 24h Volume: $42362133531.07768 USD
+  - 24h Change: -0.1919654802308609%
 
-- **Ethereum (ETH)**: $3700.56 USD
-  - Market Cap: $445464396848.8032 USD
-  - 24h Volume: $29236301279.82143 USD
-  - 24h Change: -0.13081809316932905%
+- **Ethereum (ETH)**: $3709.46 USD
+  - Market Cap: $446618683118.7073 USD
+  - 24h Volume: $28984505054.48718 USD
+  - 24h Change: -0.04283329059233187%
 
 ## Trending Coins
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 866
-  - Price (BTC): 5.5015927173404526e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
-
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 52
-  - Price (BTC): 0.00010108679719607517
+  - Market Cap Rank: 53
+  - Price (BTC): 9.927224705957142e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 833
+  - Price (BTC): 5.962832196569847e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
 - **LayerZero (ZRO)**
-  - Market Cap Rank: 159
-  - Price (BTC): 6.730767780105848e-05
+  - Market Cap Rank: 162
+  - Price (BTC): 6.61970188049834e-05
   - [More Info](https://www.coingecko.com/en/coins/layerzero)
+
+- **ZKsync (ZK)**
+  - Market Cap Rank: 153
+  - Price (BTC): 2.125767987512056e-06
+  - [More Info](https://www.coingecko.com/en/coins/zksync)
+
+- **Shrub (SHRUB)**
+  - Market Cap Rank: 824
+  - Price (BTC): 5.897181692490343e-07
+  - [More Info](https://www.coingecko.com/en/coins/shrub)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 90
-  - Price (BTC): 1.581429446578257e-05
+  - Price (BTC): 1.5929646561401182e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Shrub (SHRUB)**
-  - Market Cap Rank: 825
-  - Price (BTC): 5.854592879620833e-07
-  - [More Info](https://www.coingecko.com/en/coins/shrub)
-
 - **NEURALAI (NEURAL)**
-  - Market Cap Rank: 454
-  - Price (BTC): 0.00015784469788021
+  - Market Cap Rank: 458
+  - Price (BTC): 0.00015311295334914
   - [More Info](https://www.coingecko.com/en/coins/neuralai)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.9476969445287923e-05
+  - Price (BTC): 1.9423002059424324e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03838205575281167
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **ZKsync (ZK)**
-  - Market Cap Rank: 154
-  - Price (BTC): 2.124272010218706e-06
-  - [More Info](https://www.coingecko.com/en/coins/zksync)
-
 - **AIOZ Network (AIOZ)**
-  - Market Cap Rank: 112
-  - Price (BTC): 1.0764415299538397e-05
+  - Market Cap Rank: 109
+  - Price (BTC): 1.1142390604831279e-05
   - [More Info](https://www.coingecko.com/en/coins/aioz-network)
 
 - **Brett (BRETT)**
   - Market Cap Rank: 70
-  - Price (BTC): 2.166841856943514e-06
+  - Price (BTC): 2.209079698048098e-06
   - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
-- **Shiba Inu (SHIB)**
-  - Market Cap Rank: 11
-  - Price (BTC): 3.206592565167027e-10
-  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
+- **Artificial Superintelligence Alliance (FET)**
+  - Market Cap Rank: 34
+  - Price (BTC): 1.9464751485062202e-05
+  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.428546194413979e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Spectral (SPEC)**
+  - Market Cap Rank: 367
+  - Price (BTC): 0.00015440268976144841
+  - [More Info](https://www.coingecko.com/en/coins/spectral)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Solana (SOL)**
   - Market Cap Rank: 4
-  - Price (BTC): 0.0024451341465060415
+  - Price (BTC): 0.0024429727809956686
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Aethir (ATH)**
-  - Market Cap Rank: 286
-  - Price (BTC): 8.264733811396899e-07
-  - [More Info](https://www.coingecko.com/en/coins/aethir)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.183482979673639e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
