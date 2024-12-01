@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-01 14:08:28 UTC
+**Last updated:** 2024-12-01 15:09:15 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97148 USD
-  - Market Cap: $1921831997197.0996 USD
-  - 24h Volume: $43182887606.47623 USD
-  - 24h Change: 0.720483560565395%
+- **Bitcoin (BTC)**: $97275 USD
+  - Market Cap: $1923711525118.106 USD
+  - 24h Volume: $43164099512.23609 USD
+  - 24h Change: 0.6288523434721801%
 
-- **Ethereum (ETH)**: $3703.47 USD
-  - Market Cap: $445919440802.9546 USD
-  - 24h Volume: $27509616606.298054 USD
-  - 24h Change: 0.7355739781101851%
+- **Ethereum (ETH)**: $3709.05 USD
+  - Market Cap: $446389335519.0763 USD
+  - 24h Volume: $27824651252.587597 USD
+  - 24h Change: 1.1371489265540298%
 
 ## Trending Coins
 - **Shrub (SHRUB)**
-  - Market Cap Rank: 806
-  - Price (BTC): 6.32069320411355e-07
+  - Market Cap Rank: 789
+  - Price (BTC): 6.393683692177474e-07
   - [More Info](https://www.coingecko.com/en/coins/shrub)
 
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 577
-  - Price (BTC): 1.114424636248025e-06
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
 - **Simon's Cat (CAT)**
-  - Market Cap Rank: 302
-  - Price (BTC): 4.499605761904202e-10
+  - Market Cap Rank: 303
+  - Price (BTC): 4.5272357334782555e-10
   - [More Info](https://www.coingecko.com/en/coins/simons-cat)
 
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 549
+  - Price (BTC): 1.1860988959285947e-06
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
+
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 61
-  - Price (BTC): 8.98968137210177e-05
+  - Market Cap Rank: 60
+  - Price (BTC): 9.145208779506296e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **LayerZero (ZRO)**
   - Market Cap Rank: 162
-  - Price (BTC): 6.678721150476414e-05
+  - Price (BTC): 6.615140207093396e-05
   - [More Info](https://www.coingecko.com/en/coins/layerzero)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 91
-  - Price (BTC): 1.571617095841137e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 200
-  - Price (BTC): 4.4856813593891126e-11
+  - Market Cap Rank: 197
+  - Price (BTC): 4.43308065604788e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Brett (BRETT)**
-  - Market Cap Rank: 68
-  - Price (BTC): 2.3506687418102148e-06
-  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 - **ZKsync (ZK)**
   - Market Cap Rank: 146
-  - Price (BTC): 2.2701162244731844e-06
+  - Price (BTC): 2.3025336305575474e-06
   - [More Info](https://www.coingecko.com/en/coins/zksync)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 91
+  - Price (BTC): 1.5898493198428104e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 11
+  - Price (BTC): 3.286759137848967e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
+
+- **Brett (BRETT)**
+  - Market Cap Rank: 70
+  - Price (BTC): 2.3046579302941896e-06
+  - [More Info](https://www.coingecko.com/en/coins/brett-2)
 
 - **XRP (XRP)**
   - Market Cap Rank: 5
-  - Price (BTC): 1.9559224753793437e-05
+  - Price (BTC): 1.968497088906143e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 34
-  - Price (BTC): 1.9401049678739203e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
-
-- **Spectral (SPEC)**
-  - Market Cap Rank: 377
-  - Price (BTC): 0.00014636347941333205
-  - [More Info](https://www.coingecko.com/en/coins/spectral)
-
-- **peaq (PEAQ)**
-  - Market Cap Rank: 421
-  - Price (BTC): 4.669832486101172e-06
-  - [More Info](https://www.coingecko.com/en/coins/peaq)
-
 - **Empyreal (EMP)**
-  - Market Cap Rank: 720
-  - Price (BTC): 0.002439222067679542
+  - Market Cap Rank: 671
+  - Price (BTC): 0.002721115307398856
   - [More Info](https://www.coingecko.com/en/coins/empyreal)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 4
-  - Price (BTC): 0.002448389495940927
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.2476878628766883e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **TARS AI (TAI)**
+  - Market Cap Rank: 400
+  - Price (BTC): 4.336883764642163e-06
+  - [More Info](https://www.coingecko.com/en/coins/tars-protocol)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.540912349305707e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 ## Posts
 - **Post ID: 1**
