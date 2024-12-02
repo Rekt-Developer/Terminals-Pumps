@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-02 07:11:18 UTC
+**Last updated:** 2024-12-02 08:14:52 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96442 USD
-  - Market Cap: $1908613290669.8806 USD
-  - 24h Volume: $59378925340.68395 USD
-  - 24h Change: 0.053444542503254616%
+- **Bitcoin (BTC)**: $96054 USD
+  - Market Cap: $1899367001536.8403 USD
+  - 24h Volume: $64539771102.67508 USD
+  - 24h Change: -0.7146697353141171%
 
-- **Ethereum (ETH)**: $3684.99 USD
-  - Market Cap: $443832488883.98596 USD
-  - 24h Volume: $33495468764.852177 USD
-  - 24h Change: -0.44449933107377615%
+- **Ethereum (ETH)**: $3667.6 USD
+  - Market Cap: $441276147310.8066 USD
+  - 24h Volume: $34811078321.41681 USD
+  - 24h Change: -1.2709938563265304%
 
 ## Trending Coins
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.524214667724926e-05
+  - Price (BTC): 2.5364638637149813e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
+- **Hedera (HBAR)**
+  - Market Cap Rank: 24
+  - Price (BTC): 2.5311684100979335e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
+
 - **bitsCrunch Token (BCUT)**
-  - Market Cap Rank: 938
-  - Price (BTC): 1.3486537200817613e-06
+  - Market Cap Rank: 960
+  - Price (BTC): 1.2987263460567612e-06
   - [More Info](https://www.coingecko.com/en/coins/bitscrunch-token)
 
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 57
-  - Price (BTC): 9.526761283150368e-05
+  - Market Cap Rank: 56
+  - Price (BTC): 9.526939648812716e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 838
-  - Price (BTC): 5.888961918453607e-08
+  - Market Cap Rank: 835
+  - Price (BTC): 5.9232815708333124e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
-- **Hedera (HBAR)**
-  - Market Cap Rank: 23
-  - Price (BTC): 2.6081449106429003e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
-
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 101
-  - Price (BTC): 1.4289404311342317e-05
+  - Market Cap Rank: 104
+  - Price (BTC): 1.394777685882272e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 889
-  - Price (BTC): 5.461810334203327e-13
+  - Market Cap Rank: 882
+  - Price (BTC): 5.503572665024275e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
-- **Algorand (ALGO)**
-  - Market Cap Rank: 41
-  - Price (BTC): 5.254288000775117e-06
-  - [More Info](https://www.coingecko.com/en/coins/algorand)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.54750190673134e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.4462371435604004e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Stellar (XLM)**
   - Market Cap Rank: 15
-  - Price (BTC): 5.6140785490382615e-06
+  - Price (BTC): 5.55628234450742e-06
   - [More Info](https://www.coingecko.com/en/coins/stellar)
 
-- **Cardano (ADA)**
-  - Market Cap Rank: 8
-  - Price (BTC): 1.195664503205455e-05
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023736471207013725
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Algorand (ALGO)**
+  - Market Cap Rank: 42
+  - Price (BTC): 5.144449075493334e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03821071529931716
+  - Price (BTC): 0.03819467055444599
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Grass (GRASS)**
-  - Market Cap Rank: 153
-  - Price (BTC): 3.218388343396648e-05
-  - [More Info](https://www.coingecko.com/en/coins/grass)
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.459999988956004e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
-- **LayerZero (ZRO)**
-  - Market Cap Rank: 162
-  - Price (BTC): 6.444651763942428e-05
-  - [More Info](https://www.coingecko.com/en/coins/layerzero)
+- **Cardano (ADA)**
+  - Market Cap Rank: 8
+  - Price (BTC): 1.1884838088700144e-05
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 25
+  - Price (BTC): 2.1596574478933842e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023790654438019163
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 ## Posts
 - **Post ID: 1**
