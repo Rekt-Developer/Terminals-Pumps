@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-02 16:12:47 UTC
+**Last updated:** 2024-12-02 17:09:03 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97257 USD
-  - Market Cap: $1926497470988.2546 USD
-  - 24h Volume: $83940892774.21736 USD
-  - 24h Change: -0.013566677707102601%
+- **Bitcoin (BTC)**: $96538 USD
+  - Market Cap: $1903960878759.9565 USD
+  - 24h Volume: $87172643968.89784 USD
+  - 24h Change: -0.7335600687194558%
 
-- **Ethereum (ETH)**: $3678.79 USD
-  - Market Cap: $443111823924.0077 USD
-  - 24h Volume: $43821536265.558876 USD
-  - 24h Change: -1.407254173474508%
+- **Ethereum (ETH)**: $3639.64 USD
+  - Market Cap: $437882094545.08856 USD
+  - 24h Volume: $48574934777.98421 USD
+  - 24h Change: -2.3665905914299574%
 
 ## Trending Coins
 - **bitsCrunch Token (BCUT)**
-  - Market Cap Rank: 945
-  - Price (BTC): 1.3098732931831895e-06
+  - Market Cap Rank: 974
+  - Price (BTC): 1.2820526039090134e-06
   - [More Info](https://www.coingecko.com/en/coins/bitscrunch-token)
 
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 646
-  - Price (BTC): 9.119140237167424e-07
+  - Market Cap Rank: 603
+  - Price (BTC): 1.0134620042630623e-06
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Shrub (SHRUB)**
-  - Market Cap Rank: 815
-  - Price (BTC): 5.986770138443529e-07
+  - Market Cap Rank: 818
+  - Price (BTC): 5.855504287933687e-07
   - [More Info](https://www.coingecko.com/en/coins/shrub)
 
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 893
-  - Price (BTC): 5.293559267878386e-13
+  - Market Cap Rank: 889
+  - Price (BTC): 5.333816615249752e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 193
-  - Price (BTC): 5.976485286713288e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.772149327861621e-05
+  - Price (BTC): 2.8178933951543178e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
+- **Vector Smart Gas (VSG)**
+  - Market Cap Rank: 863
+  - Price (BTC): 5.518195080750559e-08
+  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
 - **XDC Network (XDC)**
-  - Market Cap Rank: 119
-  - Price (BTC): 7.536068932917141e-07
+  - Market Cap Rank: 117
+  - Price (BTC): 7.63560975399868e-07
   - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
-- **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 872
-  - Price (BTC): 5.526368999218741e-08
-  - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 186
+  - Price (BTC): 5.87230190536404e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
+- **Sun Token (SUN)**
+  - Market Cap Rank: 348
+  - Price (BTC): 2.425484615438507e-07
+  - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 20
-  - Price (BTC): 2.9242019088376678e-06
+  - Price (BTC): 2.9093856916548195e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 207
-  - Price (BTC): 4.3371440406942875e-11
+  - Market Cap Rank: 214
+  - Price (BTC): 4.297357740530573e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 62
-  - Price (BTC): 8.519166218086257e-05
+  - Market Cap Rank: 63
+  - Price (BTC): 8.043639227368418e-05
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 102
-  - Price (BTC): 1.4370584481997799e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Stellar (XLM)**
-  - Market Cap Rank: 14
-  - Price (BTC): 5.893998357570728e-06
-  - [More Info](https://www.coingecko.com/en/coins/stellar)
-
-- **Cardano (ADA)**
-  - Market Cap Rank: 8
-  - Price (BTC): 1.2412805631298609e-05
-  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Chainlink (LINK)**
   - Market Cap Rank: 18
-  - Price (BTC): 0.0002234327749890206
+  - Price (BTC): 0.00022436228395079292
   - [More Info](https://www.coingecko.com/en/coins/chainlink)
+
+- **Stellar (XLM)**
+  - Market Cap Rank: 14
+  - Price (BTC): 5.81902221522429e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 101
+  - Price (BTC): 1.4265560038856505e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 ## Posts
 - **Post ID: 1**
