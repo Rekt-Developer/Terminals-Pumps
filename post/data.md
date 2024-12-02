@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-02 12:20:37 UTC
+**Last updated:** 2024-12-02 13:21:59 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95065 USD
-  - Market Cap: $1882487369085.6226 USD
-  - 24h Volume: $74062860629.14198 USD
-  - 24h Change: -2.0016597241170007%
+- **Bitcoin (BTC)**: $95675 USD
+  - Market Cap: $1888799565850.8906 USD
+  - 24h Volume: $77241776308.06334 USD
+  - 24h Change: -1.5939563020377319%
 
-- **Ethereum (ETH)**: $3591.62 USD
-  - Market Cap: $432704111335.29004 USD
-  - 24h Volume: $38736858781.572655 USD
-  - 24h Change: -2.605663815950519%
+- **Ethereum (ETH)**: $3617.5 USD
+  - Market Cap: $434956683991.9671 USD
+  - 24h Volume: $43139345770.6964 USD
+  - 24h Change: -2.3575213809871634%
 
 ## Trending Coins
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 659
-  - Price (BTC): 8.714192985734415e-07
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 4
-  - Price (BTC): 2.4287497412603727e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
 - **Shrub (SHRUB)**
-  - Market Cap Rank: 784
-  - Price (BTC): 6.450371568708552e-07
+  - Market Cap Rank: 806
+  - Price (BTC): 6.19507965825684e-07
   - [More Info](https://www.coingecko.com/en/coins/shrub)
 
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 909
-  - Price (BTC): 5.106043564796807e-13
+  - Market Cap Rank: 897
+  - Price (BTC): 5.276548644080934e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
-- **Qubic (QUBIC)**
-  - Market Cap Rank: 230
-  - Price (BTC): 3.76739174416046e-11
-  - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 59
-  - Price (BTC): 9.245544109149079e-05
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 662
+  - Price (BTC): 8.598290751484339e-07
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **bitsCrunch Token (BCUT)**
-  - Market Cap Rank: 903
-  - Price (BTC): 1.4340154666034455e-06
+  - Market Cap Rank: 893
+  - Price (BTC): 1.445835458804805e-06
   - [More Info](https://www.coingecko.com/en/coins/bitscrunch-token)
 
+- **XRP (XRP)**
+  - Market Cap Rank: 3
+  - Price (BTC): 2.482362324499251e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 220
+  - Price (BTC): 4.007953358231044e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
+
+- **XDC Network (XDC)**
+  - Market Cap Rank: 122
+  - Price (BTC): 7.173100442018772e-07
+  - [More Info](https://www.coingecko.com/en/coins/xdc-network)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 58
+  - Price (BTC): 9.314865103564881e-05
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 102
-  - Price (BTC): 1.4228918114712025e-05
+  - Market Cap Rank: 99
+  - Price (BTC): 1.4430574821970897e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 892
-  - Price (BTC): 5.2416667037263383e-08
+  - Market Cap Rank: 870
+  - Price (BTC): 5.435945490667134e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 23
+  - Price (BTC): 2.5349002705645318e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03786539355319703
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002360716962849646
+  - Price (BTC): 0.0023421955104782647
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 25
-  - Price (BTC): 2.1041422554291354e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.3822148670682125e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
+- **Fantom (FTM)**
+  - Market Cap Rank: 61
+  - Price (BTC): 1.0565815254933794e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 - **Aave (AAVE)**
   - Market Cap Rank: 47
-  - Price (BTC): 0.002322401012619499
+  - Price (BTC): 0.002323034609847947
   - [More Info](https://www.coingecko.com/en/coins/aave)
-
-- **Chainlink (LINK)**
-  - Market Cap Rank: 19
-  - Price (BTC): 0.00020659842831703923
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
-
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 36
-  - Price (BTC): 1.82984835192443e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
 
 ## Posts
 - **Post ID: 1**
