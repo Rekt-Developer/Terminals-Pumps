@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-03 00:52:02 UTC
+**Last updated:** 2024-12-03 02:22:59 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96163 USD
-  - Market Cap: $1898989796372.5708 USD
-  - 24h Volume: $101943344453.4885 USD
-  - 24h Change: -1.270441250783272%
+- **Bitcoin (BTC)**: $95773 USD
+  - Market Cap: $1892710563829.9512 USD
+  - 24h Volume: $99697625833.82565 USD
+  - 24h Change: -1.9026227169994678%
 
-- **Ethereum (ETH)**: $3641.19 USD
-  - Market Cap: $437780337853.6194 USD
-  - 24h Volume: $50150654405.51834 USD
-  - 24h Change: -1.7218184823826173%
+- **Ethereum (ETH)**: $3628.38 USD
+  - Market Cap: $436425193460.5809 USD
+  - 24h Volume: $49868005214.96756 USD
+  - 24h Change: -2.3043626813602525%
 
 ## Trending Coins
 - **Vector Smart Gas (VSG)**
-  - Market Cap Rank: 889
-  - Price (BTC): 5.3508733934362346e-08
+  - Market Cap Rank: 935
+  - Price (BTC): 4.904770478835278e-08
   - [More Info](https://www.coingecko.com/en/coins/vector-smart-gas)
 
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 638
-  - Price (BTC): 9.439627070099606e-07
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
 - **Sun Token (SUN)**
-  - Market Cap Rank: 343
-  - Price (BTC): 2.5676773655705004e-07
+  - Market Cap Rank: 347
+  - Price (BTC): 2.551939356639482e-07
   - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
 - **XDC Network (XDC)**
-  - Market Cap Rank: 112
-  - Price (BTC): 8.833780974609989e-07
+  - Market Cap Rank: 116
+  - Price (BTC): 8.193819650462664e-07
   - [More Info](https://www.coingecko.com/en/coins/xdc-network)
 
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 671
+  - Price (BTC): 8.603039489456634e-07
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
+
 - **bitsCrunch Token (BCUT)**
-  - Market Cap Rank: 954
-  - Price (BTC): 1.331057441410138e-06
+  - Market Cap Rank: 986
+  - Price (BTC): 1.266166053643909e-06
   - [More Info](https://www.coingecko.com/en/coins/bitscrunch-token)
 
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 911
-  - Price (BTC): 5.110391320286441e-13
+  - Market Cap Rank: 946
+  - Price (BTC): 4.926479604460772e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.793812184291913e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 19
-  - Price (BTC): 3.7073223094782886e-06
+  - Price (BTC): 3.6370072178083997e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **Shrub (SHRUB)**
-  - Market Cap Rank: 835
-  - Price (BTC): 5.822114626201836e-07
+  - Market Cap Rank: 867
+  - Price (BTC): 5.403901805040785e-07
   - [More Info](https://www.coingecko.com/en/coins/shrub)
 
+- **XRP (XRP)**
+  - Market Cap Rank: 3
+  - Price (BTC): 2.8245287376917745e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
 - **Ondo (ONDO)**
-  - Market Cap Rank: 73
-  - Price (BTC): 1.520311575591012e-05
+  - Market Cap Rank: 67
+  - Price (BTC): 1.7320869892676098e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 107
+  - Price (BTC): 1.4061047269700262e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 180
+  - Price (BTC): 6.468851552803059e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+
 - **Chainlink (LINK)**
-  - Market Cap Rank: 17
-  - Price (BTC): 0.00025658283558589013
+  - Market Cap Rank: 16
+  - Price (BTC): 0.0002587605086515864
   - [More Info](https://www.coingecko.com/en/coins/chainlink)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 109
-  - Price (BTC): 1.3900408554905163e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **aixbt by Virtuals (AIXBT)**
+  - Market Cap Rank: 340
+  - Price (BTC): 2.6359217794882746e-06
+  - [More Info](https://www.coingecko.com/en/coins/aixbt-by-virtuals)
 
 - **Fantom (FTM)**
   - Market Cap Rank: 49
-  - Price (BTC): 1.2894351612894009e-05
+  - Price (BTC): 1.2791008722872617e-05
   - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **Avalanche (AVAX)**
-  - Market Cap Rank: 11
-  - Price (BTC): 0.000533969725737173
-  - [More Info](https://www.coingecko.com/en/coins/avalanche)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023514196071879553
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 ## Posts
 - **Post ID: 1**
