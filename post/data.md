@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-03 04:12:43 UTC
+**Last updated:** 2024-12-03 05:10:45 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96107 USD
-  - Market Cap: $1901780740771.2805 USD
-  - 24h Volume: $97371448403.70187 USD
-  - 24h Change: -0.09183648006706742%
+- **Bitcoin (BTC)**: $95976 USD
+  - Market Cap: $1897949052869.098 USD
+  - 24h Volume: $95176418801.78584 USD
+  - 24h Change: -0.9867178980507084%
 
-- **Ethereum (ETH)**: $3643.44 USD
-  - Market Cap: $438768110618.96906 USD
-  - 24h Volume: $47576315677.60658 USD
-  - 24h Change: -0.7678429593572366%
+- **Ethereum (ETH)**: $3648.62 USD
+  - Market Cap: $438915998981.7201 USD
+  - 24h Volume: $45454591581.310646 USD
+  - 24h Change: -1.3612136334555047%
 
 ## Trending Coins
 - **Sun Token (SUN)**
-  - Market Cap Rank: 348
-  - Price (BTC): 2.55020273759308e-07
+  - Market Cap Rank: 347
+  - Price (BTC): 2.6028204910164757e-07
   - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 945
-  - Price (BTC): 4.902980179217789e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
-
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 638
-  - Price (BTC): 9.563597309722095e-07
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
+- **XRP (XRP)**
+  - Market Cap Rank: 3
+  - Price (BTC): 2.8326815700358773e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 67
-  - Price (BTC): 1.7756520789870624e-05
+  - Price (BTC): 1.7109100482136577e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 19
-  - Price (BTC): 3.987098419396878e-06
+  - Price (BTC): 3.8464520808906155e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Shrub (SHRUB)**
-  - Market Cap Rank: 863
-  - Price (BTC): 5.488421855929202e-07
-  - [More Info](https://www.coingecko.com/en/coins/shrub)
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 939
+  - Price (BTC): 4.982574087881332e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
-- **bitsCrunch Token (BCUT)**
-  - Market Cap Rank: 984
-  - Price (BTC): 1.2786004053609102e-06
-  - [More Info](https://www.coingecko.com/en/coins/bitscrunch-token)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.8600096938569487e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Moo Deng (MOODENG)**
-  - Market Cap Rank: 183
-  - Price (BTC): 6.439503415881814e-06
-  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
+- **Verge (XVG)**
+  - Market Cap Rank: 339
+  - Price (BTC): 1.5957927196639218e-07
+  - [More Info](https://www.coingecko.com/en/coins/verge)
 
 - **Chainlink (LINK)**
   - Market Cap Rank: 18
-  - Price (BTC): 0.00025286764649920903
+  - Price (BTC): 0.000253385634292107
   - [More Info](https://www.coingecko.com/en/coins/chainlink)
+
+- **Stellar (XLM)**
+  - Market Cap Rank: 13
+  - Price (BTC): 5.940767227882173e-06
+  - [More Info](https://www.coingecko.com/en/coins/stellar)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 101
-  - Price (BTC): 1.5260683254041398e-05
+  - Price (BTC): 1.5397302925171992e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **aixbt by Virtuals (AIXBT)**
-  - Market Cap Rank: 318
-  - Price (BTC): 2.8963997450525433e-06
-  - [More Info](https://www.coingecko.com/en/coins/aixbt-by-virtuals)
+- **Moo Deng (MOODENG)**
+  - Market Cap Rank: 182
+  - Price (BTC): 6.438302460000122e-06
+  - [More Info](https://www.coingecko.com/en/coins/moo-deng)
 
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 63
-  - Price (BTC): 8.804435845285693e-05
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **VeChain (VET)**
-  - Market Cap Rank: 35
-  - Price (BTC): 7.044749737353815e-07
-  - [More Info](https://www.coingecko.com/en/coins/vechain)
+- **Cardano (ADA)**
+  - Market Cap Rank: 8
+  - Price (BTC): 1.3338576553884737e-05
+  - [More Info](https://www.coingecko.com/en/coins/cardano)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.0023738971976933042
+  - Price (BTC): 0.002383625369248111
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **VeChain (VET)**
+  - Market Cap Rank: 35
+  - Price (BTC): 6.92442537239374e-07
+  - [More Info](https://www.coingecko.com/en/coins/vechain)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 61
+  - Price (BTC): 9.240692605329913e-05
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 ## Posts
 - **Post ID: 1**
