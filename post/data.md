@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-03 16:12:30 UTC
+**Last updated:** 2024-12-03 17:09:35 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95978 USD
-  - Market Cap: $1895346827442.2305 USD
-  - 24h Volume: $94899387577.45506 USD
-  - 24h Change: -1.397877662887894%
+- **Bitcoin (BTC)**: $94968 USD
+  - Market Cap: $1878718344591.8691 USD
+  - 24h Volume: $94295155669.8391 USD
+  - 24h Change: -1.462869681193667%
 
-- **Ethereum (ETH)**: $3586.29 USD
-  - Market Cap: $430546196727.0409 USD
-  - 24h Volume: $42712188708.41593 USD
-  - 24h Change: -2.591928627593253%
+- **Ethereum (ETH)**: $3546.7 USD
+  - Market Cap: $426854826545.6082 USD
+  - 24h Volume: $40938061740.57542 USD
+  - 24h Change: -2.498229891297715%
 
 ## Trending Coins
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 573
+  - Price (BTC): 1.120839700217522e-06
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
+
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 914
-  - Price (BTC): 5.225515528542734e-13
+  - Market Cap Rank: 920
+  - Price (BTC): 5.177147084828304e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **CatSlap (SLAP)**
-  - Market Cap Rank: 868
-  - Price (BTC): 6.414291364275e-08
+  - Market Cap Rank: 873
+  - Price (BTC): 6.484942883807e-08
   - [More Info](https://www.coingecko.com/en/coins/catslap)
 
 - **Mog Coin (MOG)**
   - Market Cap Rank: 138
-  - Price (BTC): 2.5251888813033528e-11
+  - Price (BTC): 2.524429707645578e-11
   - [More Info](https://www.coingecko.com/en/coins/mog-coin)
-
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 577
-  - Price (BTC): 1.113853360498816e-06
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.6088020893822146e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 65
-  - Price (BTC): 1.773209178039322e-05
+  - Price (BTC): 1.7483255836789774e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Sun Token (SUN)**
-  - Market Cap Rank: 338
-  - Price (BTC): 2.706176088503161e-07
+  - Market Cap Rank: 336
+  - Price (BTC): 2.769685985255452e-07
   - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 198
-  - Price (BTC): 4.765722884865313e-11
+  - Market Cap Rank: 199
+  - Price (BTC): 4.761461879858223e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 3
+  - Price (BTC): 2.650427664060973e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Hedera (HBAR)**
   - Market Cap Rank: 20
-  - Price (BTC): 3.4009678345430063e-06
+  - Price (BTC): 3.540353751019807e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 45
-  - Price (BTC): 1.3584213842083381e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 57
-  - Price (BTC): 9.555720617036432e-05
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 21
-  - Price (BTC): 3.9456815319634455e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **TRON (TRX)**
   - Market Cap Rank: 11
-  - Price (BTC): 2.70940793926914e-06
+  - Price (BTC): 2.880498266860312e-06
   - [More Info](https://www.coingecko.com/en/coins/tron)
 
-- **IOTA (IOTA)**
-  - Market Cap Rank: 76
-  - Price (BTC): 5.590505242716508e-06
-  - [More Info](https://www.coingecko.com/en/coins/iota)
+- **Fantom (FTM)**
+  - Market Cap Rank: 49
+  - Price (BTC): 1.3365811319657786e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
+
+- **Sui (SUI)**
+  - Market Cap Rank: 21
+  - Price (BTC): 3.9125352150222186e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 59
+  - Price (BTC): 9.555426451890914e-05
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 94
-  - Price (BTC): 1.5887508262084572e-05
+  - Market Cap Rank: 96
+  - Price (BTC): 1.5645232420999144e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Chainlink (LINK)**
+  - Market Cap Rank: 17
+  - Price (BTC): 0.00024872817877646903
+  - [More Info](https://www.coingecko.com/en/coins/chainlink)
 
 ## Posts
 - **Post ID: 1**
