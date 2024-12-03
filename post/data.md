@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-03 22:09:47 UTC
+**Last updated:** 2024-12-03 23:09:44 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95896 USD
-  - Market Cap: $1897121583055.548 USD
-  - 24h Volume: $86518783150.07652 USD
-  - 24h Change: 0.5958153034116183%
+- **Bitcoin (BTC)**: $95976 USD
+  - Market Cap: $1900289102866.7424 USD
+  - 24h Volume: $90171483234.73471 USD
+  - 24h Change: 0.3471498347988142%
 
-- **Ethereum (ETH)**: $3608.08 USD
-  - Market Cap: $434585185473.09314 USD
-  - 24h Volume: $37689245395.7745 USD
-  - 24h Change: 0.06926256259215255%
+- **Ethereum (ETH)**: $3623.03 USD
+  - Market Cap: $436554605880.25793 USD
+  - 24h Volume: $39052373761.41964 USD
+  - 24h Change: -0.13568129229133832%
 
 ## Trending Coins
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 582
-  - Price (BTC): 1.1233729600237462e-06
+  - Market Cap Rank: 589
+  - Price (BTC): 1.1323690319016068e-06
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 771
-  - Price (BTC): 6.643875283119828e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
-
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 54
-  - Price (BTC): 0.00010966202338656204
+  - Market Cap Rank: 48
+  - Price (BTC): 0.00011557596090985664
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Reserve Rights (RSR)**
   - Market Cap Rank: 119
-  - Price (BTC): 2.282173906806628e-07
+  - Price (BTC): 2.3555906260816702e-07
   - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
 
 - **Ondo (ONDO)**
-  - Market Cap Rank: 65
-  - Price (BTC): 1.7469243464391105e-05
+  - Market Cap Rank: 66
+  - Price (BTC): 1.7616879391010944e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.7376166229578916e-05
+  - Price (BTC): 2.7106112830481558e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
+- **TRON (TRX)**
+  - Market Cap Rank: 11
+  - Price (BTC): 3.587965781677305e-06
+  - [More Info](https://www.coingecko.com/en/coins/tron)
+
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 197
-  - Price (BTC): 4.941709269714395e-11
+  - Market Cap Rank: 196
+  - Price (BTC): 4.992156862759964e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 950
-  - Price (BTC): 5.094743129642174e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0024766445921748804
-  - [More Info](https://www.coingecko.com/en/coins/solana)
+- **Opulous (OPUL)**
+  - Market Cap Rank: 767
+  - Price (BTC): 1.3488740247440722e-06
+  - [More Info](https://www.coingecko.com/en/coins/opulous)
 
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 93
-  - Price (BTC): 1.7008268097633212e-05
+  - Market Cap Rank: 91
+  - Price (BTC): 1.7851261458832912e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Hedera (HBAR)**
-  - Market Cap Rank: 19
-  - Price (BTC): 3.56888493538264e-06
+  - Market Cap Rank: 20
+  - Price (BTC): 3.4483252769053667e-06
   - [More Info](https://www.coingecko.com/en/coins/hedera)
 
+- **Sun Token (SUN)**
+  - Market Cap Rank: 304
+  - Price (BTC): 3.287983861682746e-07
+  - [More Info](https://www.coingecko.com/en/coins/sun-token)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0024537175486927785
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
 - **Mog Coin (MOG)**
-  - Market Cap Rank: 136
-  - Price (BTC): 2.652624268463783e-11
+  - Market Cap Rank: 138
+  - Price (BTC): 2.632769159528466e-11
   - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
 - **Chainlink (LINK)**
   - Market Cap Rank: 16
-  - Price (BTC): 0.00025774185062821335
+  - Price (BTC): 0.00025594318406930175
   - [More Info](https://www.coingecko.com/en/coins/chainlink)
 
-- **Opulous (OPUL)**
-  - Market Cap Rank: 776
-  - Price (BTC): 1.3318083735515727e-06
-  - [More Info](https://www.coingecko.com/en/coins/opulous)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 49
-  - Price (BTC): 1.3217464766954261e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 27
+  - Price (BTC): 2.1409037996716253e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
 
 ## Posts
 - **Post ID: 1**
