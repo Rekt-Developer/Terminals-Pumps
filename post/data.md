@@ -1,92 +1,92 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-04 06:15:27 UTC
+**Last updated:** 2024-12-04 07:10:34 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $96430 USD
-  - Market Cap: $1912000430648.4248 USD
-  - 24h Volume: $93150790786.36354 USD
-  - 24h Change: 0.2568280155304919%
+- **Bitcoin (BTC)**: $96524 USD
+  - Market Cap: $1909881550787.1792 USD
+  - 24h Volume: $91901579547.7442 USD
+  - 24h Change: 1.0508359172056454%
 
-- **Ethereum (ETH)**: $3676.78 USD
-  - Market Cap: $443970605470.0648 USD
-  - 24h Volume: $43795283224.94533 USD
-  - 24h Change: 0.5275128789220965%
+- **Ethereum (ETH)**: $3687.15 USD
+  - Market Cap: $444180300280.3985 USD
+  - 24h Volume: $43996840285.0444 USD
+  - 24h Change: 1.5656463605485542%
 
 ## Trending Coins
+- **Mode (MODE)**
+  - Market Cap Rank: 570
+  - Price (BTC): 4.644626339421683e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
+
+- **TRON (TRX)**
+  - Market Cap Rank: 11
+  - Price (BTC): 4.032566399395001e-06
+  - [More Info](https://www.coingecko.com/en/coins/tron)
+
 - **Sun Token (SUN)**
-  - Market Cap Rank: 282
-  - Price (BTC): 3.755240651222337e-07
+  - Market Cap Rank: 289
+  - Price (BTC): 3.6656913442451943e-07
   - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 44
-  - Price (BTC): 0.0001288134565408004
+  - Price (BTC): 0.00012850839814502148
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
-- **TRON (TRX)**
-  - Market Cap Rank: 11
-  - Price (BTC): 4.255672241164892e-06
-  - [More Info](https://www.coingecko.com/en/coins/tron)
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 734
+  - Price (BTC): 7.531808480979252e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 65
-  - Price (BTC): 1.90587183100046e-05
+  - Price (BTC): 1.863426824579098e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Mode (MODE)**
-  - Market Cap Rank: 573
-  - Price (BTC): 4.6336743506043036e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 96
-  - Price (BTC): 1.7143724155450687e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 732
-  - Price (BTC): 7.741289598072627e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **XRP (XRP)**
   - Market Cap Rank: 3
-  - Price (BTC): 2.7041768772218134e-05
+  - Price (BTC): 2.697548511873203e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
-- **Reserve Rights (RSR)**
-  - Market Cap Rank: 131
-  - Price (BTC): 2.109133735102099e-07
-  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
-
-- **Chainlink (LINK)**
-  - Market Cap Rank: 18
-  - Price (BTC): 0.0002511853915236852
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
-
-- **Hedera (HBAR)**
-  - Market Cap Rank: 20
-  - Price (BTC): 3.418648479927985e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
+- **Curve DAO (CRV)**
+  - Market Cap Rank: 113
+  - Price (BTC): 1.1105502219492279e-05
+  - [More Info](https://www.coingecko.com/en/coins/curve-dao-token)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002465651922671314
+  - Price (BTC): 0.002458120737150658
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
-- **Ski Mask Dog (SKI)**
-  - Market Cap Rank: 435
-  - Price (BTC): 1.83994006301336e-06
-  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
+- **Hedera (HBAR)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.364386002698646e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Fantom (FTM)**
-  - Market Cap Rank: 55
-  - Price (BTC): 1.3025289849625336e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.038241872207281216
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Reserve Rights (RSR)**
+  - Market Cap Rank: 133
+  - Price (BTC): 2.0146331606159654e-07
+  - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
+
+- **BNB (BNB)**
+  - Market Cap Rank: 6
+  - Price (BTC): 0.007870771778213579
+  - [More Info](https://www.coingecko.com/en/coins/bnb)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 97
+  - Price (BTC): 1.6883722014501332e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.829756102174924e-05
+  - Price (BTC): 3.839306636884862e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 ## Posts
