@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-04 18:14:37 UTC
+**Last updated:** 2024-12-04 19:11:16 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $95813 USD
-  - Market Cap: $1894549713473.1047 USD
-  - 24h Volume: $86275363039.94963 USD
-  - 24h Change: 0.19546010911775324%
+- **Bitcoin (BTC)**: $96315 USD
+  - Market Cap: $1906266876193.7927 USD
+  - 24h Volume: $83364605486.08893 USD
+  - 24h Change: 1.0377459067959987%
 
-- **Ethereum (ETH)**: $3829.6 USD
-  - Market Cap: $460471422002.3219 USD
-  - 24h Volume: $51904355164.9786 USD
-  - 24h Change: 7.248114017613484%
+- **Ethereum (ETH)**: $3827.89 USD
+  - Market Cap: $460968799601.6483 USD
+  - 24h Volume: $53717789336.17298 USD
+  - 24h Change: 7.207223808959016%
 
 ## Trending Coins
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 580
-  - Price (BTC): 1.1671000420754164e-06
+  - Market Cap Rank: 572
+  - Price (BTC): 1.2065832014891102e-06
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 842
-  - Price (BTC): 6.493717267014446e-13
+  - Market Cap Rank: 855
+  - Price (BTC): 6.415588866427383e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 797
-  - Price (BTC): 6.491773566553079e-07
+  - Market Cap Rank: 801
+  - Price (BTC): 6.534157577672661e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **BakerySwap (BAKE)**
-  - Market Cap Rank: 551
-  - Price (BTC): 4.359477084789615e-06
+  - Market Cap Rank: 549
+  - Price (BTC): 4.394388006664374e-06
   - [More Info](https://www.coingecko.com/en/coins/bakeryswap)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 555
-  - Price (BTC): 4.949337603436298e-07
+  - Market Cap Rank: 558
+  - Price (BTC): 4.939982365543678e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
-
-- **Opulous (OPUL)**
-  - Market Cap Rank: 768
-  - Price (BTC): 1.4207218052608777e-06
-  - [More Info](https://www.coingecko.com/en/coins/opulous)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 48
-  - Price (BTC): 0.00012266871867501548
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.5291946869501486e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Qubic (QUBIC)**
   - Market Cap Rank: 209
-  - Price (BTC): 4.631712024352403e-11
+  - Price (BTC): 4.6645596688038635e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 50
+  - Price (BTC): 0.00011974654615621909
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Reserve Rights (RSR)**
   - Market Cap Rank: 123
-  - Price (BTC): 2.4556335624956273e-07
+  - Price (BTC): 2.3496959560124106e-07
   - [More Info](https://www.coingecko.com/en/coins/reserve-rights)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03995372834847628
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Opulous (OPUL)**
+  - Market Cap Rank: 768
+  - Price (BTC): 1.424596060360042e-06
+  - [More Info](https://www.coingecko.com/en/coins/opulous)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0023999089666115886
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Gigachad (GIGA)**
-  - Market Cap Rank: 229
-  - Price (BTC): 5.457013885331392e-07
-  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
+- **XRP (XRP)**
+  - Market Cap Rank: 3
+  - Price (BTC): 2.5200971808147564e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 68
-  - Price (BTC): 1.9539348927346957e-05
+  - Price (BTC): 1.902098168695363e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
-- **Chainlink (LINK)**
-  - Market Cap Rank: 17
-  - Price (BTC): 0.0002578110461405472
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+- **Gigachad (GIGA)**
+  - Market Cap Rank: 229
+  - Price (BTC): 5.402449166386278e-07
+  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.0497450304279997e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 27
+  - Price (BTC): 2.212897090096573e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 96
+  - Price (BTC): 1.7112128762433968e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 ## Posts
 - **Post ID: 1**
