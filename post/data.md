@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 03:29:11 UTC
+**Last updated:** 2024-12-05 04:13:10 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $103108 USD
-  - Market Cap: $2040538365532.7363 USD
-  - 24h Volume: $117040643166.48181 USD
-  - 24h Change: 7.7686203067494395%
+- **Bitcoin (BTC)**: $103332 USD
+  - Market Cap: $2044816209009.009 USD
+  - 24h Volume: $135888700554.01021 USD
+  - 24h Change: 7.8563961615999895%
 
-- **Ethereum (ETH)**: $3869.12 USD
-  - Market Cap: $467765323180.01416 USD
-  - 24h Volume: $58261849919.385445 USD
-  - 24h Change: 5.671809616369039%
+- **Ethereum (ETH)**: $3855.04 USD
+  - Market Cap: $462922782696.5609 USD
+  - 24h Volume: $65863889934.559746 USD
+  - 24h Change: 5.092903067238164%
 
 ## Trending Coins
+- **Render (RENDER)**
+  - Market Cap Rank: 33
+  - Price (BTC): 0.00010502020548831422
+  - [More Info](https://www.coingecko.com/en/coins/render)
+
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 562
-  - Price (BTC): 4.523238585933042e-07
+  - Market Cap Rank: 564
+  - Price (BTC): 4.465283911495387e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Sui (SUI)**
-  - Market Cap Rank: 21
-  - Price (BTC): 3.854388164657381e-05
+  - Market Cap Rank: 22
+  - Price (BTC): 3.676886388959052e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **XRP (XRP)**
   - Market Cap Rank: 4
-  - Price (BTC): 2.2650583079930017e-05
+  - Price (BTC): 2.182227856043251e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 47
-  - Price (BTC): 0.00011251769103260106
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Render (RENDER)**
-  - Market Cap Rank: 37
-  - Price (BTC): 0.00010264312743388419
-  - [More Info](https://www.coingecko.com/en/coins/render)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002283382725353788
+  - Price (BTC): 0.0022611067632308463
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 45
+  - Price (BTC): 0.00011913817942590086
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
+
 - **Gigachad (GIGA)**
-  - Market Cap Rank: 239
-  - Price (BTC): 4.778556757670644e-07
+  - Market Cap Rank: 243
+  - Price (BTC): 4.6519006799930705e-07
   - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 67
-  - Price (BTC): 1.7138665067798306e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 97
-  - Price (BTC): 1.5777772802300433e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.03765128860398818
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
 - **Stacks (STX)**
   - Market Cap Rank: 43
-  - Price (BTC): 2.864076377154131e-05
+  - Price (BTC): 2.775096669420876e-05
   - [More Info](https://www.coingecko.com/en/coins/stacks)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 27
-  - Price (BTC): 2.0797007272465602e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Hedera (HBAR)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.9500048515014715e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **Dogecoin (DOGE)**
   - Market Cap Rank: 7
-  - Price (BTC): 4.270104623515339e-06
+  - Price (BTC): 4.245055596027174e-06
   - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.03717978107760341
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 26
+  - Price (BTC): 2.054769408367663e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Puffer (PUFFER)**
+  - Market Cap Rank: 748
+  - Price (BTC): 6.742926836650564e-06
+  - [More Info](https://www.coingecko.com/en/coins/puffer)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 68
+  - Price (BTC): 1.666228836169896e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 99
+  - Price (BTC): 1.5377418724519886e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 ## Posts
 - **Post ID: 1**
