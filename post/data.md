@@ -1,38 +1,38 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 09:11:32 UTC
+**Last updated:** 2024-12-05 10:11:51 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $102828 USD
-  - Market Cap: $2036438031302.1348 USD
-  - 24h Volume: $163265868831.90698 USD
-  - 24h Change: 6.215516414667679%
+- **Bitcoin (BTC)**: $102947 USD
+  - Market Cap: $2035072507604.0535 USD
+  - 24h Volume: $165731231198.87152 USD
+  - 24h Change: 6.329102999369766%
 
-- **Ethereum (ETH)**: $3910.72 USD
-  - Market Cap: $471158715779.83093 USD
-  - 24h Volume: $69392272973.23227 USD
-  - 24h Change: 5.390858166704496%
+- **Ethereum (ETH)**: $3927.29 USD
+  - Market Cap: $473061598878.1121 USD
+  - 24h Volume: $70222659535.39682 USD
+  - 24h Change: 5.436883126761625%
 
 ## Trending Coins
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 43
-  - Price (BTC): 0.0001305482460590979
+  - Price (BTC): 0.00012673746284843748
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Sui (SUI)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.717715178772727e-05
-  - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Render (RENDER)**
   - Market Cap Rank: 37
-  - Price (BTC): 9.939424738263054e-05
+  - Price (BTC): 9.801759644705717e-05
   - [More Info](https://www.coingecko.com/en/coins/render)
 
-- **Mode (MODE)**
-  - Market Cap Rank: 571
-  - Price (BTC): 4.5227573888612216e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
+- **Sui (SUI)**
+  - Market Cap Rank: 22
+  - Price (BTC): 3.7304673037751095e-05
+  - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 66
+  - Price (BTC): 1.7281187763202026e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
@@ -41,53 +41,53 @@
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 27
-  - Price (BTC): 2.0968841248574746e-10
+  - Price (BTC): 2.109927093284244e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002294256987983321
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 66
-  - Price (BTC): 1.7154730001686452e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.370632676671078e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03800913352316318
+  - Price (BTC): 0.03819434982422867
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023122525388611587
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 3
+  - Price (BTC): 2.3408827206642794e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Morpho (MORPHO)**
+  - Market Cap Rank: 353
+  - Price (BTC): 1.8631037907663216e-05
+  - [More Info](https://www.coingecko.com/en/coins/morpho)
+
+- **Ski Mask Dog (SKI)**
+  - Market Cap Rank: 298
+  - Price (BTC): 3.375166883071949e-06
+  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
 
 - **JasmyCoin (JASMY)**
   - Market Cap Rank: 71
-  - Price (BTC): 4.837604702159632e-07
+  - Price (BTC): 4.867230862500781e-07
   - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
 
-- **Morpho (MORPHO)**
-  - Market Cap Rank: 359
-  - Price (BTC): 1.8118565791013773e-05
-  - [More Info](https://www.coingecko.com/en/coins/morpho)
+- **Hedera (HBAR)**
+  - Market Cap Rank: 21
+  - Price (BTC): 2.9414409482833755e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
-- **Chainlink (LINK)**
-  - Market Cap Rank: 17
-  - Price (BTC): 0.00023365839827994725
-  - [More Info](https://www.coingecko.com/en/coins/chainlink)
+- **Mode (MODE)**
+  - Market Cap Rank: 573
+  - Price (BTC): 4.5023461972619147e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
 
-- **Polkadot (DOT)**
-  - Market Cap Rank: 16
-  - Price (BTC): 0.00010423296408272675
-  - [More Info](https://www.coingecko.com/en/coins/polkadot)
-
-- **Avalanche (AVAX)**
-  - Market Cap Rank: 12
-  - Price (BTC): 0.0005086767779500113
-  - [More Info](https://www.coingecko.com/en/coins/avalanche)
+- **Ethena (ENA)**
+  - Market Cap Rank: 64
+  - Price (BTC): 9.349818956568203e-06
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
 
 ## Posts
 - **Post ID: 1**
