@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 20:11:58 UTC
+**Last updated:** 2024-12-05 21:09:39 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98462 USD
-  - Market Cap: $1946880202680.4602 USD
-  - 24h Volume: $185683997865.30475 USD
-  - 24h Change: 0.44044307150680995%
+- **Bitcoin (BTC)**: $99314 USD
+  - Market Cap: $1963452620599.466 USD
+  - 24h Volume: $174585780884.056 USD
+  - 24h Change: 0.4199937052572351%
 
-- **Ethereum (ETH)**: $3813.11 USD
-  - Market Cap: $458987788018.7882 USD
-  - 24h Volume: $61280516524.95023 USD
-  - 24h Change: -1.327268673467147%
+- **Ethereum (ETH)**: $3833.16 USD
+  - Market Cap: $461217101155.747 USD
+  - 24h Volume: $59208284621.847015 USD
+  - 24h Change: -1.1959205840679143%
 
 ## Trending Coins
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 619
-  - Price (BTC): 1.0497241531094688e-06
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 849
-  - Price (BTC): 6.335270692690151e-13
+  - Market Cap Rank: 851
+  - Price (BTC): 6.233905185347501e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 577
-  - Price (BTC): 4.6714451495514485e-07
+  - Market Cap Rank: 572
+  - Price (BTC): 4.6845205746692833e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 4.150945547980704e-05
+  - Price (BTC): 4.1632243439461674e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 611
+  - Price (BTC): 1.0397880562194085e-06
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 44
-  - Price (BTC): 0.00012405575635696627
+  - Price (BTC): 0.0001272761072023819
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **JasmyCoin (JASMY)**
-  - Market Cap Rank: 67
-  - Price (BTC): 5.540539048413089e-07
+  - Market Cap Rank: 68
+  - Price (BTC): 5.378232003438176e-07
   - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
 
-- **Ondo (ONDO)**
-  - Market Cap Rank: 70
-  - Price (BTC): 1.7161446743794766e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002344235841134531
+  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
+- **Ondo (ONDO)**
+  - Market Cap Rank: 70
+  - Price (BTC): 1.716470748283127e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
 - **XRP (XRP)**
   - Market Cap Rank: 4
-  - Price (BTC): 2.353656044612461e-05
+  - Price (BTC): 2.3276815047887558e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Fantom (FTM)**
-  - Market Cap Rank: 53
-  - Price (BTC): 1.288709231760953e-05
-  - [More Info](https://www.coingecko.com/en/coins/fantom)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.002348351168498405
-  - [More Info](https://www.coingecko.com/en/coins/solana)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 27
-  - Price (BTC): 2.1301181473454757e-10
+  - Price (BTC): 2.1427566115347812e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 92
-  - Price (BTC): 1.673179838377212e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **Fantom (FTM)**
+  - Market Cap Rank: 51
+  - Price (BTC): 1.3271331278932687e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
 
 - **Render (RENDER)**
-  - Market Cap Rank: 38
-  - Price (BTC): 9.85469080667651e-05
+  - Market Cap Rank: 39
+  - Price (BTC): 9.843901048744502e-05
   - [More Info](https://www.coingecko.com/en/coins/render)
 
-- **Bittensor (TAO)**
-  - Market Cap Rank: 39
-  - Price (BTC): 0.006838032051182529
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 95
+  - Price (BTC): 1.6422173321497463e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 22
+  - Price (BTC): 2.8582732444453836e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 ## Posts
 - **Post ID: 1**
