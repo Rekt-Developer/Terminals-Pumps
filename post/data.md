@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 04:13:10 UTC
+**Last updated:** 2024-12-05 05:11:17 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $103332 USD
-  - Market Cap: $2044816209009.009 USD
-  - 24h Volume: $135888700554.01021 USD
-  - 24h Change: 7.8563961615999895%
+- **Bitcoin (BTC)**: $103407 USD
+  - Market Cap: $2044130017257.981 USD
+  - 24h Volume: $141537330919.53506 USD
+  - 24h Change: 7.60251559893985%
 
-- **Ethereum (ETH)**: $3855.04 USD
-  - Market Cap: $462922782696.5609 USD
-  - 24h Volume: $65863889934.559746 USD
-  - 24h Change: 5.092903067238164%
+- **Ethereum (ETH)**: $3864.13 USD
+  - Market Cap: $465535641396.9833 USD
+  - 24h Volume: $62328571039.48374 USD
+  - 24h Change: 5.141023384802859%
 
 ## Trending Coins
 - **Render (RENDER)**
-  - Market Cap Rank: 33
-  - Price (BTC): 0.00010502020548831422
+  - Market Cap Rank: 37
+  - Price (BTC): 9.458097132430599e-05
   - [More Info](https://www.coingecko.com/en/coins/render)
+
+- **Mode (MODE)**
+  - Market Cap Rank: 572
+  - Price (BTC): 4.4093256231596854e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 45
+  - Price (BTC): 0.00011965932290140974
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Bitcoin (BTC)**
   - Market Cap Rank: 1
   - Price (BTC): 1.0
   - [More Info](https://www.coingecko.com/en/coins/bitcoin)
 
-- **Mode (MODE)**
-  - Market Cap Rank: 564
-  - Price (BTC): 4.465283911495387e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
-
 - **Sui (SUI)**
   - Market Cap Rank: 22
-  - Price (BTC): 3.676886388959052e-05
+  - Price (BTC): 3.6555387285446685e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 4
-  - Price (BTC): 2.182227856043251e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
-
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0022611067632308463
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 45
-  - Price (BTC): 0.00011913817942590086
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Gigachad (GIGA)**
-  - Market Cap Rank: 243
-  - Price (BTC): 4.6519006799930705e-07
-  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
-
-- **Stacks (STX)**
-  - Market Cap Rank: 43
-  - Price (BTC): 2.775096669420876e-05
-  - [More Info](https://www.coingecko.com/en/coins/stacks)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.245055596027174e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03717978107760341
+  - Price (BTC): 0.03741649536973271
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.002293368587503
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
 - **Pepe (PEPE)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.054769408367663e-10
+  - Market Cap Rank: 25
+  - Price (BTC): 2.141641948549849e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Puffer (PUFFER)**
-  - Market Cap Rank: 748
-  - Price (BTC): 6.742926836650564e-06
-  - [More Info](https://www.coingecko.com/en/coins/puffer)
+- **XRP (XRP)**
+  - Market Cap Rank: 4
+  - Price (BTC): 2.2258146539624798e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 117
+  - Price (BTC): 1.769681859474056e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
+- **Fantom (FTM)**
+  - Market Cap Rank: 58
+  - Price (BTC): 1.1752405713757073e-05
+  - [More Info](https://www.coingecko.com/en/coins/fantom)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.432054164729344e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **Ondo (ONDO)**
-  - Market Cap Rank: 68
-  - Price (BTC): 1.666228836169896e-05
+  - Market Cap Rank: 67
+  - Price (BTC): 1.6886297490141686e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 99
-  - Price (BTC): 1.5377418724519886e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **Gigachad (GIGA)**
+  - Market Cap Rank: 240
+  - Price (BTC): 4.847193387353227e-07
+  - [More Info](https://www.coingecko.com/en/coins/gigachad-2)
+
+- **Shiba Inu (SHIB)**
+  - Market Cap Rank: 13
+  - Price (BTC): 3.134214048751913e-10
+  - [More Info](https://www.coingecko.com/en/coins/shiba-inu)
 
 ## Posts
 - **Post ID: 1**
