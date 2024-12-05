@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 17:09:21 UTC
+**Last updated:** 2024-12-05 18:12:37 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $101060 USD
-  - Market Cap: $2000384374659.88 USD
-  - 24h Volume: $177757915596.49756 USD
-  - 24h Change: 6.265326128526268%
+- **Bitcoin (BTC)**: $101356 USD
+  - Market Cap: $2008089299251.6614 USD
+  - 24h Volume: $181139209704.29483 USD
+  - 24h Change: 5.846552291968744%
 
-- **Ethereum (ETH)**: $3898.49 USD
-  - Market Cap: $470286518606.069 USD
-  - 24h Volume: $62463975368.85979 USD
-  - 24h Change: 3.154109408241543%
+- **Ethereum (ETH)**: $3922.58 USD
+  - Market Cap: $472038126475.5608 USD
+  - 24h Volume: $61136855472.61061 USD
+  - 24h Change: 2.495055160540991%
 
 ## Trending Coins
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 586
-  - Price (BTC): 1.1318638036519486e-06
+  - Market Cap Rank: 600
+  - Price (BTC): 1.0789145493639373e-06
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 837
-  - Price (BTC): 6.349525181262653e-13
+  - Market Cap Rank: 850
+  - Price (BTC): 6.236754290595715e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
+- **MAD (MAD)**
+  - Market Cap Rank: 991
+  - Price (BTC): 4.308792026253686e-10
+  - [More Info](https://www.coingecko.com/en/coins/mad-2)
+
 - **Mode (MODE)**
-  - Market Cap Rank: 579
-  - Price (BTC): 4.5646997390485525e-07
+  - Market Cap Rank: 582
+  - Price (BTC): 4.5626927851557765e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 4.142863512077523e-05
+  - Price (BTC): 4.1579054363145634e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Hyperliquid (HYPE)**
-  - Market Cap Rank: 44
-  - Price (BTC): 0.00012467748146160307
+  - Market Cap Rank: 43
+  - Price (BTC): 0.00012669122791128645
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **JasmyCoin (JASMY)**
-  - Market Cap Rank: 68
-  - Price (BTC): 5.327131997536234e-07
-  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
 
 - **Render (RENDER)**
   - Market Cap Rank: 39
-  - Price (BTC): 9.89135434028453e-05
+  - Price (BTC): 9.92930372043971e-05
   - [More Info](https://www.coingecko.com/en/coins/render)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 70
-  - Price (BTC): 1.727371047736656e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.00236968600282567
+  - Price (BTC): 0.0023734055529860652
   - [More Info](https://www.coingecko.com/en/coins/solana)
 
+- **JasmyCoin (JASMY)**
+  - Market Cap Rank: 68
+  - Price (BTC): 5.366633506418484e-07
+  - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 27
+  - Price (BTC): 2.166035154439013e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 91
-  - Price (BTC): 1.686746436850631e-05
+  - Market Cap Rank: 90
+  - Price (BTC): 1.7194853793624933e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **Worldcoin (WLD)**
-  - Market Cap Rank: 64
-  - Price (BTC): 3.9998244511149445e-05
-  - [More Info](https://www.coingecko.com/en/coins/worldcoin)
-
-- **Bittensor (TAO)**
-  - Market Cap Rank: 37
-  - Price (BTC): 0.007091105539522311
-  - [More Info](https://www.coingecko.com/en/coins/bittensor)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.3825608413856713e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Ondo (ONDO)**
+  - Market Cap Rank: 70
+  - Price (BTC): 1.7346228902166207e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03860332496891361
+  - Price (BTC): 0.03872628245494059
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.323421490274002e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
+- **XRP (XRP)**
+  - Market Cap Rank: 3
+  - Price (BTC): 2.3896186422258587e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Worldcoin (WLD)**
+  - Market Cap Rank: 64
+  - Price (BTC): 3.922834861128405e-05
+  - [More Info](https://www.coingecko.com/en/coins/worldcoin)
 
 ## Posts
 - **Post ID: 1**
