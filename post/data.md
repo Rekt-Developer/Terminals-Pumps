@@ -1,57 +1,62 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-05 15:11:02 UTC
+**Last updated:** 2024-12-05 16:12:52 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $103450 USD
-  - Market Cap: $2045015897425.2407 USD
-  - 24h Volume: $167758284057.35684 USD
-  - 24h Change: 7.507529664359579%
+- **Bitcoin (BTC)**: $101491 USD
+  - Market Cap: $2014039999568.7998 USD
+  - 24h Volume: $178220026125.92944 USD
+  - 24h Change: 6.389806428900526%
 
-- **Ethereum (ETH)**: $3933.87 USD
-  - Market Cap: $473718586183.56714 USD
-  - 24h Volume: $64856821711.871056 USD
-  - 24h Change: 3.337871712633351%
+- **Ethereum (ETH)**: $3893.61 USD
+  - Market Cap: $469647025364.9815 USD
+  - 24h Volume: $64894204900.39836 USD
+  - 24h Change: 2.026947276065026%
 
 ## Trending Coins
 - **Vita Inu (VINU)**
   - Market Cap Rank: 839
-  - Price (BTC): 6.274125528888732e-13
+  - Price (BTC): 6.329691016219548e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 4.176781118861391e-05
+  - Price (BTC): 4.265590362773921e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
+
+- **Mode (MODE)**
+  - Market Cap Rank: 579
+  - Price (BTC): 4.5222908864076507e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 43
-  - Price (BTC): 0.0001279477640129632
+  - Price (BTC): 0.0001264596218546816
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002333194195926602
+  - Price (BTC): 0.0023570087558765188
   - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Render (RENDER)**
-  - Market Cap Rank: 37
-  - Price (BTC): 9.570940351614965e-05
-  - [More Info](https://www.coingecko.com/en/coins/render)
 
 - **Ondo (ONDO)**
   - Market Cap Rank: 69
-  - Price (BTC): 1.696834199425038e-05
+  - Price (BTC): 1.7200978765694708e-05
   - [More Info](https://www.coingecko.com/en/coins/ondo)
 
-- **Mode (MODE)**
-  - Market Cap Rank: 580
-  - Price (BTC): 4.446252956878957e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
+- **Render (RENDER)**
+  - Market Cap Rank: 38
+  - Price (BTC): 9.709257325746289e-05
+  - [More Info](https://www.coingecko.com/en/coins/render)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.333638214951614e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 - **XRP (XRP)**
   - Market Cap Rank: 4
-  - Price (BTC): 2.2739958165096263e-05
+  - Price (BTC): 2.3327699066776768e-05
   - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **Bitcoin (BTC)**
@@ -61,33 +66,28 @@
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.03805743106124066
+  - Price (BTC): 0.03835917739903309
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
 
-- **MAD (MAD)**
-  - Market Cap Rank: 996
-  - Price (BTC): 4.0727528767619057e-10
-  - [More Info](https://www.coingecko.com/en/coins/mad-2)
+- **Pepe (PEPE)**
+  - Market Cap Rank: 27
+  - Price (BTC): 2.169408201038629e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 95
+  - Price (BTC): 1.639388028357811e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **JasmyCoin (JASMY)**
   - Market Cap Rank: 71
-  - Price (BTC): 4.850074303975841e-07
+  - Price (BTC): 4.888045039782975e-07
   - [More Info](https://www.coingecko.com/en/coins/jasmycoin)
 
-- **Pepe (PEPE)**
-  - Market Cap Rank: 26
-  - Price (BTC): 2.1554872185525983e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Hedera (HBAR)**
-  - Market Cap Rank: 22
-  - Price (BTC): 2.855003388163825e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
-
-- **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 97
-  - Price (BTC): 1.5934817245763003e-05
-  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
+- **Ski Mask Dog (SKI)**
+  - Market Cap Rank: 305
+  - Price (BTC): 3.240750604923099e-06
+  - [More Info](https://www.coingecko.com/en/coins/ski-mask-dog)
 
 ## Posts
 - **Post ID: 1**
