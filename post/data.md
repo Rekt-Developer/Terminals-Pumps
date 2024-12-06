@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-06 11:08:41 UTC
+**Last updated:** 2024-12-06 12:19:32 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $98337 USD
-  - Market Cap: $1946014898084.7046 USD
-  - 24h Volume: $157846878019.48734 USD
-  - 24h Change: -3.9106797224598693%
+- **Bitcoin (BTC)**: $98411 USD
+  - Market Cap: $1948321877470.2432 USD
+  - 24h Volume: $145423996218.2218 USD
+  - 24h Change: -4.240372408478269%
 
-- **Ethereum (ETH)**: $3878.02 USD
-  - Market Cap: $466881946768.5323 USD
-  - 24h Volume: $54242156765.77667 USD
-  - 24h Change: -1.224529307810419%
+- **Ethereum (ETH)**: $3882.5 USD
+  - Market Cap: $467784395097.0555 USD
+  - 24h Volume: $52773062737.65086 USD
+  - 24h Change: -1.1818844740277135%
 
 ## Trending Coins
 - **Across Protocol (ACX)**
-  - Market Cap Rank: 191
-  - Price (BTC): 1.4395466957597008e-05
+  - Market Cap Rank: 211
+  - Price (BTC): 1.2441201201269294e-05
   - [More Info](https://www.coingecko.com/en/coins/across-protocol)
 
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 665
-  - Price (BTC): 9.531466874103366e-07
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
-- **Orca (ORCA)**
-  - Market Cap Rank: 283
-  - Price (BTC): 7.173990403170491e-05
-  - [More Info](https://www.coingecko.com/en/coins/orca)
-
 - **Evan (EVAN)**
-  - Market Cap Rank: 973
-  - Price (BTC): 4.4643051939468277e-07
+  - Market Cap Rank: 967
+  - Price (BTC): 4.816910249817931e-07
   - [More Info](https://www.coingecko.com/en/coins/evan)
 
-- **Vita Inu (VINU)**
-  - Market Cap Rank: 819
-  - Price (BTC): 6.869375921081441e-13
-  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
+- **Qubic (QUBIC)**
+  - Market Cap Rank: 228
+  - Price (BTC): 4.132884169838707e-11
+  - [More Info](https://www.coingecko.com/en/coins/qubic)
 
-- **SynFutures (F)**
-  - Market Cap Rank: 544
-  - Price (BTC): 1.1091097083101667e-06
-  - [More Info](https://www.coingecko.com/en/coins/synfutures)
+- **Orca (ORCA)**
+  - Market Cap Rank: 279
+  - Price (BTC): 7.378818759881144e-05
+  - [More Info](https://www.coingecko.com/en/coins/orca)
+
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 670
+  - Price (BTC): 9.350813649299807e-07
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
+
+- **Vita Inu (VINU)**
+  - Market Cap Rank: 827
+  - Price (BTC): 6.690368273446519e-13
+  - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 4.261688496009052e-05
+  - Price (BTC): 4.265419694428671e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Mode (MODE)**
-  - Market Cap Rank: 563
-  - Price (BTC): 4.917915193033459e-07
-  - [More Info](https://www.coingecko.com/en/coins/mode)
+- **SynFutures (F)**
+  - Market Cap Rank: 588
+  - Price (BTC): 8.66545810133897e-07
+  - [More Info](https://www.coingecko.com/en/coins/synfutures)
 
-- **Koma Inu (KOMA)**
-  - Market Cap Rank: 741
-  - Price (BTC): 7.566399013639396e-07
-  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+- **Mode (MODE)**
+  - Market Cap Rank: 567
+  - Price (BTC): 4.803135693935016e-07
+  - [More Info](https://www.coingecko.com/en/coins/mode)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 43
-  - Price (BTC): 0.0001321195346375508
+  - Price (BTC): 0.00012825825406625105
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
-- **ZKsync (ZK)**
-  - Market Cap Rank: 145
-  - Price (BTC): 2.579805691706793e-06
-  - [More Info](https://www.coingecko.com/en/coins/zksync)
+- **Koma Inu (KOMA)**
+  - Market Cap Rank: 734
+  - Price (BTC): 7.785607052135018e-07
+  - [More Info](https://www.coingecko.com/en/coins/koma-inu)
+
+- **Bitcoin (BTC)**
+  - Market Cap Rank: 1
+  - Price (BTC): 1.0
+  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 4
+  - Price (BTC): 2.3276202173287598e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
 
 - **LayerZero (ZRO)**
-  - Market Cap Rank: 163
-  - Price (BTC): 7.260174194683218e-05
+  - Market Cap Rank: 157
+  - Price (BTC): 7.360585041713631e-05
   - [More Info](https://www.coingecko.com/en/coins/layerzero)
 
-- **Solana (SOL)**
-  - Market Cap Rank: 5
-  - Price (BTC): 0.0024029644915515114
-  - [More Info](https://www.coingecko.com/en/coins/solana)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 70
-  - Price (BTC): 1.6784846853583173e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.039441060521735724
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Grass (GRASS)**
+  - Market Cap Rank: 174
+  - Price (BTC): 3.033550947766215e-05
+  - [More Info](https://www.coingecko.com/en/coins/grass)
 
 ## Posts
 - **Post ID: 1**
