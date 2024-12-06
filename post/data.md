@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-06 21:09:32 UTC
+**Last updated:** 2024-12-06 22:09:36 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $101504 USD
-  - Market Cap: $2009507732002.7048 USD
-  - 24h Volume: $141866645814.5625 USD
-  - 24h Change: 2.2043357386517872%
+- **Bitcoin (BTC)**: $100823 USD
+  - Market Cap: $1992064746752.7512 USD
+  - 24h Volume: $144855263774.03076 USD
+  - 24h Change: 1.8874057296699653%
 
-- **Ethereum (ETH)**: $4047.93 USD
-  - Market Cap: $487948375444.5829 USD
-  - 24h Volume: $54395351681.13876 USD
-  - 24h Change: 5.59851430767277%
+- **Ethereum (ETH)**: $4041.7 USD
+  - Market Cap: $486020953301.05426 USD
+  - 24h Volume: $60770311525.14174 USD
+  - 24h Change: 4.850218006362137%
 
 ## Trending Coins
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 802
-  - Price (BTC): 7.226917861423964e-13
+  - Market Cap Rank: 799
+  - Price (BTC): 7.299875531595805e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Evan (EVAN)**
-  - Market Cap Rank: 854
-  - Price (BTC): 5.839782595674061e-07
+  - Market Cap Rank: 858
+  - Price (BTC): 5.685243210803693e-07
   - [More Info](https://www.coingecko.com/en/coins/evan)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 751
-  - Price (BTC): 7.400178767106906e-07
+  - Market Cap Rank: 750
+  - Price (BTC): 7.449647075803646e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
 - **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 704
-  - Price (BTC): 8.349921338637233e-07
+  - Market Cap Rank: 698
+  - Price (BTC): 8.534697437221166e-07
   - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Mode (MODE)**
-  - Market Cap Rank: 543
-  - Price (BTC): 5.125641385129347e-07
+  - Market Cap Rank: 548
+  - Price (BTC): 5.038728064153727e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
 
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 104
-  - Price (BTC): 2.1149957058024787e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+- **Self Chain (SLF)**
+  - Market Cap Rank: 922
+  - Price (BTC): 5.188765675585612e-06
+  - [More Info](https://www.coingecko.com/en/coins/self-chain)
 
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 243
-  - Price (BTC): 3.8614037053740606e-11
+  - Market Cap Rank: 238
+  - Price (BTC): 3.948299152972001e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
-
-- **Self Chain (SLF)**
-  - Market Cap Rank: 924
-  - Price (BTC): 5.157238375847585e-06
-  - [More Info](https://www.coingecko.com/en/coins/self-chain)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 4.185438505924413e-05
+  - Price (BTC): 4.217817008206877e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
 - **Mog Coin (MOG)**
-  - Market Cap Rank: 111
-  - Price (BTC): 3.67163788690991e-11
+  - Market Cap Rank: 110
+  - Price (BTC): 3.792808669719399e-11
   - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
-- **Artificial Superintelligence Alliance (FET)**
-  - Market Cap Rank: 34
-  - Price (BTC): 2.128367340565768e-05
-  - [More Info](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 72
-  - Price (BTC): 1.674279358630898e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
+- **Virtuals Protocol (VIRTUAL)**
+  - Market Cap Rank: 87
+  - Price (BTC): 1.8291023720280492e-05
+  - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002351787923815832
+  - Price (BTC): 0.0023714818978337955
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Hedera (HBAR)**
+  - Market Cap Rank: 20
+  - Price (BTC): 3.283958064797775e-06
+  - [More Info](https://www.coingecko.com/en/coins/hedera)
 
 - **Pepe (PEPE)**
   - Market Cap Rank: 27
-  - Price (BTC): 2.1689381812537634e-10
+  - Price (BTC): 2.1951945228664148e-10
   - [More Info](https://www.coingecko.com/en/coins/pepe)
 
-- **Hedera (HBAR)**
-  - Market Cap Rank: 22
-  - Price (BTC): 3.164353360145698e-06
-  - [More Info](https://www.coingecko.com/en/coins/hedera)
+- **Ondo (ONDO)**
+  - Market Cap Rank: 71
+  - Price (BTC): 1.695683120199994e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 108
+  - Price (BTC): 2.0874386496299453e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 ## Posts
 - **Post ID: 1**
