@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-06 04:13:17 UTC
+**Last updated:** 2024-12-06 05:10:43 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $97729 USD
-  - Market Cap: $1934368860485.3904 USD
-  - 24h Volume: $169445222785.48712 USD
-  - 24h Change: -5.4419911673968056%
+- **Bitcoin (BTC)**: $97766 USD
+  - Market Cap: $1935188516227.7402 USD
+  - 24h Volume: $171357867236.16235 USD
+  - 24h Change: -5.35010206042472%
 
-- **Ethereum (ETH)**: $3903.91 USD
-  - Market Cap: $470497694477.6467 USD
-  - 24h Volume: $56924725086.24076 USD
-  - 24h Change: 1.140746111995007%
+- **Ethereum (ETH)**: $3896.66 USD
+  - Market Cap: $469569382384.23926 USD
+  - 24h Volume: $57080605590.00138 USD
+  - 24h Change: 1.0136669785887%
 
 ## Trending Coins
 - **Mode (MODE)**
-  - Market Cap Rank: 564
-  - Price (BTC): 5.013692164961716e-07
+  - Market Cap Rank: 562
+  - Price (BTC): 5.030471807145704e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
-
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 640
-  - Price (BTC): 1.0264964960231274e-06
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
 
 - **Virtuals Protocol (VIRTUAL)**
   - Market Cap Rank: 82
-  - Price (BTC): 1.9660971252560154e-05
+  - Price (BTC): 1.9664785883442215e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
 - **Sui (SUI)**
   - Market Cap Rank: 20
-  - Price (BTC): 4.450971741774401e-05
+  - Price (BTC): 4.443514367442154e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
-
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 121
-  - Price (BTC): 3.2684396499110805e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 43
-  - Price (BTC): 0.000136597721952848
+  - Price (BTC): 0.00013711326601927932
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Morpho (MORPHO)**
-  - Market Cap Rank: 301
-  - Price (BTC): 2.4598302155406605e-05
+  - Market Cap Rank: 298
+  - Price (BTC): 2.525174737754578e-05
   - [More Info](https://www.coingecko.com/en/coins/morpho)
 
-- **Ethena (ENA)**
-  - Market Cap Rank: 64
-  - Price (BTC): 1.0679170138920002e-05
-  - [More Info](https://www.coingecko.com/en/coins/ethena)
+- **Mog Coin (MOG)**
+  - Market Cap Rank: 121
+  - Price (BTC): 3.2581658167719315e-11
+  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
 
-- **Bitcoin (BTC)**
-  - Market Cap Rank: 1
-  - Price (BTC): 1.0
-  - [More Info](https://www.coingecko.com/en/coins/bitcoin)
-
-- **Ondo (ONDO)**
-  - Market Cap Rank: 68
-  - Price (BTC): 1.7461367707284246e-05
-  - [More Info](https://www.coingecko.com/en/coins/ondo)
-
-- **Render (RENDER)**
-  - Market Cap Rank: 35
-  - Price (BTC): 0.00010814376154860113
-  - [More Info](https://www.coingecko.com/en/coins/render)
-
-- **XRP (XRP)**
-  - Market Cap Rank: 4
-  - Price (BTC): 2.3686788898241082e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **ZKsync (ZK)**
+  - Market Cap Rank: 146
+  - Price (BTC): 2.6531288990991126e-06
+  - [More Info](https://www.coingecko.com/en/coins/zksync)
 
 - **Ethereum (ETH)**
   - Market Cap Rank: 2
-  - Price (BTC): 0.039962372816564805
+  - Price (BTC): 0.03984508653919404
   - [More Info](https://www.coingecko.com/en/coins/ethereum)
-
-- **dYdX (DYDX)**
-  - Market Cap Rank: 104
-  - Price (BTC): 2.1872144805263138e-05
-  - [More Info](https://www.coingecko.com/en/coins/dydx-chain)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002479250952499156
+  - Price (BTC): 0.002461181800725142
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Render (RENDER)**
+  - Market Cap Rank: 37
+  - Price (BTC): 0.00010663428407062132
+  - [More Info](https://www.coingecko.com/en/coins/render)
+
+- **Ethena (ENA)**
+  - Market Cap Rank: 64
+  - Price (BTC): 1.0657697841053606e-05
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
+
+- **Ondo (ONDO)**
+  - Market Cap Rank: 70
+  - Price (BTC): 1.75696210123397e-05
+  - [More Info](https://www.coingecko.com/en/coins/ondo)
+
+- **XRP (XRP)**
+  - Market Cap Rank: 4
+  - Price (BTC): 2.389878114922219e-05
+  - [More Info](https://www.coingecko.com/en/coins/xrp)
+
+- **Goatseus Maximus (GOAT)**
+  - Market Cap Rank: 161
+  - Price (BTC): 8.453382695122815e-06
+  - [More Info](https://www.coingecko.com/en/coins/goatseus-maximus)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.454564043369508e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
