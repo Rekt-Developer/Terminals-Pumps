@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-07 04:13:39 UTC
+**Last updated:** 2024-12-07 05:09:38 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $99561 USD
-  - Market Cap: $1970302945817.2063 USD
-  - 24h Volume: $112358511418.27032 USD
-  - 24h Change: 1.9792417303187002%
+- **Bitcoin (BTC)**: $99493 USD
+  - Market Cap: $1971251961179.2178 USD
+  - 24h Volume: $115513973867.22769 USD
+  - 24h Change: 1.6682589402513024%
 
-- **Ethereum (ETH)**: $3997.53 USD
-  - Market Cap: $481382178575.5033 USD
-  - 24h Volume: $51772992329.71771 USD
-  - 24h Change: 2.5149371206337525%
+- **Ethereum (ETH)**: $3992.78 USD
+  - Market Cap: $481509913762.38586 USD
+  - 24h Volume: $51488114824.13987 USD
+  - 24h Change: 2.530231679500873%
 
 ## Trending Coins
 - **Mode (MODE)**
-  - Market Cap Rank: 534
-  - Price (BTC): 5.350644736330139e-07
+  - Market Cap Rank: 531
+  - Price (BTC): 5.444287882975739e-07
   - [More Info](https://www.coingecko.com/en/coins/mode)
-
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 671
-  - Price (BTC): 9.409154005233439e-07
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
-- **Hyperliquid (HYPE)**
-  - Market Cap Rank: 42
-  - Price (BTC): 0.0001468423656711502
-  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Evan (EVAN)**
   - Market Cap Rank: 860
-  - Price (BTC): 5.820537779229886e-07
+  - Price (BTC): 5.843418950755477e-07
   - [More Info](https://www.coingecko.com/en/coins/evan)
 
 - **Aerodrome Finance (AERO)**
   - Market Cap Rank: 104
-  - Price (BTC): 2.207561103134995e-05
+  - Price (BTC): 2.1821523561578765e-05
   - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
+- **Mog Coin (MOG)**
+  - Market Cap Rank: 106
+  - Price (BTC): 3.966947168382912e-11
+  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
+
+- **Hyperliquid (HYPE)**
+  - Market Cap Rank: 41
+  - Price (BTC): 0.00014909635553568776
+  - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 4.286556691309901e-05
+  - Price (BTC): 4.3435579765222816e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Mog Coin (MOG)**
-  - Market Cap Rank: 105
-  - Price (BTC): 4.000517470141031e-11
-  - [More Info](https://www.coingecko.com/en/coins/mog-coin)
-
 - **Virtuals Protocol (VIRTUAL)**
-  - Market Cap Rank: 87
-  - Price (BTC): 1.8304764721304028e-05
+  - Market Cap Rank: 89
+  - Price (BTC): 1.8158180794060486e-05
   - [More Info](https://www.coingecko.com/en/coins/virtual-protocol)
 
-- **XRP (XRP)**
-  - Market Cap Rank: 3
-  - Price (BTC): 2.4317938959965106e-05
-  - [More Info](https://www.coingecko.com/en/coins/xrp)
+- **Ethena (ENA)**
+  - Market Cap Rank: 61
+  - Price (BTC): 1.1423081168461442e-05
+  - [More Info](https://www.coingecko.com/en/coins/ethena)
 
-- **Ethereum (ETH)**
-  - Market Cap Rank: 2
-  - Price (BTC): 0.04015668403744588
-  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+- **Solana (SOL)**
+  - Market Cap Rank: 5
+  - Price (BTC): 0.0023640004111273472
+  - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **ZKsync (ZK)**
+  - Market Cap Rank: 145
+  - Price (BTC): 2.7081997944328966e-06
+  - [More Info](https://www.coingecko.com/en/coins/zksync)
+
+- **Pepe (PEPE)**
+  - Market Cap Rank: 27
+  - Price (BTC): 2.132480286408345e-10
+  - [More Info](https://www.coingecko.com/en/coins/pepe)
+
+- **Clearpool (CPOOL)**
+  - Market Cap Rank: 323
+  - Price (BTC): 4.382005598148149e-06
+  - [More Info](https://www.coingecko.com/en/coins/clearpool)
+
+- **Aethir (ATH)**
+  - Market Cap Rank: 270
+  - Price (BTC): 7.871752115751638e-07
+  - [More Info](https://www.coingecko.com/en/coins/aethir)
 
 - **Chainlink (LINK)**
   - Market Cap Rank: 16
-  - Price (BTC): 0.0002666625366591488
+  - Price (BTC): 0.00025953766659533026
   - [More Info](https://www.coingecko.com/en/coins/chainlink)
-
-- **Aethir (ATH)**
-  - Market Cap Rank: 272
-  - Price (BTC): 7.868955221263082e-07
-  - [More Info](https://www.coingecko.com/en/coins/aethir)
-
-- **peaq (PEAQ)**
-  - Market Cap Rank: 398
-  - Price (BTC): 5.72100740471812e-06
-  - [More Info](https://www.coingecko.com/en/coins/peaq)
 
 - **Kaspa (KAS)**
   - Market Cap Rank: 44
-  - Price (BTC): 1.7856685960706215e-06
+  - Price (BTC): 1.7848716577435715e-06
   - [More Info](https://www.coingecko.com/en/coins/kaspa)
-
-- **Orca (ORCA)**
-  - Market Cap Rank: 304
-  - Price (BTC): 6.46741887001394e-05
-  - [More Info](https://www.coingecko.com/en/coins/orca)
 
 ## Posts
 - **Post ID: 1**
