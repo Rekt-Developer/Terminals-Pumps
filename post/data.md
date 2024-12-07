@@ -1,93 +1,93 @@
 # Cryptocurrency Data
 
-**Last updated:** 2024-12-07 14:08:36 UTC
+**Last updated:** 2024-12-07 15:09:00 UTC
 
 ## Live Prices
-- **Bitcoin (BTC)**: $99369 USD
-  - Market Cap: $1969133639504.5637 USD
-  - 24h Volume: $79644815344.03981 USD
-  - 24h Change: 0.8747246220759874%
+- **Bitcoin (BTC)**: $99730 USD
+  - Market Cap: $1969435783441.017 USD
+  - 24h Volume: $90299665728.09128 USD
+  - 24h Change: 0.5718774920621995%
 
-- **Ethereum (ETH)**: $3991.82 USD
-  - Market Cap: $481660001193.4198 USD
-  - 24h Volume: $42909974741.83451 USD
-  - 24h Change: 2.825190753064512%
+- **Ethereum (ETH)**: $4005.42 USD
+  - Market Cap: $481743395680.665 USD
+  - 24h Volume: $42590006725.61126 USD
+  - 24h Change: 0.4189724095503144%
 
 ## Trending Coins
 - **Vita Inu (VINU)**
-  - Market Cap Rank: 838
-  - Price (BTC): 6.792504636903089e-13
+  - Market Cap Rank: 839
+  - Price (BTC): 6.839166729772606e-13
   - [More Info](https://www.coingecko.com/en/coins/vita-inu)
 
 - **Koma Inu (KOMA)**
-  - Market Cap Rank: 770
-  - Price (BTC): 7.232454213019993e-07
+  - Market Cap Rank: 759
+  - Price (BTC): 7.36611141783255e-07
   - [More Info](https://www.coingecko.com/en/coins/koma-inu)
 
-- **Bertram The Pomeranian (BERT)**
-  - Market Cap Rank: 656
-  - Price (BTC): 9.625858989531088e-07
-  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
-
 - **Sun Token (SUN)**
-  - Market Cap Rank: 326
-  - Price (BTC): 3.16002264724342e-07
+  - Market Cap Rank: 325
+  - Price (BTC): 3.1500293913906976e-07
   - [More Info](https://www.coingecko.com/en/coins/sun-token)
 
+- **Bertram The Pomeranian (BERT)**
+  - Market Cap Rank: 674
+  - Price (BTC): 9.270284489478249e-07
+  - [More Info](https://www.coingecko.com/en/coins/bertram-the-pomeranian)
+
 - **Qubic (QUBIC)**
-  - Market Cap Rank: 239
-  - Price (BTC): 4.023654508087079e-11
+  - Market Cap Rank: 243
+  - Price (BTC): 3.998992976810491e-11
   - [More Info](https://www.coingecko.com/en/coins/qubic)
 
 - **Baby Doge Coin (BABYDOGE)**
-  - Market Cap Rank: 198
-  - Price (BTC): 3.911957058184402e-14
+  - Market Cap Rank: 197
+  - Price (BTC): 4.0153589865289324e-14
   - [More Info](https://www.coingecko.com/en/coins/baby-doge-coin)
 
 - **Sui (SUI)**
   - Market Cap Rank: 21
-  - Price (BTC): 4.3934855805342645e-05
+  - Price (BTC): 4.3486519081744226e-05
   - [More Info](https://www.coingecko.com/en/coins/sui)
 
-- **Algorand (ALGO)**
-  - Market Cap Rank: 49
-  - Price (BTC): 4.8673659134199036e-06
-  - [More Info](https://www.coingecko.com/en/coins/algorand)
-
 - **Wilder World (WILD)**
-  - Market Cap Rank: 407
-  - Price (BTC): 6.341625527994332e-06
+  - Market Cap Rank: 400
+  - Price (BTC): 6.649311778314914e-06
   - [More Info](https://www.coingecko.com/en/coins/wilder-world)
-
-- **Dogecoin (DOGE)**
-  - Market Cap Rank: 7
-  - Price (BTC): 4.4921527974673036e-06
-  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
-
-- **Pepe (PEPE)**
-  - Market Cap Rank: 27
-  - Price (BTC): 2.235091688159833e-10
-  - [More Info](https://www.coingecko.com/en/coins/pepe)
-
-- **Super Champs (CHAMP)**
-  - Market Cap Rank: 826
-  - Price (BTC): 7.112353752368322e-07
-  - [More Info](https://www.coingecko.com/en/coins/super-champs)
 
 - **Hyperliquid (HYPE)**
   - Market Cap Rank: 41
-  - Price (BTC): 0.00014678694510835048
+  - Price (BTC): 0.0001487272031659367
   - [More Info](https://www.coingecko.com/en/coins/hyperliquid)
-
-- **Aerodrome Finance (AERO)**
-  - Market Cap Rank: 98
-  - Price (BTC): 2.3289405376848056e-05
-  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
 
 - **Solana (SOL)**
   - Market Cap Rank: 5
-  - Price (BTC): 0.002404283064460481
+  - Price (BTC): 0.0024337003602139117
   - [More Info](https://www.coingecko.com/en/coins/solana)
+
+- **Aerodrome Finance (AERO)**
+  - Market Cap Rank: 100
+  - Price (BTC): 2.318747884887284e-05
+  - [More Info](https://www.coingecko.com/en/coins/aerodrome-finance)
+
+- **Ethereum (ETH)**
+  - Market Cap Rank: 2
+  - Price (BTC): 0.0401848311726496
+  - [More Info](https://www.coingecko.com/en/coins/ethereum)
+
+- **peaq (PEAQ)**
+  - Market Cap Rank: 380
+  - Price (BTC): 6.348091680683164e-06
+  - [More Info](https://www.coingecko.com/en/coins/peaq)
+
+- **Algorand (ALGO)**
+  - Market Cap Rank: 46
+  - Price (BTC): 4.938916394188312e-06
+  - [More Info](https://www.coingecko.com/en/coins/algorand)
+
+- **Dogecoin (DOGE)**
+  - Market Cap Rank: 7
+  - Price (BTC): 4.507310222569302e-06
+  - [More Info](https://www.coingecko.com/en/coins/dogecoin)
 
 ## Posts
 - **Post ID: 1**
